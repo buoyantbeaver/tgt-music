@@ -1,4 +1,5 @@
 <h1>TGT-MUSIC</h1>
+<dd>An open-source PHP CMS for music/videos</dd>
 <p>Link to Admin Control Panel: admin.php</p>
 <p>Admin Components: control/media</p>
 <h3>Changelog</h3>

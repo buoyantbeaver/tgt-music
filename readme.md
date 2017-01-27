@@ -11,7 +11,7 @@
 	</ol>
 	</li>
 	
-	<li><p>Admin components</p>
+	<li><p>Admin entry translation</p>
 	<ol type="1">
 		<li>Media Library</li>
 		<li>Add New Media [on going]</li>

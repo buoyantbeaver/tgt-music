@@ -77,7 +77,7 @@ function ondown(obj,url,cls){obj.className=cls; window.location=url;}
 <table class="table table-hover">
     <tr >
     <td width="1%" align="center" nowrap class="menu"><input class=checkbox type=checkbox name=chkall id=chkall onclick=docheck(document.media_list.chkall.checked,0) value=checkall></td>
-    <td nowrap class="menu">Thumbnail</td>
+    <td nowrap class="menu text-center">Thumbnail</td>
       <td nowrap class="menu" width="60%">Tên album </td>
       <td width="20%" align="center" nowrap class="menu">Ca sĩ</td>
       <td width="10%" align="center" nowrap class="menu">Chức năng</td>					  
@@ -97,13 +97,13 @@ function ondown(obj,url,cls){obj.className=cls; window.location=url;}
 		$img_src = $arr_album[$i][3];
 ?>
 <tr onMouseOver="bgColor='#c9daf6'" onMouseOut="bgColor='#FFFFFF'">
-						  <td nowrap align="center"><input class=checkbox type=checkbox id=checkbox onclick=docheckone() name=checkbox[] value=<? echo $arr_album[$i][0];?>></td>
-                       <td align="center" nowrap ><img class=IMG_S src="<?=$img_src;?>"></td>	
-					  <td class="song_name" align="left" style="padding-left: 10px;" nowrap  ><a href="album.php?mode=edit&id=<? echo en_id($arr_album[$i][0]);?>" title="Edit this industry"><? echo $arr_album[$i][1];?></a><br> Người gửi : <? echo get_user($arr_album[$i][5]);?></td>						  
-					  <td align="center" nowrap  style="padding-left:7px" class="singer_name"><a href="singer.php?mode=edit&id=<? echo en_id($arr_album[$i][2]);?>" title="Edit this industry"><? echo $singer_name;?></a></td>
-				    <td align="center" nowrap  style="padding-left:7px"><a href="album.php?mode=edit&id=<? echo en_id($arr_album[$i][0]);?>" title="Edit this industry"><img src="../images/edit.png" width="16" height="16" border="0"></a> 
-						  <a href="album.php?del_id=<? echo en_id($arr_album[$i][0]);?>" title="Xóa danh mục này" ><img src="../images/b_delete.png" width="11" height="14" border="0"></a></td>
-						</tr>
+	<td nowrap align="center"><input class=checkbox type=checkbox id=checkbox onclick=docheckone() name=checkbox[] value=<? echo $arr_album[$i][0];?>></td>
+	<td align="center" nowrap ><img class=IMG_S src="<?=$img_src;?>"></td>	
+	<td class="song_name" align="left" style="padding-left: 10px;" nowrap  ><a href="album.php?mode=edit&id=<? echo en_id($arr_album[$i][0]);?>" title="Edit this industry"><? echo $arr_album[$i][1];?></a><br> Người gửi : <? echo get_user($arr_album[$i][5]);?></td>						  
+	<td align="center" nowrap  style="padding-left:7px" class="singer_name"><a href="singer.php?mode=edit&id=<? echo en_id($arr_album[$i][2]);?>" title="Edit this industry"><? echo $singer_name;?></a></td>
+	<td align="center" nowrap  style="padding-left:7px"><a href="album.php?mode=edit&id=<? echo en_id($arr_album[$i][0]);?>" title="Edit this industry"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></a> 
+		<a href="album.php?del_id=<? echo en_id($arr_album[$i][0]);?>" title="Xóa danh mục này" ><i class="fa fa-trash-o" aria-hidden="true"></i></a></td>
+	</tr>
 <? } ?>
 		<tr><td colspan=9 align="center" style="padding:5px;"><label>With selected:</label>
         <select name="selected_option" class="form-control findasong">
@@ -113,10 +113,8 @@ function ondown(obj,url,cls){obj.className=cls; window.location=url;}
         <option value="bo-top">Bỏ khỏi Top HOt</option>
         </select>        <button type="submit" name="do" class="btn btn-sm btn-primary"><?echo apply;?></button>
 		</form>
-        <tr><td colspan="7" height="1" bgcolor="#CCCCCC"></td></tr>
-                </table></td>
-              </tr>
-			  </table></div>
+	</table>	</td></tr>
+</table></div>
 </body>
 </html>
 <?

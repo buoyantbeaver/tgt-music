@@ -23,7 +23,7 @@ if (!ini_get('register_globals')) {
 }
 // cau hinh ket noi den csdl
 define('SERVER_HOST',			'localhost');
-define('DATABASE_NAME',			'songdjtgt');
+define('DATABASE_NAME',			'songdj');
 define('DATABASE_USER',			'root');
 define('DATABASE_PASS',			'');
 if (!$_SERVER['HTTP_USER_AGENT'] || !$_SERVER['REMOTE_ADDR']) exit();

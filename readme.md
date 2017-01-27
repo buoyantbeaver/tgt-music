@@ -8,8 +8,8 @@
 <ul>
 	<li><p>Responsive menu</p>
 	<ol type="1">
-		<li>Sidebar on desktop, "hamburger" on mobile</li>
-		<li>Some entry icons</li>
+		<li>Sidebar on desktop</li>
+		<li>"Hamburger" on mobile</li>
 	</ol>
 	</li>
 	

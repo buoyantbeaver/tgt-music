@@ -43,4 +43,4 @@
 </ul>
 <h4>Admin Translation</h4>
 <p>Some English entries</p>
-<h4>Move nomination files to folder "charts"</h4>
+<h4>Move bxh files to folder "charts"</h4>

@@ -12,7 +12,7 @@
 	</li>
 	
 	<li><p>Admin entry icons</p>
-		<ol><li>See by yourself [won't be updating here]<li></ol>
+		<ol><li>See by yourself [won't be updating here]</li></ol>
 	</li>
 	
 	<li><p>Admin entry translation</p>

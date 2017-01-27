@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:jwplayer="http://rss.jwpcdn.com/">
+<channel>
+	<item>
+		<title>Chỉ Anh Hiểu Em</title>
+		<description>Khắc Việt</description>
+		<jwplayer:source file="http://localhost/tgt2016/stream/data/z/2013/chi-anh-hieu-em-khac-viet/zwzc8wbz.mp3" type="video/mp4"/>
+		<jwplayer:image>upload/video/201603/1458327142-130957732827_3749_120x120.jpg</jwplayer:image>
+		<jwplayer:track file="http://localhost/tgt2016/lyric/EZEF690.xml" label="English" kind="captions" default="true" />
+		</item> 
+	<item>
+		<title>Người Không Đáng</title>
+		<description>Khắc Việt</description>
+		<jwplayer:source file="http://localhost/tgt2016/stream/data/z/2013/Nguoi-Khong-Dang-Khac-Viet/ZW7IAC7I.mp3" type="video/mp4"/>
+		<jwplayer:image>http://localhost/tgt2016/temp/img/no-img.jpg</jwplayer:image>
+		<jwplayer:track file="http://localhost/tgt2016/lyric/EZEF68F.xml" label="English" kind="captions" default="true" />
+	</item> 
+</channel>
+</rss>

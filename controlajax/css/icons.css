@@ -1,0 +1,36 @@
+#side ::before{
+	font-family: FontAwesome;
+    font-size: 20px;
+    padding: 0px 10px 0 5px;
+}
+
+.library::before {
+	content: "\f19c";
+}
+
+.albums::before {
+	content: "\f02d";
+}
+
+.artists::before {
+	content: "\f130";
+}
+
+.genres::before {
+	content: "\f0b1";
+}
+
+.members::before {
+	content: "\f0c0";
+}
+
+.system::before {
+	content: "\f085";
+}
+
+.advert::before {
+	content: "\f26c";
+}
+
+.news::before {
+	content: "\f1ea";

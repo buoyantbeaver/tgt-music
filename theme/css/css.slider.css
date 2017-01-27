@@ -1,0 +1,139 @@
+.kwick{
+    width:685px;
+    height:300px;
+    overflow:hidden;
+    position:relative;
+    box-shadow:0 0 5px rgba(0,0,0,0.4);
+    float: left;
+}
+
+.kwick li{
+    position:absolute;
+    top:0;
+    -moz-transition:all 0.5s ease-in-out;
+	-webkit-transition:all 0.5s ease-in-out;
+	-o-transition:all 0.5s ease-in-out;
+	-ms-transition:all 0.5s ease-in-out;
+	transition:all 0.5s ease-in-out;
+}
+
+.kwick li:nth-child(1){
+    left:0;
+}
+
+.kwick li:nth-child(2){
+    left:137px;
+}
+
+.kwick li:nth-child(3){
+    left:274px;
+}
+
+.kwick li:nth-child(4){
+    left:411px;
+}
+
+.kwick li:nth-child(5){
+    left:548px;
+}
+
+.kwick a{
+    position:relative;
+    display:block;
+    box-shadow:0 0 7px rgba(0,0,0,1)
+}
+
+.kwick img{
+    display:block;
+    width: 300px;
+    height: 300px;
+}
+
+.kwick p{
+    position:absolute;
+    left:0;
+    bottom:-50px;
+    width:260px;
+    padding:0 20px;
+    height:50px;
+    line-height:50px;
+    font-family:helvetica,arial,sans-serif;
+    color:#fff;
+    background-color:rgba(0,0,0,0.9);
+    text-shadow:0 1px 0 #000;
+    font-size:12px;
+    text-transform:uppercase;
+    letter-spacing:1px;
+	-moz-transition:all 0.5s ease;
+	-webkit-transition:all 0.5s ease;
+	-o-ztransition:all 0.5s ease;
+	-ms-transition:all 0.5s ease;
+	transition:all 0.5s ease;
+}
+
+.kwick:hover li:nth-child(2){
+	left:96.25px;
+}
+
+.kwick:hover li:nth-child(3){
+	left:192.5px;
+}
+
+.kwick:hover li:nth-child(4){
+	left:288.75px;
+}
+
+.kwick li:nth-child(1):hover ~ li:nth-child(5),
+.kwick li:nth-child(2):hover ~ li:nth-child(5),
+.kwick li:nth-child(3):hover ~ li:nth-child(5),
+.kwick li:nth-child(4):hover ~ li:nth-child(5)
+{
+    left:588.75px;
+}
+
+.kwick li:nth-child(1):hover ~ li:nth-child(4),
+.kwick li:nth-child(2):hover ~ li:nth-child(4),
+.kwick li:nth-child(3):hover ~ li:nth-child(4)
+{
+    left:492.5px;
+}
+
+.kwick li:nth-child(1):hover ~ li:nth-child(3),
+.kwick li:nth-child(2):hover ~ li:nth-child(3)
+{
+    left:396.25px;
+}
+
+.kwick li:nth-child(1):hover ~ li:nth-child(2){
+    left:300px;
+}
+
+.kwick li:nth-child(2):hover{
+	left:96.25px;
+}
+
+.kwick li:nth-child(3):hover{
+	left:192.5px;
+}
+
+.kwick li:nth-child(4):hover{
+	left:288.75px;
+}
+
+.kwick li:nth-child(5):hover{
+	left:385.25px;
+}
+
+.kwick li:hover p{
+	bottom:0;
+}
+
+.shadow{
+    position:relative;
+    margin-bottom: 20px;
+}
+
+.shadow .player_head {
+   	float: right;
+   	width: 240px;
+}

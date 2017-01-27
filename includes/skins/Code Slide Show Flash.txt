@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<time>10</time> 
+	<slide>
+		<image>http://tencuaban.com/image/zingflash.swf</image>
+
+	</slide>
+</data>

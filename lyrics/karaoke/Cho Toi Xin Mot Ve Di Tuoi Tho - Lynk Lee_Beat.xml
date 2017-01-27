@@ -1,0 +1,500 @@
+<tt xml:lang="vi" 
+	xmlns="http://www.w3.org/ns/ttml"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling"
+    xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+    xmlns:kar="http://code.google.com/p/as3-karaoke-player"> 
+	<head>
+		<metadata>
+			<ttm:title><![CDATA[Bài Hát: Cho Tôi Một Vé Đi Tuổi Thơ]]></ttm:title>
+			 <kar:composer>Lynk Lee</kar:composer> <!-- for info only -->
+			<ttm:desc><![CDATA[Sáng Tác: Lynk Lee<br/>Ca Sĩ: Lynk Lee<br/>Karaoke: tuannvbg@gmail.com]]></ttm:desc>
+			<ttm:copyright>Copyright (C) 2010 Thanh Tran - trongthanh@gmail.com</ttm:copyright>
+			<kar:version>1.0</kar:version> <!-- format version of this file -->
+			<kar:genre>Nhạc Trẻ</kar:genre> <!-- for info only -->
+			<kar:mood>Nhớ Nhung</kar:mood>
+			<kar:audio>http://k007.kiwi6.com/hotlink/dns6mi0z6a/Cho_Toi_Xin_Mot_Ve_Di_Tuoi_Tho_Beat_-_Lynk_Lee.mp3
+			</kar:audio>
+			<kar:autoPlay>true</kar:autoPlay>
+			<!--  kar:audio>audio/hanh_phuc_bat_tan.mp3</kar:audio -->
+		</metadata>
+	</head>
+	<body>				
+		<div style="m">
+		<p begin="00:01.811">Bài Hát: Cho Tôi Xin Một Vé Đi Tuổi Thơ</p>
+		</div>
+		<div style="m">
+		<p begin="00:04.811">Thể Hiện: Lynk Lee</p>
+		</div>
+		<div style="m">
+		<p begin="00:07.311">Lyrics: tuannvbg@gmail.com</p>
+		</div>
+		<div style="m">
+		<p begin="00:10.511">Date: 2014-08-28</p>
+		</div>
+		<div style="m">
+		<p begin="00:13.211"></p>
+		</div>
+		<div style="m">
+		<p begin="00:30.411">4</p>
+		</div>
+		<div style="m">
+		<p begin="00:31.511">3</p>
+		</div>
+		<div style="m">
+		<p begin="00:32.611">2</p>
+		</div>
+		<div style="m">
+		<p begin="00:33.511">1</p>
+		</div>
+		<div style="m">
+		<p begin="00:35.011">Cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="00:36.111">Một vé đi tuổi thơ</p>
+		</div>
+		<div style="m">
+		<p begin="00:38.311">Để trở về với</p>
+		</div>
+		<div style="m">
+		<p begin="00:39.611">Giấc mơ ngày xưa</p>
+		</div>
+		<div style="m">
+		<p begin="00:42.011">Bút mực, truyện tranh,</p>
+		</div>
+		<div style="m">
+		<p begin="00:43.811">Những gói bỏng trong ngăn bàn</p>
+		</div>
+		<div style="m">
+		<p begin="00:47.011"></p>
+		</div>
+		<div style="m">
+		<p begin="00:48.711">Cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="00:49.711">Về lại thời tập tô</p>
+		</div>
+		<div style="m">
+		<p begin="00:52.311">Để vẽ ông mặt trời</p>
+		</div>
+		<div style="m">
+		<p begin="00:53.911">Hiền như bố</p>
+		</div>
+		<div style="m">
+		<p begin="00:55.911">Những chiều rong chơi</p>
+		</div>
+		<div style="m">
+		<p begin="00:57.511">Say mê những món đồ hàng</p>
+		</div>
+		<div style="m">
+		<p begin="01:02.411">Cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="01:02.811"></p>
+		</div>
+		<div style="m">
+		<p begin="01:03.511">về lại mái trường xưa</p>
+		</div>
+		<div style="m">
+		<p begin="01:05.711">Dù trường thật bé</p>
+		</div>
+		<div style="m">
+		<p begin="01:07.111">Nhưng ước mơ thật to</p>
+		</div>
+		<div style="m">
+		<p begin="01:09.411">Từng ngày chăm lo,</p>
+		</div>
+		<div style="m">
+		<p begin="01:11.111">Cô giáo vui như mẹ hiền...</p>
+		</div>
+		<div style="m">
+		<p begin="01:14.711"></p>
+		</div>
+		<div style="m">
+		<p begin="01:16.011">Cho con xin</p>
+		</div>
+		<div style="m">
+		<p begin="01:17.111">về với ông bà thương</p>
+		</div>
+		<div style="m">
+		<p begin="01:19.111">Những chiều nhõng nhẽo</p>
+		</div>
+		<div style="m">
+		<p begin="01:20.711">Vòi tiền nhổ tóc sâu</p>
+		</div>
+		<div style="m">
+		<p begin="01:23.111">Mỗi sợi trắng tinh</p>
+		</div>
+		<div style="m">
+		<p begin="01:24.911">Con lấy bà 500 đồng...</p>
+		</div>
+		<div style="m">
+		<p begin="01:28.411"></p>
+		</div>
+		<div style="m">
+		<p begin="01:30.111">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="01:31.911">Một vé không hai,</p>
+		</div>
+		<div style="m">
+		<p begin="01:33.611">Mà dầu hôm nay</p>
+		</div>
+		<div style="m">
+		<p begin="01:35.111">Ga đông đường dài</p>
+		</div>
+		<div style="m">
+		<p begin="01:36.911">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="01:38.411">được trở về tuổi thơ,</p>
+		</div>
+		<div style="m">
+		<p begin="01:40.511">Ngây ngô với bao mộng mơ...</p>
+		</div>
+		<div style="m">
+		<p begin="01:42.511"></p>
+		</div>
+		<div style="m">
+		<p begin="01:43.811">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="01:45.511">Một vé không hai,</p>
+		</div>
+		<div style="m">
+		<p begin="01:47.311">Vé đi thôi</p>
+		</div>
+		<div style="m">
+		<p begin="01:48.711">Không cần quay trở lại</p>
+		</div>
+		<div style="m">
+		<p begin="01:50.711">Chỉ cần cho tôi</p>
+		</div>
+		<div style="m">
+		<p begin="01:52.311">được trở về ngày xưa,</p>
+		</div>
+		<div style="m">
+		<p begin="01:54.311">Rong chơi với những ngày mưa</p>
+		</div>
+		<div style="m">
+		<p begin="01:56.211"></p>
+		</div>
+		<div style="m">
+		<p begin="01:57.611">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="01:59.311">Hạng vé trung thôi,</p>
+		</div>
+		<div style="m">
+		<p begin="02:01.011">Dẫu tháng năm</p>
+		</div>
+		<div style="m">
+		<p begin="02:02.511">Có lớn thêm thật rồi</p>
+		</div>
+		<div style="m">
+		<p begin="02:04.411">Chỉ cần cho tôi</p>
+		</div>
+		<div style="m">
+		<p begin="02:06.011">được trở về tuổi thơ</p>
+		</div>
+		<div style="m">
+		<p begin="02:07.711">Thì tôi sẽ xin chờ hoài...</p>
+		</div>
+		<div style="m">
+		<p begin="02:12.311"></p>
+		</div>
+		<div style="m">
+		<p begin="02:14.811">Bài Hát: Cho Tôi Xin Một Vé Đi Tuổi Thơ</p>
+		</div>
+		<div style="m">
+		<p begin="02:17.811">Thể Hiện: Lynk Lee</p>
+		</div>
+		<div style="m">
+		<p begin="02:20.911">Lyrics: tuannvbg@gmail.com</p>
+		</div>
+		<div style="m">
+		<p begin="02:24.311">Date: 2014-08-28</p>
+		</div>
+		<div style="m">
+		<p begin="02:27.811"></p>
+		</div>
+		<div style="m">
+		<p begin="02:40.111">4</p>
+		</div>
+		<div style="m">
+		<p begin="02:41.211">3</p>
+		</div>
+		<div style="m">
+		<p begin="02:42.411">2</p>
+		</div>
+		<div style="m">
+		<p begin="02:43.711">1</p>
+		</div>
+		<div style="m">
+		<p begin="02:44.611"></p>
+		</div>
+		<div style="m">
+		<p begin="02:45.511">Cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="02:46.211">Về thời ô ăn quan,</p>
+		</div>
+		<div style="m">
+		<p begin="02:48.511">Rồi cùng chơi chắc,</p>
+		</div>
+		<div style="m">
+		<p begin="02:49.711">Rồi cùng chơi quay</p>
+		</div>
+		<div style="m">
+		<p begin="02:52.311">Rồng rắn lên mây,</p>
+		</div>
+		<div style="m">
+		<p begin="02:54.111">Nhảy dây với chơi thả diều</p>
+		</div>
+		<div style="m">
+		<p begin="02:57.511"></p>
+		</div>
+		<div style="m">
+		<p begin="02:59.011">Cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="03:00.011">Một vé đi ngày xưa,</p>
+		</div>
+		<div style="m">
+		<p begin="03:02.311">Về lại ngày ấy</p>
+		</div>
+		<div style="m">
+		<p begin="03:03.511">cái tuổi chẳng biết chi</p>
+		</div>
+		<div style="m">
+		<p begin="03:06.011">Cứ bỏ túi viên bi,</p>
+		</div>
+		<div style="m">
+		<p begin="03:07.911">Có khi dỗi nhau lại đòi</p>
+		</div>
+		<div style="m">
+		<p begin="03:10.311"></p>
+		</div>
+		<div style="m">
+		<p begin="03:12.811">Cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="03:13.411">Về với bạn bè tôi,</p>
+		</div>
+		<div style="m">
+		<p begin="03:16.011">Mặt trăng có mắt,</p>
+		</div>
+		<div style="m">
+		<p begin="03:17.211">Mặt trời có râu</p>
+		</div>
+		<div style="m">
+		<p begin="03:19.811">Trẻ con ham chơi,</p>
+		</div>
+		<div style="m">
+		<p begin="03:21.611">đâu biết nghĩ suy,lo âu gì</p>
+		</div>
+		<div style="m">
+		<p begin="03:23.911"></p>
+		</div>
+		<div style="m">
+		<p begin="03:26.311">Cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="03:27.211">một vé về cùng ai,</p>
+		</div>
+		<div style="m">
+		<p begin="03:29.711">Tuổi nào vừa lớn đã tập viết thư</p>
+		</div>
+		<div style="m">
+		<p begin="03:33.211">Áo trắng ai bay,</p>
+		</div>
+		<div style="m">
+		<p begin="03:35.211">Khiến cho ai kia mơ màng</p>
+		</div>
+		<div style="m">
+		<p begin="03:38.211"></p>
+		</div>
+		<div style="m">
+		<p begin="03:40.411">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="03:42.211">Một vé không hai,</p>
+		</div>
+		<div style="m">
+		<p begin="03:43.811">Mà dầu hôm nay</p>
+		</div>
+		<div style="m">
+		<p begin="03:45.311">Ga đông đường dài</p>
+		</div>
+		<div style="m">
+		<p begin="03:47.211">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="03:48.911">được trở về tuổi thơ,</p>
+		</div>
+		<div style="m">
+		<p begin="03:50.711">Ngây ngô với bao mộng mơ</p>
+		</div>
+		<div style="m">
+		<p begin="03:52.511"></p>
+		</div>
+		<div style="m">
+		<p begin="03:54.111">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="03:55.811">Một vé không hai,</p>
+		</div>
+		<div style="m">
+		<p begin="03:57.711">Vé đi thôi</p>
+		</div>
+		<div style="m">
+		<p begin="03:59.011">Không cần quay trở lại</p>
+		</div>
+		<div style="m">
+		<p begin="04:01.011">Chỉ cần cho tôi</p>
+		</div>
+		<div style="m">
+		<p begin="04:02.311">được trở về ngày xưa,</p>
+		</div>
+		<div style="m">
+		<p begin="04:04.311">Rong chơi với những ngày mưa</p>
+		</div>
+		<div style="m">
+		<p begin="04:06.711"></p>
+		</div>
+		<div style="m">
+		<p begin="04:07.811">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="04:09.611">Hạng vé trung thôi,</p>
+		</div>
+		<div style="m">
+		<p begin="04:11.411">Dẫu tháng năm</p>
+		</div>
+		<div style="m">
+		<p begin="04:12.811">Có lớn thêm thật rồi</p>
+		</div>
+		<div style="m">
+		<p begin="04:14.711">Chỉ cần cho tôi</p>
+		</div>
+		<div style="m">
+		<p begin="04:16.311">được trở về tuổi thơ</p>
+		</div>
+		<div style="m">
+		<p begin="04:18.111">Thì tôi sẽ xin chờ hoài</p>
+		</div>
+		<div style="m">
+		<p begin="04:22.511"></p>
+		</div>
+		<div style="m">
+		<p begin="04:25.011">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="04:26.711">một vé không hai,</p>
+		</div>
+		<div style="m">
+		<p begin="04:28.411">Mà dầu hôm nay</p>
+		</div>
+		<div style="m">
+		<p begin="04:29.911">Ga đông đường dài</p>
+		</div>
+		<div style="m">
+		<p begin="04:31.811">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="04:33.311">được trở về tuổi thơ,</p>
+		</div>
+		<div style="m">
+		<p begin="04:35.211">Ngây ngô với bao mộng mơ...</p>
+		</div>
+		<div style="m">
+		<p begin="04:37.111"></p>
+		</div>
+		<div style="m">
+		<p begin="04:38.711">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="04:40.411">Một vé không hai,</p>
+		</div>
+		<div style="m">
+		<p begin="04:42.211">Vé đi thôi</p>
+		</div>
+		<div style="m">
+		<p begin="04:43.611">Không cần quay trở lại</p>
+		</div>
+		<div style="m">
+		<p begin="04:45.411">Chỉ cần cho tôi</p>
+		</div>
+		<div style="m">
+		<p begin="04:47.011">được trở về ngày xưa,</p>
+		</div>
+		<div style="m">
+		<p begin="04:49.011">Rong chơi với những ngày mưa</p>
+		</div>
+		<div style="m">
+		<p begin="04:51.311"></p>
+		</div>
+		<div style="m">
+		<p begin="04:52.311">Hãy cho tôi xin</p>
+		</div>
+		<div style="m">
+		<p begin="04:54.011">Hạng vé trung thôi,</p>
+		</div>
+		<div style="m">
+		<p begin="04:55.911">Dẫu tháng năm</p>
+		</div>
+		<div style="m">
+		<p begin="04:57.311">Có lớn thêm thật rồi</p>
+		</div>
+		<div style="m">
+		<p begin="04:59.311">Chỉ cần cho tôi</p>
+		</div>
+		<div style="m">
+		<p begin="05:00.811">được trở về tuổi thơ</p>
+		</div>
+		<div style="m">
+		<p begin="05:02.611">Thì tôi sẽ xin chờ hoài...</p>
+		</div>
+		<div style="m">
+		<p begin="05:07.911"></p>
+		</div>
+		<div style="m">
+		<p begin="05:09.611">Một vé đi tuổi thơ</p>
+		</div>
+		<div style="m">
+		<p begin="05:11.011">Sao khó quá người ơi</p>
+		</div>
+		<div style="m">
+		<p begin="05:12.911">Bởi bây giờ đây</p>
+		</div>
+		<div style="m">
+		<p begin="05:14.511">Chúng ta lớn rồi,</p>
+		</div>
+		<div style="m">
+		<p begin="05:16.511">Thành em,thành bạn</p>
+		</div>
+		<div style="m">
+		<p begin="05:17.711">Và thành cả tôi,</p>
+		</div>
+		<div style="m">
+		<p begin="05:19.511" dur="4000">Cùng chung ước mơ trở về...</p>
+		</div>
+		<div style="m">
+		<p begin="05:25.411"></p>
+		</div>
+		<div style="m">
+		<p begin="05:28.911">Bài Hát: Cho Tôi Xin Một Vé Đi Tuổi Thơ</p>
+		</div>
+		<div style="m">
+		<p begin="05:30.811">Thể Hiện: Lynk Lee</p>
+		</div>
+		<div style="m">
+		<p begin="05:32.711">Lyrics: tuannvbg@gmail.com</p>
+		</div>
+		<div style="m">
+		<p begin="05:34.511">Date: 2014-08-28</p>
+		</div>
+		<div style="m">
+		<p begin="05:36.411" dur="4000"></p>
+		</div>
+	</body>
+</tt>

@@ -1,0 +1,248 @@
+1
+00:00:00,890 --> 00:00:02,590
+Artist: Celine Dion
+
+2
+00:00:02,590 --> 00:00:05,270
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+3
+00:00:05,270 --> 00:00:07,270
+Title: Let's Talk About Love (5:01)
+
+4
+00:00:07,270 --> 00:00:08,760
+By: nguyentuan2005@gmail.com
+
+5
+00:00:08,760 --> 00:00:10,180
+Date: 2010-04-03
+
+6
+00:00:11,700 --> 00:00:18,900
+Every where I go all the places that I've been
+
+7
+00:00:18,900 --> 00:00:22,470
+Every smile is a new horizon
+
+8
+00:00:22,470 --> 00:00:26,570
+On a land I've never seen
+
+9
+00:00:26,570 --> 00:00:30,150
+There are people around the world
+
+10
+00:00:30,150 --> 00:00:34,350
+Different faces,defferent names
+
+11
+00:00:34,350 --> 00:00:37,740
+But that's one true emotion
+
+12
+00:00:37,740 --> 00:00:41,100
+That reminds me we aren't the same
+
+13
+00:00:41,100 --> 00:00:44,980
+Let's talk about love
+
+14
+00:00:49,660 --> 00:00:53,470
+From the laughter of a child
+
+15
+00:00:53,470 --> 00:00:57,280
+To the tears of a grown man
+
+16
+00:00:57,280 --> 00:00:58,800
+There's a thread
+
+17
+00:00:58,800 --> 00:01:01,170
+That runs straight through us
+
+18
+00:01:01,170 --> 00:01:05,030
+And helps us understand
+
+19
+00:01:05,030 --> 00:01:08,570
+And subtle as a breeze
+
+20
+00:01:08,570 --> 00:01:12,610
+That fans a flicker to a frame
+
+21
+00:01:12,610 --> 00:01:16,090
+From the very first sweet melody
+
+22
+00:01:16,090 --> 00:01:18,420
+To the very last refrain
+
+23
+00:01:19,330 --> 00:01:27,010
+Let's talk about love, let's talk about us
+
+24
+00:01:27,010 --> 00:01:34,690
+Let's talk about life, let's talk about trust
+
+25
+00:01:34,690 --> 00:01:38,090
+Let's talk about love
+
+26
+00:01:38,590 --> 00:01:39,580
+Artist: Celine Dion
+
+27
+00:01:39,580 --> 00:01:41,970
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+28
+00:01:41,970 --> 00:01:43,560
+Title: Let's Talk About Love (5:01)
+
+29
+00:01:43,560 --> 00:01:45,060
+By: nguyentuan2005@gmail.com
+
+30
+00:01:45,060 --> 00:01:46,490
+Date: 2010-04-03
+
+31
+00:01:52,760 --> 00:01:56,370
+It's the king of all who live
+
+32
+00:01:56,370 --> 00:02:00,440
+And queen of all good hearts
+
+33
+00:02:00,440 --> 00:02:04,340
+It's the one you may keep up your sleeve
+
+34
+00:02:04,340 --> 00:02:08,070
+'Til the name is all out lost
+
+35
+00:02:08,070 --> 00:02:11,920
+As deep as any sea
+
+36
+00:02:11,920 --> 00:02:15,810
+with the rage of any storm
+
+37
+00:02:15,810 --> 00:02:19,570
+But as gentle as a falling leaf
+
+38
+00:02:19,570 --> 00:02:21,840
+On any autumn morn
+
+39
+00:02:22,560 --> 00:02:30,210
+Let's talk about love, let's talk about us
+
+40
+00:02:30,210 --> 00:02:37,990
+Let's talk about life, let's talk about trust
+
+41
+00:02:37,990 --> 00:02:41,720
+Let's talk about love, it's all we are needing
+
+42
+00:02:41,720 --> 00:02:45,640
+Let's talk about us, it's the air we're breathing
+
+43
+00:02:45,640 --> 00:02:49,430
+Let's talk about life, I wanna know you
+
+44
+00:02:49,430 --> 00:02:53,400
+Let's talk about trust, I wanna show you
+
+45
+00:03:02,260 --> 00:03:09,420
+Every where I go all the places that I've been
+
+46
+00:03:09,420 --> 00:03:13,180
+Every smile is a new horizon
+
+47
+00:03:13,180 --> 00:03:17,140
+On a land I've never seen
+
+48
+00:03:17,140 --> 00:03:20,890
+There are people around the world
+
+49
+00:03:20,890 --> 00:03:24,840
+Different faces, defferent names
+
+50
+00:03:24,840 --> 00:03:28,390
+But that's one true emotion
+
+51
+00:03:28,390 --> 00:03:31,130
+That reminds me we aren't the same
+
+52
+00:03:35,170 --> 00:03:43,050
+Let's talk about love, let's talk about us
+
+53
+00:03:43,050 --> 00:03:50,680
+Let's talk about life, let's talk about trust
+
+54
+00:03:50,680 --> 00:03:58,210
+Let's talk about love, let's talk about us
+
+55
+00:03:58,210 --> 00:04:06,000
+Let's talk about life, let's talk about trust
+
+56
+00:04:06,000 --> 00:04:13,690
+Let's talk about love, let's talk about us
+
+57
+00:04:13,690 --> 00:04:21,270
+Let's talk about life, let's talk about trust
+
+58
+00:04:21,270 --> 00:04:29,060
+Let's talk about love, let's talk about us
+
+59
+00:04:29,060 --> 00:04:36,710
+Let's talk about life, let's talk about trust
+
+60
+00:04:36,710 --> 00:04:44,330
+Let's talk about love, let's talk about us
+
+61
+00:04:44,330 --> 00:04:52,050
+Let's talk about life, let's talk about trust
+
+62
+00:04:52,050 --> 00:05:01,766
+Let's talk about love, let's talk about us
+

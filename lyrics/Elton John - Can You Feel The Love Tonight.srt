@@ -1,0 +1,176 @@
+1
+00:00:00,690 --> 00:00:02,130
+Artist: Elton John
+
+2
+00:00:02,130 --> 00:00:05,290
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+3
+00:00:05,290 --> 00:00:08,030
+Title: Can You Feel the Love Tonight (3:58)
+
+4
+00:00:08,030 --> 00:00:09,990
+By: nguyentuan2005@gmail.com
+
+5
+00:00:09,990 --> 00:00:12,280
+Date: 2010-04-03
+
+6
+00:00:16,000 --> 00:00:20,000
+There's a calm surrender
+
+7
+00:00:20,000 --> 00:00:24,000
+To the rush of day
+
+8
+00:00:24,000 --> 00:00:28,000
+When the heat of the rolling world
+
+9
+00:00:28,000 --> 00:00:32,000
+Can be turned away
+
+10
+00:00:32,000 --> 00:00:36,000
+And enchanted moment
+
+11
+00:00:36,000 --> 00:00:40,000
+And it sees me through
+
+12
+00:00:40,000 --> 00:00:44,000
+It's enough for this restless
+
+13
+00:00:44,000 --> 00:00:48,000
+Just to be with you
+
+14
+00:00:48,000 --> 00:00:56,000
+And can you feel the love tonight?
+
+15
+00:00:56,000 --> 00:01:03,000
+It is where we are
+
+16
+00:01:03,000 --> 00:01:10,000
+It is enough for this wide-eyed wanderer
+
+17
+00:01:10,000 --> 00:01:18,000
+That we got this far
+
+18
+00:01:18,000 --> 00:01:26,000
+And can you feel the love tonight?
+
+19
+00:01:26,000 --> 00:01:34,000
+How it's laid to rest
+
+20
+00:01:34,000 --> 00:01:40,000
+It's enough to make kings and vagabonds
+
+21
+00:01:40,000 --> 00:01:45,990
+Believe the very best
+
+22
+00:01:47,040 --> 00:01:49,290
+Artist: Elton John
+
+23
+00:01:49,290 --> 00:01:53,330
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+24
+00:01:53,330 --> 00:01:56,960
+Title: Can You Feel the Love Tonight (3:58)
+
+25
+00:01:56,960 --> 00:01:59,420
+By: nguyentuan2005@gmail.com
+
+26
+00:01:59,420 --> 00:02:01,610
+Date: 2010-04-03
+
+27
+00:02:03,780 --> 00:02:07,510
+There's a time for everyone
+
+28
+00:02:07,510 --> 00:02:11,000
+If they only learn
+
+29
+00:02:11,000 --> 00:02:15,000
+That the twisting kaleidoscope
+
+30
+00:02:15,000 --> 00:02:19,000
+Moves us all in turn
+
+31
+00:02:19,000 --> 00:02:23,000
+There's a phyme and reason
+
+32
+00:02:23,000 --> 00:02:27,000
+To the wild outdoors
+
+33
+00:02:27,000 --> 00:02:31,000
+When the heart of this star-crossed voyager
+
+34
+00:02:31,000 --> 00:02:37,000
+Beats in time with yours
+
+35
+00:02:37,000 --> 00:02:45,000
+And can you feel the love tonight?
+
+36
+00:02:45,000 --> 00:02:53,000
+It is where we are
+
+37
+00:02:53,000 --> 00:02:59,000
+It is enough for this wide-eyed wanderer
+
+38
+00:02:59,000 --> 00:03:07,000
+That we got this far
+
+39
+00:03:07,000 --> 00:03:15,000
+And can you feel the love tonight?
+
+40
+00:03:15,000 --> 00:03:22,000
+How it's laid to rest
+
+41
+00:03:22,000 --> 00:03:29,000
+It's enough to make kings and vagabonds
+
+42
+00:03:29,000 --> 00:03:38,000
+Believe the very best
+
+43
+00:03:38,000 --> 00:03:44,000
+It's enough to make kings and vagabonds
+
+44
+00:03:44,000 --> 00:03:58,654
+Believe the very best
+

@@ -1,0 +1,268 @@
+1
+00:00:01,050 --> 00:00:02,230
+Artist: Boyzone
+
+2
+00:00:02,230 --> 00:00:03,620
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+3
+00:00:03,620 --> 00:00:05,060
+Title: All that I need (3:41)
+
+4
+00:00:05,060 --> 00:00:07,080
+By: nguyentuan2005@gmail.com
+
+5
+00:00:07,080 --> 00:00:08,320
+Date: 2010-04-01
+
+6
+00:00:11,490 --> 00:00:14,480
+I was lost and alone
+
+7
+00:00:14,480 --> 00:00:17,280
+Trying to grow,
+
+8
+00:00:17,280 --> 00:00:21,890
+making my way down that long winding road
+
+9
+00:00:21,890 --> 00:00:24,310
+Had no reason, no rhyme
+
+10
+00:00:24,310 --> 00:00:27,550
+Like a song out of time
+
+11
+00:00:27,550 --> 00:00:32,780
+And there you were, standing in front of my eyes
+
+12
+00:00:32,780 --> 00:00:36,380
+How could I be such a fool
+
+13
+00:00:36,380 --> 00:00:42,970
+To let go of love and break all the rules
+
+14
+00:00:42,970 --> 00:00:46,030
+Girl when you walked out that door
+
+15
+00:00:46,030 --> 00:00:48,780
+left a hole in my heart
+
+16
+00:00:48,780 --> 00:00:51,130
+And now I know for sure
+
+17
+00:00:52,780 --> 00:00:55,360
+You're the air that I breathe
+
+18
+00:00:55,360 --> 00:00:58,370
+Girl you're all that I need
+
+19
+00:00:58,370 --> 00:01:02,950
+And I wanna thank you, lady
+
+20
+00:01:02,950 --> 00:01:05,560
+You're the words that I read
+
+21
+00:01:05,560 --> 00:01:08,680
+You're the light that I see
+
+22
+00:01:08,680 --> 00:01:13,850
+And your love is all that I need
+
+23
+00:01:14,790 --> 00:01:16,230
+Artist: Boyzone
+
+24
+00:01:16,230 --> 00:01:18,260
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+25
+00:01:18,260 --> 00:01:19,510
+Title: All that I need (3:41)
+
+26
+00:01:19,510 --> 00:01:20,960
+By: nguyentuan2005@gmail.com
+
+27
+00:01:20,960 --> 00:01:22,130
+Date: 2010-04-01
+
+28
+00:01:23,640 --> 00:01:26,790
+I was searching in vain
+
+29
+00:01:26,790 --> 00:01:29,380
+Playing a game
+
+30
+00:01:29,380 --> 00:01:34,050
+Had no-one else but myself left to blame
+
+31
+00:01:34,050 --> 00:01:37,070
+You came into my world
+
+32
+00:01:37,070 --> 00:01:39,750
+No diamonds or pearls
+
+33
+00:01:39,750 --> 00:01:44,930
+Could ever replace what you gave to me girl
+
+34
+00:01:44,930 --> 00:01:48,040
+Just like a castle of sand
+
+35
+00:01:48,040 --> 00:01:55,000
+Girl, I almost let love slip right out of my hands
+
+36
+00:01:55,000 --> 00:01:58,000
+And just like a flower needs rain
+
+37
+00:01:58,000 --> 00:02:05,250
+I will stand by your side through the joy and the pain
+
+38
+00:02:05,250 --> 00:02:07,490
+You're the air that I breathe
+
+39
+00:02:07,490 --> 00:02:10,630
+Girl you're all that I need
+
+40
+00:02:10,630 --> 00:02:15,200
+And I wanna thank you, lady
+
+41
+00:02:15,200 --> 00:02:17,900
+You're the words that I read
+
+42
+00:02:17,900 --> 00:02:20,890
+You're the light that I see
+
+43
+00:02:20,890 --> 00:02:24,770
+And your love is all that I need
+
+44
+00:02:25,570 --> 00:02:26,750
+Artist: Boyzone
+
+45
+00:02:26,750 --> 00:02:28,810
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+46
+00:02:28,810 --> 00:02:30,170
+Title: All that I need (3:41)
+
+47
+00:02:30,170 --> 00:02:31,540
+By: nguyentuan2005@gmail.com
+
+48
+00:02:31,540 --> 00:02:32,840
+Date: 2010-04-01
+
+49
+00:02:35,840 --> 00:02:38,450
+You're the air that I breathe
+
+50
+00:02:38,450 --> 00:02:41,530
+Girl you're all that I need
+
+51
+00:02:41,530 --> 00:02:46,220
+And I wanna thank you, lady
+
+52
+00:02:46,220 --> 00:02:48,800
+You're the words that I read
+
+53
+00:02:48,800 --> 00:02:52,240
+You're the light that I see
+
+54
+00:02:52,240 --> 00:02:54,410
+And your love is all that I need
+
+55
+00:02:56,520 --> 00:02:59,220
+You're the song that I say
+
+56
+00:02:59,220 --> 00:03:02,180
+You're my everything
+
+57
+00:03:02,180 --> 00:03:06,790
+And I wanna thank you, lady
+
+58
+00:03:06,790 --> 00:03:09,280
+You're all that I need, girl
+
+59
+00:03:09,280 --> 00:03:13,320
+You're the air that I breathe, yeah
+
+60
+00:03:13,320 --> 00:03:15,000
+And I want to thank you
+
+61
+00:03:15,000 --> 00:03:18,000
+You're the words that I read, girl
+
+62
+00:03:18,000 --> 00:03:21,000
+You're love is all I need, yeah
+
+63
+00:03:21,000 --> 00:03:23,000
+And I want to thank you
+
+64
+00:03:23,000 --> 00:03:27,000
+(and I want to thank you, lady)
+
+65
+00:03:27,000 --> 00:03:29,000
+You're all that I need, girl
+
+66
+00:03:29,000 --> 00:03:34,000
+You're the air that I breathe, yeah
+
+67
+00:03:34,000 --> 00:03:42,223
+And I want to thank you..
+

@@ -1,0 +1,108 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);@import url(http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic);@import url(bucket-ico-fonts.css);
+body {
+	color: #767676;
+	font-family: 'Open Sans',sans-serif;
+	font-size: 13px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+::selection {
+background: #1FB5AD;
+color: #fff;
+}
+ul li {
+list-style: none;
+}
+.event-close {
+display: inline-block;
+font-size: 15px;
+color: #fff;
+position: absolute;
+right: 10px;
+top: 8px;
+}
+a, a:hover, a:focus {
+text-decoration: none;
+outline: none;
+}
+.event-list-block {
+background: #1fb5ac;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+min-height: 474px;
+}
+
+.event-list li {
+background: rgba(255,255,255,.2);
+padding: 10px 30px 10px 10px;
+color: #fff;
+margin-bottom: 5px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+position: relative;
+}
+.cal-day {
+font-size: 30px;
+font-weight: 300;
+text-transform: uppercase;
+color: #fff;
+padding-top: 15px;
+padding-bottom: 30px;
+}
+.cal-day span {
+font-size: 14px;
+display: block;
+}
+
+.evnt-input, .evnt-input:focus {
+background: none;
+border: none;
+border-bottom: #fff 1px solid;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+color: #fff;
+padding-left: 0px;
+margin-top: 10px;
+}
+
+.evnt-input:-moz-placeholder{color:#fff!important;font-size:12px;}
+.evnt-input::-moz-placeholder{color:#fff!important;font-size:12px;}
+.evnt-input:placeholder{color:#fff!important;font-size:12px;}
+.evnt-input::-webkit-input-placeholder{color:#fff!important;font-size:12px;}
+
+input {
+outline: none!important;
+}
+
+.form-control {
+box-shadow: none;
+}
+
+footer {
+width: 786px;
+font: normal 16px Arial, Helvetica, sans-serif;
+padding: 15px 35px;
+position: fixed;
+bottom: 0;
+left: 50%;
+margin-left: -420px;
+background-color: #1f1f1f;
+background-image: -webkit-linear-gradient(top, #1f1f1f, #101010);
+background-image: -moz-linear-gradient(top, #1f1f1f, #101010);
+background-image: linear-gradient(top, #1f1f1f, #101010);
+border-radius: 2px 2px 0 0;
+box-shadow: 0 -1px 4px rgba(0,0,0,0.4);
+z-index: 1;
+text-align: center;
+}
+
+footer a {
+ color: #09F	
+}
+
+footer a:hover {
+ color: #06C	
+}

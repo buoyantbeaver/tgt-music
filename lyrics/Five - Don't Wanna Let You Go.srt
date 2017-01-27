@@ -1,0 +1,288 @@
+1
+00:00:00,870 --> 00:00:01,810
+Artist: Five
+
+2
+00:00:01,810 --> 00:00:03,720
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+3
+00:00:03,720 --> 00:00:05,420
+Title: Don't Wanna Let You Go (3:23)
+
+4
+00:00:05,420 --> 00:00:07,910
+By: nguyentuan2005@gmail.com
+
+5
+00:00:07,910 --> 00:00:09,760
+Date: 2010-04-03
+
+6
+00:00:12,500 --> 00:00:14,690
+Don't wanna let you go
+
+7
+00:00:14,690 --> 00:00:16,920
+We just wanna tell you
+
+8
+00:00:16,920 --> 00:00:19,170
+Just wanna let you know
+
+9
+00:00:19,170 --> 00:00:21,530
+That we'll stay around
+
+10
+00:00:21,530 --> 00:00:23,890
+So what else can you do
+
+11
+00:00:23,890 --> 00:00:26,200
+You've said all you have to
+
+12
+00:00:26,200 --> 00:00:28,490
+We're coming after you
+
+13
+00:00:28,490 --> 00:00:30,970
+So don't make a sound
+
+14
+00:00:30,970 --> 00:00:32,770
+Don't wanna let you go
+
+15
+00:00:32,770 --> 00:00:34,880
+I got this feelin
+
+16
+00:00:34,880 --> 00:00:38,490
+Could it be there's someone watching over me
+
+17
+00:00:38,490 --> 00:00:41,790
+Tell me who you are
+
+18
+00:00:41,790 --> 00:00:44,210
+I close my eyes and count from nine
+
+19
+00:00:44,210 --> 00:00:47,760
+To try and find some peace of mind
+
+20
+00:00:47,760 --> 00:00:50,410
+But it's gone too far
+
+21
+00:00:50,750 --> 00:00:53,550
+You see our faces every time you turn your head around
+
+22
+00:00:53,550 --> 00:00:55,780
+We'll be watching even when you turn the lights down
+
+23
+00:00:55,780 --> 00:00:58,850
+We will always be around no matter where you are
+
+24
+00:00:58,850 --> 00:01:01,040
+Don't wanna let you go
+
+25
+00:01:01,040 --> 00:01:03,320
+We just wanna tell you
+
+26
+00:01:03,320 --> 00:01:05,680
+Just wanna let you know
+
+27
+00:01:05,680 --> 00:01:07,860
+That we'll stay around
+
+28
+00:01:07,860 --> 00:01:10,220
+So what else can you do
+
+29
+00:01:10,220 --> 00:01:12,590
+You've said all you have to
+
+30
+00:01:12,590 --> 00:01:14,770
+We're coming after you
+
+31
+00:01:14,770 --> 00:01:17,400
+So don't make a sound
+
+32
+00:01:17,400 --> 00:01:19,200
+Don't wanna let you go
+
+33
+00:01:19,200 --> 00:01:21,410
+I'm all alone now in the dark
+
+34
+00:01:21,410 --> 00:01:24,810
+Just one chance so we can talk
+
+35
+00:01:24,810 --> 00:01:28,300
+That is all I ask
+
+36
+00:01:28,300 --> 00:01:30,720
+I close my eyes and then I dream
+
+37
+00:01:30,720 --> 00:01:34,200
+I always wake up to a scream
+
+38
+00:01:34,200 --> 00:01:37,150
+Wonder where you are
+
+39
+00:01:37,150 --> 00:01:39,950
+Don't you know we're always gonna be around you
+
+40
+00:01:39,950 --> 00:01:42,410
+And there really isn't anything you can do
+
+41
+00:01:42,410 --> 00:01:45,140
+We will always be around no matter where you are
+
+42
+00:01:45,140 --> 00:01:47,440
+Don't wanna let you go
+
+43
+00:01:47,440 --> 00:01:49,680
+We just wanna tell you
+
+44
+00:01:49,680 --> 00:01:52,040
+Just wanna let you know
+
+45
+00:01:52,040 --> 00:01:54,290
+That we'll stay around
+
+46
+00:01:54,290 --> 00:01:56,720
+So what else can you do
+
+47
+00:01:56,720 --> 00:01:59,020
+You've said all you have to
+
+48
+00:01:59,020 --> 00:02:01,250
+We're coming after you
+
+49
+00:02:01,250 --> 00:02:03,750
+So don't make a sound
+
+50
+00:02:03,750 --> 00:02:06,100
+Don't wanna let you go
+
+51
+00:02:07,270 --> 00:02:09,700
+Artist: Five
+
+52
+00:02:09,700 --> 00:02:14,210
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+53
+00:02:14,210 --> 00:02:19,350
+Title: Don't Wanna Let You Go (3:23)
+
+54
+00:02:19,350 --> 00:02:24,730
+By: nguyentuan2005@gmail.com
+
+55
+00:02:24,730 --> 00:02:28,750
+Date: 2010-04-03
+
+56
+00:02:33,910 --> 00:02:36,100
+Don't wanna let you go
+
+57
+00:02:36,100 --> 00:02:38,350
+We just wanna tell you
+
+58
+00:02:38,350 --> 00:02:40,620
+Just wanna let you know
+
+59
+00:02:40,620 --> 00:02:42,990
+That we'll stay around
+
+60
+00:02:42,990 --> 00:02:45,300
+So what else can you do
+
+61
+00:02:45,300 --> 00:02:47,600
+You've said all you have to
+
+62
+00:02:47,600 --> 00:02:49,840
+We're coming after you
+
+63
+00:02:49,840 --> 00:02:52,260
+So don't make a sound
+
+64
+00:02:52,260 --> 00:02:54,500
+Don't wanna let you go
+
+65
+00:02:54,500 --> 00:02:56,870
+We just wanna tell you
+
+66
+00:02:56,870 --> 00:02:59,180
+Just wanna let you know
+
+67
+00:02:59,180 --> 00:03:01,480
+That we'll stay around
+
+68
+00:03:01,480 --> 00:03:03,830
+So what else can you do
+
+69
+00:03:03,830 --> 00:03:06,190
+You've said all you have to
+
+70
+00:03:06,190 --> 00:03:08,440
+We're coming after you
+
+71
+00:03:08,440 --> 00:03:10,820
+So don't make a sound
+
+72
+00:03:10,820 --> 00:03:23,702
+Don't wanna let you go
+

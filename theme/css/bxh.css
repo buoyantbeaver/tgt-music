@@ -1,0 +1,77 @@
+.list_chart_page{width:620px; float:left; margin-bottom:10px;}
+.list_chart_page h1{color:#000000; float:left; font-size:22px; font-weight:bold; margin-top: 5px;}
+.list_chart_page .link_view{float:right; line-height:30px;}
+.list_chart_page .link_view a{padding:0px 10px; font-size:13px; line-height:32px; height:32px; float:left;  font-weight:bold}
+.list_chart_page .link_view a:hover,.list_chart_page .link_view a.active{height:32px;color:#e74c3c}
+.list_chart_page .box_view_week{float:left; width:600px; height:40px; margin:10px 0 0 0; background:#1abc9c; padding:0 10px}
+.list_chart_page .box_view_week p{float:left; font-size:14px; line-height:24px; color:#FFFFFF; line-height:40px;}
+.list_chart_page .box_view_week a.prev, a.next{background: url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) no-repeat transparent;width: 23px;height: 23px;display: block; float:left; margin:8px 0 0 0 }
+.list_chart_page .box_view_week a.prev {background-position: -173px -69px; float:left; margin-right:10px;  }
+.list_chart_page .box_view_week a.prev:hover {background-position: -173px -93px; }
+.list_chart_page .box_view_week a.prev.disabled {background-position: -173px -93px !important;  }
+.list_chart_page .box_view_week a.next {background-position: -198px -69px; margin-left:10px; }
+.list_chart_page .box_view_week a.next:hover {background-position: -198px -93px; }
+.list_chart_page .box_view_week a.next.disabled {background-position: -198px -93px !important;  }
+.list_chart_page .box_view_week a.prev.disabled, a.next.disabled {cursor: default;}
+.list_chart_page .box_view_week a.prev span, a.next span {display: none;}
+.list_chart_page .box_view_week .select_date{ width:14px; height:15px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -226px -71px no-repeat; float:left; margin:12px 0px 0px 5px;}
+.list_chart_page .active_play{ float:right; padding:0px; margin:8px 9px 0 0; line-height:24px; color:#FFFFFF; font-weight:bold}
+.list_chart_page .active_play:hover{}
+.list_chart_page .active_play .icon_playall{ width:24px; height:24px; float:left; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -83px -18px no-repeat; display:block ; margin:0px 0 0 0; text-indent:-10000px; padding:0px; margin-right:3px}
+
+
+.list_chart_page ul.list_show_chart{width:640px; float:left;}
+.list_chart_page ul.list_show_chart li{width:620px; float:left; margin-right:10px; padding:10px 0px; border-bottom:#dfdfdf solid 1px;}
+.list_chart_page ul.list_show_chart li:hover{ background:#fafafa;}
+.list_chart_page ul.list_show_chart li span.chart_tw{float:left; width:40px; height:40px; text-align:center; margin:10px 0 0 0; font-size:22px;line-height:40px; font-weight:bold; color:#333333;-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;}/*Vi tri tuan nay*/
+.list_chart_page ul.list_show_chart li span.chart_tw.special-1{width:40px; height:40px; background:#e74c3c; color:#FFFFFF}
+.list_chart_page ul.list_show_chart li span.chart_tw.special-2{width:40px; height:40px; background:#1abc9c; color:#FFFFFF}
+.list_chart_page ul.list_show_chart li span.chart_tw.special-3{width:40px; height:40px; background:#f39c12; color:#FFFFFF}
+.list_chart_page ul.list_show_chart li span.chart_lw{float:left; width:40px; height:40px;  font-size:12px; text-align:center; margin-left:10px; }/*Vi tri tuan truoc*/
+.list_chart_page ul.list_show_chart li span.chart_lw label{float:left; margin:0px 0px 0px 0px; text-align: center; display:block; width:40px;}
+.list_chart_page ul.list_show_chart li span.chart_lw .icon{width:18px; height:18px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) no-repeat; display:block; float:left; }/*Vi tri tuan truoc*/
+.list_chart_page ul.list_show_chart li span.chart_lw.upchart .icon {margin:16px 8px 0px 11px; background-position:-239px -96px}/*Vi tri tuan truoc*/
+.list_chart_page ul.list_show_chart li span.chart_lw.upchart p{ color:#00CC33; font-size:12px; font-weight:bold;}/*Vi tri tuan truoc*/
+.list_chart_page ul.list_show_chart li span.chart_lw.downchart .icon {margin:16px 8px 0px 11px;background-position:-258px -96px}/*Vi tri tuan truoc*/
+.list_chart_page ul.list_show_chart li span.chart_lw.downchart p{ color:#ff0000; font-size:12px; font-weight:bold}/*Vi tri tuan truoc*/
+.list_chart_page ul.list_show_chart li span.chart_lw.nonechart .icon {margin:22px 8px 0px 11px;background-position:-279px -96px}/*Vi tri tuan truoc*/
+.list_chart_page ul.list_show_chart li span.chart_lw.newchart .icon {margin:16px 8px 0px 10px;background-position:-298px -96px}/*Vi tri tuan truoc*/
+.list_chart_page ul.list_show_chart li span.chart_lw.newchart p{ color:#333; font-size:11px; color:#f39c12; font-weight:bold}/*Vi tri tuan truoc*/
+
+
+
+.list_chart_page ul.list_show_chart li span.chart_hp{float:left; width:60px; height:60px;  font-size:12px; line-height:60px; text-align:center;}/*Vi tri duoc cao nhat*/
+.list_chart_page ul.list_show_chart li span.chart_ti{float:left; width:65px; height:60px;  font-size:12px; line-height:60px; text-align:center;}/*So lan duoc nam trong bxh*/
+.list_chart_page ul.list_show_chart li .box_info_field{float:left; width:450px; height:60px; margin-left:20px; border-left:#dfdfdf solid 0px; padding-left:0px; }
+.list_chart_page ul.list_show_chart li .box_info_field img{float:left; margin-right:10px; height:60px;}
+.list_chart_page ul.list_show_chart li .box_info_field .name_song{font-size:13px;line-height:16px; font-weight:bold}
+.list_chart_page ul.list_show_chart li .box_info_field .list_name_singer{display:block; color:#666666}
+.list_chart_page ul.list_show_chart li .box_info_field .export_listen{ float:left; color:#999999; font-size:11px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) left top no-repeat; padding-left:15px;}
+.list_chart_page ul.list_show_chart li .box_info_field .export_viewed{ float:left; color:#999999; font-size:11px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) left -21px no-repeat; padding-left:15px;}
+
+/*
+.list_chart_page ul.list_show_chart li .box_info_field .export_listen{float:left; margin-right:30px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) left -341px no-repeat; padding-left:20px;line-height:24px; font-size:12px !important}
+.list_chart_page ul.list_show_chart li .box_info_field .export_viewed{float:left; margin-right:30px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) left -485px no-repeat; padding-left:18px;line-height:24px; font-size:12px !important}
+
+*/
+
+.list_chart_page ul.list_show_chart li h3{ float:left; width:152px; font-size:12px}
+.list_chart_page ul.list_show_chart li h3 a.name_song{font-size:12px; color:#333333; font-weight:bold; float:left;}
+.list_chart_page ul.list_showl_chart li p{white-space: nowrap;overflow: hidden;text-overflow: ellipsis; float:left; width:152px;}
+.list_chart_page ul.list_show_chart li p a{font-size:12px; color:#666666}
+
+.list_chart_page ul.list_show_chart li .box_info_more_week{float:left; width:120px; height:30px; margin:20px 0 0 0; border-left:#dfdfdf solid 0px; font-size:11px; padding-left:0px; color:#666666; display:none}
+.list_chart_page ul.list_show_chart li:hover .box_info_more_week{display: block}
+.list_chart_page ul.list_show_chart li .box_info_more_week a{float:left; margin-right:10px; font-size:13px; line-height:14px; color:#666666}
+.list_chart_page ul.list_show_chart li .box_info_more_week span{float:left; width:15px; height:15px; margin:0 3px 0 0; display:block}
+.list_chart_page ul.list_show_chart li .box_info_more_week .peak_position span{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -360px -96px no-repeat; }
+.list_chart_page ul.list_show_chart li .box_info_more_week .last_weeks_position span{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -341px -96px no-repeat;}
+.list_chart_page ul.list_show_chart li .box_info_more_week .weeks_on_chart span{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -322px -96px no-repeat; }
+
+.list_chart_page .box_song_action{float:right; width:70px; height:20px; margin:20px 10px 0px 0px;}
+.list_chart_page .box_song_action .button_download{ width:17px; height:17px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -234px top no-repeat; display:block; float:right; margin:0px 0px 0px 0px}
+.list_chart_page .box_song_action .button_download:hover{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -234px -17px no-repeat; }
+.list_chart_page .box_song_action .button_add_playlist{ width:17px; height:17px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -217px top no-repeat; display:block; float:right; margin:0px 5px 0px 0px}
+.list_chart_page .box_song_action .button_add_playlist:hover{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -217px -17px no-repeat;}
+.list_chart_page .box_song_action .button_playing{ width:17px; height:17px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -200px top no-repeat; display:block; float:right; margin:0px 5px 0px 0px}
+.list_chart_page .box_song_action .button_playing:hover{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -200px -17px no-repeat;}

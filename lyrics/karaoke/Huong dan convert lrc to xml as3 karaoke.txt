@@ -1,0 +1,6 @@
+Buoc 1: thay param bang div
+Buoc 2: thay <i bang <p, thay </i> bang </p>
+Buoc 3: thay s="m" bang style="f"
+Buuoc 4: thay va= bang begin=
+Buoc 5: thay :([0-9]+)([0-9]+)" bang .\111"
+Buoc 6: them vao dong cuoi <p begin..> dur="3000"

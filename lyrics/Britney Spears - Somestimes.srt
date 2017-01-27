@@ -1,0 +1,200 @@
+1
+00:00:01,640 --> 00:00:02,920
+Artist: Britney Spears
+
+2
+00:00:02,920 --> 00:00:05,390
+Album: Tuan Anh Computer 258 T.N.Han, TP BacGiang, Vietnam
+
+3
+00:00:05,390 --> 00:00:06,850
+Title: Somestimes
+
+4
+00:00:06,850 --> 00:00:11,470
+By: nguyentuan2005@gmail.com
+
+5
+00:00:11,470 --> 00:00:16,540
+You tell me you're in love with me
+
+6
+00:00:16,540 --> 00:00:21,480
+That you can't take your pretty eyes away from me
+
+7
+00:00:21,480 --> 00:00:26,540
+It's not that I don't want to stay
+
+8
+00:00:26,540 --> 00:00:31,510
+But everytime you come to close I move away
+
+9
+00:00:31,510 --> 00:00:37,120
+I wanna believe in everything that you say
+
+10
+00:00:37,120 --> 00:00:40,250
+Because it sounds so good
+
+11
+00:00:40,250 --> 00:00:45,310
+But if you really want me, move it slow
+
+12
+00:00:45,310 --> 00:00:47,810
+There's things about me you just have to know
+
+13
+00:00:49,120 --> 00:00:54,190
+Sometimes I run Sometimes I hide
+
+14
+00:00:54,190 --> 00:00:57,750
+sometimes I'm scared of you
+
+15
+00:00:57,750 --> 00:01:02,680
+But all I really want is to hold you tight
+
+16
+00:01:02,680 --> 00:01:07,880
+Treat you right, be with you day and night
+
+17
+00:01:07,880 --> 00:01:09,750
+baby all I need is time
+
+18
+00:01:11,810 --> 00:01:16,830
+I don't wanna be so shy, uh-uh
+
+19
+00:01:16,830 --> 00:01:21,780
+Everytime I am alone I wonder why
+
+20
+00:01:21,780 --> 00:01:26,280
+Hope that you will wait for me
+
+21
+00:01:26,280 --> 00:01:31,410
+You see that, you're the only one for me
+
+22
+00:01:31,410 --> 00:01:37,040
+I wanna believe in everything that you say
+
+23
+00:01:37,040 --> 00:01:40,280
+Cause it sounds so good
+
+24
+00:01:40,280 --> 00:01:45,220
+but if you really want me, move it slow
+
+25
+00:01:45,220 --> 00:01:47,600
+There's things about me, you just have to know
+
+26
+00:01:49,090 --> 00:01:54,160
+Sometimes I run (Sometimes) Sometimes I hide
+
+27
+00:01:54,160 --> 00:01:57,590
+Sometimes I'm scared of you
+
+28
+00:01:57,590 --> 00:02:02,720
+But all I really want is to hold you tight
+
+29
+00:02:02,720 --> 00:02:07,910
+Treat you right, be with you day and night
+
+30
+00:02:07,910 --> 00:02:11,040
+All I really want is to hold you tight
+
+31
+00:02:11,040 --> 00:02:17,920
+treat you right, be with you day and night
+
+32
+00:02:17,920 --> 00:02:19,890
+Baby, all I need is time
+
+33
+00:02:20,480 --> 00:02:23,410
+Just hang around and you'll see
+
+34
+00:02:23,410 --> 00:02:26,290
+There's nowhere ill ever be
+
+35
+00:02:26,290 --> 00:02:30,800
+If you love me, trust in me
+
+36
+00:02:30,800 --> 00:02:32,180
+The way that I trust in you
+
+37
+00:02:56,630 --> 00:03:01,540
+Sometimes I run (Sometimes) Sometimes I hide
+
+38
+00:03:01,540 --> 00:03:05,130
+Sometimes I'm scared of you
+
+39
+00:03:05,130 --> 00:03:10,260
+But all I really want is to hold you tight (hold ya tight)
+
+40
+00:03:10,260 --> 00:03:16,740
+Treat you right, be with you day and night (day and night)
+
+41
+00:03:16,740 --> 00:03:21,610
+Sometimes I run Sometimes I hide (sometimes)
+
+42
+00:03:21,610 --> 00:03:25,180
+Sometimes I'm scared of you
+
+43
+00:03:25,180 --> 00:03:31,720
+But all I really want is to hold you tight treat you right,
+
+44
+00:03:31,720 --> 00:03:35,290
+be with you day and night (day and night)
+
+45
+00:03:35,290 --> 00:03:41,940
+All I really want is to hold you tight Treat you right,
+
+46
+00:03:41,940 --> 00:03:45,370
+be with you day and night
+
+47
+00:03:45,370 --> 00:03:47,200
+baby, all I need is tim
+
+48
+00:03:47,200 --> 00:03:51,690
+Sometimes I run (Sometimes) Sometimes I hide
+
+49
+00:03:51,690 --> 00:03:55,320
+Sometimes I'm scared of you
+
+50
+00:03:55,320 --> 00:04:04,728
+But all I really want is to hold you tight (hold ya tight)
+

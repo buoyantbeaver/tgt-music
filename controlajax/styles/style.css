@@ -1,0 +1,134 @@
+
+*{ font-size: 10pt; font-family: Tahoma;}
+
+a { color: #4B4B4C;  text-decoration: none; Font-family: Tahoma;}
+
+a:hover { COLOR: #649de7; text-decoration: none; }
+.frz { padding: 5px;}
+Input,Textarea,Button,Select{
+
+	Font-family: Tahoma;
+
+	Font-size: 10pt;
+
+	border: 1px solid #E5E5E5;
+
+	vertical-align:middle;
+
+	padding-left:3px;
+
+	margin:0;
+
+	background: #FFF;
+
+	color: #1D1D1D;
+
+}
+
+.sutm { background: #0066FF; padding: 2px; color: #fff; font-weight: bold; border: 1px solid #ccc;}
+
+Select { cursor:default; margin-right:2px; color: #4B4B4C; }
+
+Textarea { overflow:auto; }
+
+form { margin: 0; padding:0}
+
+optgroup{ font-size: 10px; }
+
+.style { background:#002d96;}
+
+.style_bg { background:#FFFFFF;}
+
+.style_border{ background:#c4dafa;}
+
+.title { font-family: Tahoma; font-size: 14px; font-weight:bold; color: #00000; text-decoration: none; background:url(../images/bg_title.gif); padding-left:10 px; height:32px; cursor:hand; }
+
+.title_c { padding-left: 10px;font-weight:bold; color: #FFFFFF; text-decoration: none; background:url(../images/bg_title_c.gif); padding-left:10 px; height:24px; }
+
+.title_d { font-family: Tahoma; font-size: 14px; font-weight:bold; color: #000000; text-decoration: none; background:url(../images/bg_title_d.gif); padding-left:10 px;  height:32px;  cursor:hand;}
+
+.title_o { font-family: Tahoma; font-size: 14px; font-weight:bold; color: #000000; text-decoration: none; background:url(../images/bg_title_o.gif); padding-left:10 px;  height:32px; cursor:hand; }
+
+
+
+.menu { font-family: Tahoma; font-size: 11px;  color: #000000; text-decoration: none; background:url(../images//bg_menu.gif); height:21px;  padding-left:7px; cursor:hand; }
+
+
+
+.menu_sep { font-family: Tahoma; font-size: 11px;  color: #000000; text-decoration: none; background:url(../images//bg_menu_sep.gif); height:21px; width:2px; }
+
+
+
+.menu_tab { font-family: Tahoma; font-size: 11px;  color: #000000; text-decoration: none; background:url(../images//bg_menu_tab.gif); height:21px;  padding-left:7px; cursor:hand; }
+
+
+
+.menu_o{ font-family: Tahoma; font-size: 11px;olor: #8B0000; text-decoration: none; background:url(../images//bg_menu.gif);height:19px; padding-left:7px; cursor:hand; }
+
+
+
+.submenu{ font-family: Tahoma; font-size: 11px;  color: #000000; text-decoration: none; background:url(../images/bg_submenu.gif); height:19px; cursor:hand; padding-left:7px;  }
+
+.submenu_o{ font-family: Tahoma; font-size: 11px;olor: #8B0000; text-decoration: none; background:url(../images//bg_submenu_o.gif); height:19px; cursor:hand;padding-left:7px;}
+
+
+
+td{ font-family:Tahoma; font-size:11 px;}
+
+.td{ font-family:Tahoma; font-size:11 px}
+
+.input { font-family:Tahoma; font-size: 10px; color: #333333;}
+
+.button { font-family:Tahoma; font-size: 10px; font-weight:bold; color: #333333; cursor:hand;}
+
+.must { color:#FF0000; font-size:14px; font-weight:bold}
+
+.song_name a{ font-weight: bold; color: #000; text-decoration: none;}
+
+.song_name a:hover{ color: #FF0000;}
+
+.singer_name a{ color: green; text-decoration: none;}
+
+.singer_name a:hover{ color: #FF0000;}
+
+.IMG_S { padding: 2px; width: 80px; height: 72px; border: 1px solid #ccc; margin:2px;}
+
+.checkbox {	background: none;border: 0; cursor: hand }
+
+.fr, .fr_2 { border: 1px solid #E9E9E9; padding: 3px; background-color: #FFF; }
+
+.fr_2 { background-color: #FBFBFB; }
+
+
+
+#response {text-align: center;padding: 5px;background: #E6E6E6;}
+
+#playlist_field ul { margin: 0; padding:0;}
+
+#playlist_field li{color: #fff;list-style:none; display: block;background:#333;margin-bottom:1px;padding:4px;}
+
+#playlist_field li:hover{background:#F11A0E;}
+
+#playlist_field li a {color:#fff;}
+
+  span a {  
+   display: block;  
+   border: 1px solid #aaa;  
+   text-decoration: none;  
+   background-color: #fafafa;  
+   color: #123456;  
+   margin: 2px;  
+   clear:both;  
+  }  
+  .left_cat {  
+   float:left;  
+   text-align: center;  
+   margin: 5px;  
+  }  
+  .select {  
+   width: 170px;  
+   height: 220px;  
+  }  
+  
+.pagecurrent { background: #000; color: #FFF; font-weight: bold;margin-right: 5px; padding: 0px 5px;}
+.pagelink { margin-right: 5px;padding: 0px 5px; background: #FFF;}

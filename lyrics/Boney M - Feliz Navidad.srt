@@ -1,0 +1,148 @@
+1
+00:00:01,370 --> 00:00:02,540
+Artist: Boney M
+
+2
+00:00:02,540 --> 00:00:04,690
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+3
+00:00:04,690 --> 00:00:07,060
+Title: Feliz Navidad (2:23)
+
+4
+00:00:07,060 --> 00:00:09,630
+By: nguyentuan2005@gmail.com
+
+5
+00:00:09,630 --> 00:00:12,090
+Date: 2010-05-07
+
+6
+00:00:15,800 --> 00:00:19,740
+Feliz navidad
+
+7
+00:00:19,740 --> 00:00:23,580
+Feliz navidad
+
+8
+00:00:23,580 --> 00:00:25,250
+Feliz navidad
+
+9
+00:00:25,250 --> 00:00:29,480
+Prospero año y felicidad
+
+10
+00:00:31,500 --> 00:00:35,170
+Feliz navidad
+
+11
+00:00:35,170 --> 00:00:39,530
+Feliz navidad
+
+12
+00:00:39,530 --> 00:00:41,150
+Feliz navidad
+
+13
+00:00:41,150 --> 00:00:45,470
+Prospero año y felicidad
+
+14
+00:00:46,900 --> 00:00:50,780
+I want to wish you a merry christmas
+
+15
+00:00:50,780 --> 00:00:54,670
+I want to wish you a merry christmas
+
+16
+00:00:54,670 --> 00:00:57,540
+I want to wish you a merry christmas
+
+17
+00:00:57,540 --> 00:01:01,150
+From the bottom of my heart
+
+18
+00:01:02,710 --> 00:01:06,550
+I want to wish you a merry christmas
+
+19
+00:01:06,550 --> 00:01:10,470
+I want to wish you a merry christmas
+
+20
+00:01:10,470 --> 00:01:13,340
+I want to wish you a merry christmas
+
+21
+00:01:13,340 --> 00:01:17,640
+From the bottom of my heart
+
+22
+00:01:19,050 --> 00:01:23,020
+Feliz navidad
+
+23
+00:01:23,020 --> 00:01:26,990
+Feliz navidad
+
+24
+00:01:26,990 --> 00:01:28,910
+Feliz navidad
+
+25
+00:01:28,910 --> 00:01:34,010
+Prospero año y felicidad
+
+26
+00:01:35,030 --> 00:01:38,890
+Feliz navidad
+
+27
+00:01:38,890 --> 00:01:42,720
+Feliz navidad
+
+28
+00:01:42,720 --> 00:01:44,730
+Feliz navidad
+
+29
+00:01:44,730 --> 00:01:48,100
+Prospero año y felicidad
+
+30
+00:01:50,190 --> 00:01:54,100
+I want to wish you a merry christmas
+
+31
+00:01:54,100 --> 00:01:58,180
+I want to wish you a merry christmas
+
+32
+00:01:58,180 --> 00:02:01,200
+I want to wish you a merry christmas
+
+33
+00:02:01,200 --> 00:02:04,610
+From the bottom of my heart
+
+34
+00:02:06,050 --> 00:02:09,910
+I want to wish you a merry christmas
+
+35
+00:02:09,910 --> 00:02:13,820
+I want to wish you a merry christmas
+
+36
+00:02:13,820 --> 00:02:16,870
+I want to wish you a merry christmas
+
+37
+00:02:16,870 --> 00:02:23,777
+From the bottom of my heart
+

@@ -1,0 +1,339 @@
+<tt xml:lang="vi" 
+	xmlns="http://www.w3.org/ns/ttml"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling"
+    xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+    xmlns:kar="http://code.google.com/p/as3-karaoke-player"> 
+	<head>
+		<metadata>
+			<ttm:title><![CDATA[Bài Hát: Đơn Côi]]></ttm:title>
+			<ttm:desc><![CDATA[Ca Sĩ: Trương Quỳnh Anh]]></ttm:desc>
+			<ttm:copyright>Copyright (C) 2010 Thanh Tran - trongthanh@gmail.com</ttm:copyright>
+			<kar:version>1.0</kar:version> <!-- format version of this file -->
+			<kar:genre>Nhạc Trẻ</kar:genre> <!-- for info only -->
+			<kar:mood>Nhớ Nhung</kar:mood>
+			<kar:audio>http://k002.kiwi6.com/hotlink/y5e06hackc/Truong_Quynh_Anh_-_Don_Coi.mp3
+			</kar:audio>
+			<kar:styleof>Singer: Trương Quỳnh Anh</kar:styleof>
+		</metadata>
+	</head>
+	<body>
+		<div style="f">
+		<p begin="00.011.011">Ca khúc: Đơn Côi</p>
+		</div>
+		<div style="f">
+		<p begin="00.011.011">Ca Sĩ: Trương Quỳnh Anh</p>
+		</div>
+		<div style="f">
+		<p begin="00.011.011">Album: Nhạc Trẻ Tuyển Chọn 2011</p>
+		</div>
+		<div style="f">
+		<p begin="00.011.011">Thực Hiện: tuannvbg@gmail.com (http://alovui.esy.es)</p>
+		</div>
+		<div style="f">
+		<p begin="00.011.011">http://alovui.esy.es</p>
+		</div>
+		<div style="f">
+		<p begin="00.111.311">*</p>
+		</div>
+		<div style="f">
+		<p begin="00.211.311">*</p>
+		</div>
+		<div style="f">
+		<p begin="00.211.111">*</p>
+		</div>
+		<div style="f">
+		<p begin="00.211.911">Ngồi nhìn trên cao</p>
+		</div>
+		<div style="f">
+		<p begin="00.211.011">ngắm sao đêm nay</p>
+		</div>
+		<div style="f">
+		<p begin="00.211.511">Chợt thấy tôi</p>
+		</div>
+		<div style="f">
+		<p begin="00.311.411">lòng buồn như lúc nào</p>
+		</div>
+		<div style="f">
+		<p begin="00.311.611">Vì ngày hôm qua</p>
+		</div>
+		<div style="f">
+		<p begin="00.311.011">đã trôi qua mau</p>
+		</div>
+		<div style="f">
+		<p begin="00.311.511">Để nỗi đau</p>
+		</div>
+		<div style="f">
+		<p begin="00.311.411">vẫn còn trong trái tim.</p>
+		</div>
+		<div style="f">
+		<p begin="00.311.711">Một ngày anh đi</p>
+		</div>
+		<div style="f">
+		<p begin="00.411.011">rất xa nơi đâu</p>
+		</div>
+		<div style="f">
+		<p begin="00.411.511">Để mãi tôi</p>
+		</div>
+		<div style="f">
+		<p begin="00.411.411">tìm anh trong bóng hình</p>
+		</div>
+		<div style="f">
+		<p begin="00.411.711">Đợi chờ mình anh</p>
+		</div>
+		<div style="f">
+		<p begin="00.411.011">dưới cơn mưa qua</p>
+		</div>
+		<div style="f">
+		<p begin="00.411.511">Làm giá băng</p>
+		</div>
+		<div style="f">
+		<p begin="00.411.411">nên lòng tôi xiết lại.</p>
+		</div>
+		<div style="f">
+		<p begin="00.511.811">Tôi đâu muốn</p>
+		</div>
+		<div style="f">
+		<p begin="00.511.011">trái tim tôi băng giá</p>
+		</div>
+		<div style="f">
+		<p begin="00.511.711">Dưới cơn mưa ấy</p>
+		</div>
+		<div style="f">
+		<p begin="00.511.011">khiến cho lòng buồn</p>
+		</div>
+		<div style="f">
+		<p begin="00.511.611">Vì ngày hôm qua</p>
+		</div>
+		<div style="f">
+		<p begin="00.511.011">anh rời xa tôi</p>
+		</div>
+		<div style="f">
+		<p begin="00.511.611">Để lại trong tôi</p>
+		</div>
+		<div style="f">
+		<p begin="01.011.911">niềm đớn đau.</p>
+		</div>
+		<div style="f">
+		<p begin="01.011.911">Đêm khuya thanh vắng</p>
+		</div>
+		<div style="f">
+		<p begin="01.011.011">chỉ mình tôi ở đó</p>
+		</div>
+		<div style="f">
+		<p begin="01.011.611">Để cho sương gió</p>
+		</div>
+		<div style="f">
+		<p begin="01.011.011">vây quanh tâm hồn</p>
+		</div>
+		<div style="f">
+		<p begin="01.011.711">Giờ anh nơi đâu</p>
+		</div>
+		<div style="f">
+		<p begin="01.111.011">có hay cho lòng tôi</p>
+		</div>
+		<div style="f">
+		<p begin="01.111.611">Một tình yêu</p>
+		</div>
+		<div style="f">
+		<p begin="01.111.411">đơn phương thầm kín</p>
+		</div>
+		<div style="f">
+		<p begin="01.111.111">Hỡi người dấu yêu...</p>
+		</div>
+		<div style="f">
+		<p begin="01.111.911">Album: Nhạc Trẻ Tuyển Chọn 2011</p>
+		</div>
+		<div style="f">
+		<p begin="01.111.911">Thực Hiện: tuannvbg@gmail.com (http://alovui.esy.es)</p>
+		</div>
+		<div style="f">
+		<p begin="01.211.911">http://alovui.esy.es</p>
+		</div>
+		<div style="f">
+		<p begin="01.211.511">*</p>
+		</div>
+		<div style="f">
+		<p begin="01.311.511">*</p>
+		</div>
+		<div style="f">
+		<p begin="01.311.211">*</p>
+		</div>
+		<div style="f">
+		<p begin="01.311.811">Ngồi nhìn trên cao</p>
+		</div>
+		<div style="f">
+		<p begin="01.411.011">ngắm sao đêm nay</p>
+		</div>
+		<div style="f">
+		<p begin="01.411.511">Chợt thấy tôi</p>
+		</div>
+		<div style="f">
+		<p begin="01.411.411">lòng buồn như lúc nào</p>
+		</div>
+		<div style="f">
+		<p begin="01.411.611">Vì ngày hôm qua</p>
+		</div>
+		<div style="f">
+		<p begin="01.411.011">đã trôi qua mau</p>
+		</div>
+		<div style="f">
+		<p begin="01.411.511">Để nỗi đau</p>
+		</div>
+		<div style="f">
+		<p begin="01.411.411">vẫn còn trong trái tim.</p>
+		</div>
+		<div style="f">
+		<p begin="01.511.611">Một ngày anh đi</p>
+		</div>
+		<div style="f">
+		<p begin="01.511.011">rất xa nơi đâu</p>
+		</div>
+		<div style="f">
+		<p begin="01.511.511">Để mãi tôi</p>
+		</div>
+		<div style="f">
+		<p begin="01.511.411">tìm anh trong bóng hình</p>
+		</div>
+		<div style="f">
+		<p begin="01.511.611">Đợi chờ mình anh</p>
+		</div>
+		<div style="f">
+		<p begin="01.511.011">dưới cơn mưa qua</p>
+		</div>
+		<div style="f">
+		<p begin="01.511.511">Làm giá băng</p>
+		</div>
+		<div style="f">
+		<p begin="02.011.411">nên lòng tôi xiết lại.</p>
+		</div>
+		<div style="f">
+		<p begin="02.011.911">Tôi đâu muốn</p>
+		</div>
+		<div style="f">
+		<p begin="02.011.011">trái tim tôi băng giá</p>
+		</div>
+		<div style="f">
+		<p begin="02.011.711">Dưới cơn mưa ấy</p>
+		</div>
+		<div style="f">
+		<p begin="02.011.011">khiến cho lòng buồn</p>
+		</div>
+		<div style="f">
+		<p begin="02.011.711">Vì ngày hôm qua</p>
+		</div>
+		<div style="f">
+		<p begin="02.111.011">anh rời xa tôi</p>
+		</div>
+		<div style="f">
+		<p begin="02.111.511">Để lại trong tôi</p>
+		</div>
+		<div style="f">
+		<p begin="02.111.911">niềm đớn đau.</p>
+		</div>
+		<div style="f">
+		<p begin="02.111.911">Đêm khuya thanh vắng</p>
+		</div>
+		<div style="f">
+		<p begin="02.111.111">chỉ mình tôi ở đó</p>
+		</div>
+		<div style="f">
+		<p begin="02.111.711">Để cho sương gió</p>
+		</div>
+		<div style="f">
+		<p begin="02.111.011">vây quanh tâm hồn</p>
+		</div>
+		<div style="f">
+		<p begin="02.211.711">Giờ anh nơi đâu</p>
+		</div>
+		<div style="f">
+		<p begin="02.211.911">có hay cho lòng tôi</p>
+		</div>
+		<div style="f">
+		<p begin="02.211.511">Một tình yêu</p>
+		</div>
+		<div style="f">
+		<p begin="02.211.411">đơn phương thầm kín</p>
+		</div>
+		<div style="f">
+		<p begin="02.211.011">Hỡi người dấu yêu...</p>
+		</div>
+		<div style="f">
+		<p begin="02.211.811">Tôi đâu muốn</p>
+		</div>
+		<div style="f">
+		<p begin="02.311.011">trái tim tôi băng giá</p>
+		</div>
+		<div style="f">
+		<p begin="02.311.711">Dưới cơn mưa ấy</p>
+		</div>
+		<div style="f">
+		<p begin="02.311.011">khiến cho lòng buồn</p>
+		</div>
+		<div style="f">
+		<p begin="02.311.711">Vì ngày hôm qua</p>
+		</div>
+		<div style="f">
+		<p begin="02.311.011">anh rời xa tôi</p>
+		</div>
+		<div style="f">
+		<p begin="02.311.511">Để lại trong tôi</p>
+		</div>
+		<div style="f">
+		<p begin="02.311.911">niềm đớn đau.</p>
+		</div>
+		<div style="f">
+		<p begin="02.411.911">Hoa kia vẫn nở</p>
+		</div>
+		<div style="f">
+		<p begin="02.411.011">dẫu cho sương buốt giá</p>
+		</div>
+		<div style="f">
+		<p begin="02.411.711">Nhưng sao anh nỡ</p>
+		</div>
+		<div style="f">
+		<p begin="02.411.011">xa tôi mất rồi</p>
+		</div>
+		<div style="f">
+		<p begin="02.411.711">Để tôi đêm đêm</p>
+		</div>
+		<div style="f">
+		<p begin="02.411.011">tìm anh trong cô đơn</p>
+		</div>
+		<div style="f">
+		<p begin="02.511.711">Giữa bầu trời</p>
+		</div>
+		<div style="f">
+		<p begin="02.511.511">bao la đầy sao</p>
+		</div>
+		<div style="f">
+		<p begin="02.511.011">Hỡi người dấu yêu...</p>
+		</div>
+		<div style="f">
+		<p begin="02.511.511">Để tôi đêm đêm</p>
+		</div>
+		<div style="f">
+		<p begin="02.511.011">tìm anh trong cô đơn</p>
+		</div>
+		<div style="f">
+		<p begin="02.511.511">Giữa bầu trời</p>
+		</div>
+		<div style="f">
+		<p begin="03.011.311">bao la đầy sao</p>
+		</div>
+		<div style="f">
+		<p begin="03.011.111">Hỡi người dấu yêu...</p>
+		</div>
+		<div style="f">
+		<p begin="03.011.111">Album: Nhạc Trẻ Tuyển Chọn 2011</p>
+		</div>
+		<div style="f">
+		<p begin="03.011.111">Thực Hiện: tuannvbg@gmail.com (http://alovui.esy.es)</p>
+		</div>
+		<div style="f">
+		<p begin="03.011.111">http://alovui.esy.es</p>
+		</div>
+		<div style="f">
+		<p begin="03.111.111" dur="3000">Chúc các bạn nghe nhạc vui vẻ</p>
+		</div>
+	</body>
+</tt>

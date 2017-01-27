@@ -1,0 +1,312 @@
+1
+00:00:02,480 --> 00:00:04,510
+Artist: Michael Jackson
+
+2
+00:00:04,510 --> 00:00:08,370
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+3
+00:00:08,370 --> 00:00:11,480
+Title: You Are Not Alone (5:44)
+
+4
+00:00:11,480 --> 00:00:14,900
+By: nguyentuan2005@gmail.com
+
+5
+00:00:14,900 --> 00:00:17,450
+Date: 2010-04-11
+
+6
+00:00:18,650 --> 00:00:22,610
+Another day has gone
+
+7
+00:00:22,610 --> 00:00:26,580
+I'm still all alone
+
+8
+00:00:26,580 --> 00:00:30,530
+How could this be
+
+9
+00:00:30,530 --> 00:00:34,550
+You're not here with me
+
+10
+00:00:34,550 --> 00:00:38,400
+You never said goodbye
+
+11
+00:00:38,400 --> 00:00:42,510
+Someone tell me why
+
+12
+00:00:42,510 --> 00:00:46,430
+Did you have to go
+
+13
+00:00:46,430 --> 00:00:52,180
+And leave my world so cold
+
+14
+00:00:52,180 --> 00:00:56,160
+Everyday I sit and ask myself
+
+15
+00:00:56,160 --> 00:01:00,460
+How did love slip away
+
+16
+00:01:00,460 --> 00:01:06,430
+Something whispers in my ear and says
+
+17
+00:01:06,430 --> 00:01:10,540
+That you are not alone
+
+18
+00:01:10,540 --> 00:01:14,450
+For I am here with you
+
+19
+00:01:14,450 --> 00:01:18,470
+Though you're far away
+
+20
+00:01:18,470 --> 00:01:22,380
+I am here to stay
+
+21
+00:01:22,380 --> 00:01:26,280
+You are not alone
+
+22
+00:01:26,280 --> 00:01:30,320
+I am here with you
+
+23
+00:01:30,320 --> 00:01:34,300
+Though we're far apart
+
+24
+00:01:34,300 --> 00:01:38,280
+You're always in my heart
+
+25
+00:01:38,280 --> 00:01:44,510
+You are not alone
+
+26
+00:01:44,510 --> 00:01:51,620
+All alone
+
+27
+00:01:51,620 --> 00:01:58,350
+Why, oh
+
+28
+00:01:58,350 --> 00:02:02,360
+Just the other night
+
+29
+00:02:02,360 --> 00:02:06,260
+I thought I heard you cry
+
+30
+00:02:06,260 --> 00:02:10,050
+Asking me to come
+
+31
+00:02:10,050 --> 00:02:14,280
+And hold you in my arms
+
+32
+00:02:14,280 --> 00:02:18,220
+I can hear your prayers
+
+33
+00:02:18,220 --> 00:02:22,110
+Your burdens I will bear
+
+34
+00:02:22,110 --> 00:02:26,090
+But first I need your hand
+
+35
+00:02:26,090 --> 00:02:32,030
+So forever can begin
+
+36
+00:02:32,030 --> 00:02:35,830
+Everyday I sit and ask myself
+
+37
+00:02:35,830 --> 00:02:40,190
+How did love slip away
+
+38
+00:02:40,190 --> 00:02:46,210
+Then something whispers in my ear and says
+
+39
+00:02:46,210 --> 00:02:50,200
+That you are not alone
+
+40
+00:02:50,200 --> 00:02:54,170
+For I am here with you
+
+41
+00:02:54,170 --> 00:02:58,180
+Though you're far away
+
+42
+00:02:58,180 --> 00:03:02,100
+I am here to stay
+
+43
+00:03:02,100 --> 00:03:06,120
+For you are not alone
+
+44
+00:03:06,120 --> 00:03:10,100
+I am here with you
+
+45
+00:03:10,100 --> 00:03:14,150
+Though we're far apart
+
+46
+00:03:14,150 --> 00:03:17,870
+You're always in my heart
+
+47
+00:03:17,870 --> 00:03:23,110
+And you are not alone
+
+48
+00:03:23,110 --> 00:03:24,760
+Oh...
+
+49
+00:03:24,760 --> 00:03:31,220
+Whisper three words and I'll come runnin'
+
+50
+00:03:31,220 --> 00:03:32,990
+Fly...
+
+51
+00:03:32,990 --> 00:03:39,520
+And girl you know that I'll be there
+
+52
+00:03:39,520 --> 00:03:46,140
+I'll be there
+
+53
+00:03:46,140 --> 00:03:50,100
+You are not alone
+
+54
+00:03:50,100 --> 00:03:54,010
+I am here with you
+
+55
+00:03:54,010 --> 00:03:58,060
+Though you're far away
+
+56
+00:03:58,060 --> 00:04:02,130
+I am here to stay
+
+57
+00:04:02,130 --> 00:04:06,100
+You are not alone
+
+58
+00:04:06,100 --> 00:04:10,000
+I am here with you
+
+59
+00:04:10,000 --> 00:04:13,980
+Though we're far apart
+
+60
+00:04:13,980 --> 00:04:17,990
+You're always in my heart
+
+61
+00:04:17,990 --> 00:04:21,960
+You are not alone(You are not alone)
+
+62
+00:04:21,960 --> 00:04:25,930
+For I am here with you(I am here with you)
+
+63
+00:04:25,930 --> 00:04:30,060
+Though you're far away(Though you're far away)
+
+64
+00:04:30,060 --> 00:04:33,970
+I am here to stay(And you with me)
+
+65
+00:04:33,970 --> 00:04:38,180
+For you are not alone(You're always)
+
+66
+00:04:38,180 --> 00:04:42,220
+In my heart.....For I am here with you
+
+67
+00:04:42,220 --> 00:04:46,210
+Heart.....Though we're far apart
+
+68
+00:04:46,210 --> 00:04:50,130
+Heart.....You're always in my heart
+
+69
+00:04:50,130 --> 00:04:53,320
+For you are not alone
+
+70
+00:04:53,320 --> 00:04:57,490
+Not alone
+
+71
+00:04:57,490 --> 00:05:05,540
+You are not alone, you are not alone...
+
+72
+00:05:05,540 --> 00:05:09,320
+You are not alone, you are not alone...
+
+73
+00:05:09,320 --> 00:05:13,330
+Not alone, not alone
+
+74
+00:05:13,330 --> 00:05:15,990
+You just reach for me girl
+
+75
+00:05:15,990 --> 00:05:20,490
+In the morning in the evening
+
+76
+00:05:20,490 --> 00:05:24,190
+Not alone, not alone
+
+77
+00:05:24,190 --> 00:05:29,080
+And you with me, not alone
+
+78
+00:05:29,080 --> 00:05:45,521
+Oh, together, together...
+

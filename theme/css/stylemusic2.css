@@ -1,0 +1,353 @@
+/*http://codepen.io/tuannvbg/pen/NbyryM*/
+html, body {
+  height: 100%;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.rotateDisc {
+  animation-name: rotate;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.show0 {
+  transform: rotateY(0deg) !important;
+}
+
+.show90 {
+  transform: rotateY(-90deg) !important;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Ubuntu, sans;
+  font-size: 18px;
+  transition: all 0.3s;
+}
+body a {
+  text-decoration: none;
+  color: inherit;
+}
+body img {
+  max-height: 100%;
+  max-width: 100%;
+}
+body #backgroundGradient,
+body #backgroundGradientTransition {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: all 0.5s;
+}
+body #backgroundGradient {
+  background: radial-gradient(#e0d9c6, #4b3a40);
+}
+body #player {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 200px;
+  margin: -165px 0 0 -112px;
+}
+body #player #vinyl {
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  transition: all 0.8s;
+}
+body #player #vinyl #disc {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  width: 200px;
+  height: 200px;
+  background: url("../images/Pixeden/vinyl.png") no-repeat;
+}
+body #player #vinyl #timer {
+  position: absolute;
+  top: 38px;
+  left: 49px;
+  transform: rotate(90deg);
+}
+body #player #vinyl #total-timer {
+  cursor: pointer;
+}
+body #player #vinyl #timer-dash {
+  transition: stroke-dasharray 1s linear;
+}
+body #player #cover {
+  width: 100%;
+  height: 100%;
+  border: 8px solid #F1F1F1;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+  transform: rotateY(0deg);
+  background: white;
+  backface-visibility: hidden;
+  opacity: 1;
+  transition: transform 0.5s;
+}
+body #player #playlist {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 190px;
+  height: 190px;
+  border: 12px solid #333333;
+  padding: 6px;
+  background: #F1F1F1;
+  transform: rotateY(-179.9deg);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  backface-visibility: hidden;
+  transition: all 0.5s;
+}
+body #player #playlist p {
+  margin: 0;
+  padding: 2px 4px 3px;
+  font-size: 10px;
+  text-shadow: 0 1px 1px white;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+body #player #playlist p:last-child {
+  border: none;
+}
+body #player #playlist span {
+  color: #3B4545;
+}
+body #player #playlist .active {
+  color: #557778;
+}
+body #player #infos {
+  margin: 15px 0 0 12px;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+body #player #infos #title {
+  color: #076df9;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s;
+}
+body #player #infos #artist {
+  color: #fd4405;
+  font-size: 18px;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s;
+}
+body #player #buttons {
+  position: relative;
+  margin-top: 30px;
+  width: 200px;
+}
+body #player #buttons #playPause {
+  position: absolute;
+  top: 0;
+  left: 85px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border-top: 2px solid white;
+  background: linear-gradient(to top, #E5E0DD, #FBF9F3);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+body #player #buttons #playPause p {
+  display: inline-block;
+  margin: 5px 0 0 16px;
+  transform: scale(1, 1.5);
+  /* W3C */
+  -webkit-transform: scale(1, 1.5);
+  /* Safari and Chrome */
+  -moz-transform: scale(1, 1.5);
+  /* Firefox */
+  -ms-transform: scale(1, 1.5);
+  /* IE 9 */
+  -o-transform: scale(1, 1.5);
+  /* Opera */
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 1px 4px 6px #E5E0DD, 0 0 0 rgba(0, 0, 0, 0.5), 1px 4px 6px #E5E0DD;
+}
+body #player #buttons #playPause:active {
+  margin-top: 1px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+body #player #buttons .previous {
+  position: absolute;
+  top: 5px;
+  left: 65px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border-top: 2px solid white;
+  background: linear-gradient(to top, #E5E0DD, #FBF9F3);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+body #player #buttons .previous p {
+  display: inline-block;
+  margin: 2px 0 0 8px;
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 1px 4px 6px #E5E0DD, 0 0 0 rgba(0, 0, 0, 0.5), 1px 4px 6px #E5E0DD;
+}
+body #player #buttons .previous:active {
+  margin-top: 1px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+body #player #buttons .next {
+  position: absolute;
+  top: 5px;
+  right: 55px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border-top: 2px solid white;
+  background: linear-gradient(to top, #E5E0DD, #FBF9F3);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+body #player #buttons .next p {
+  display: inline-block;
+  margin: 2px 0 0 15px;
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 1px 4px 6px #E5E0DD, 0 0 0 rgba(0, 0, 0, 0.5), 1px 4px 6px #E5E0DD;
+}
+body #player #buttons .next:active {
+  margin-top: 1px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+body #player #buttons #playlistLink {
+  position: absolute;
+  top: 10px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: linear-gradient(to top, #E5E0DD, #FBF9F3);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+body #player #buttons #playlistLink::before {
+  position: relative;
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url("../images/Pixeden/playlist.png") no-repeat 5px 5px;
+  vertical-align: middle;
+}
+body #player #buttons #volume {
+  position: absolute;
+  top: 10px;
+  right: -12px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: linear-gradient(to top, #E5E0DD, #FBF9F3);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: all 0.2s;
+  /* WebKit */
+  /* Firefox */
+}
+body #player #buttons #volume::before {
+  position: relative;
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url("../images/Pixeden/volume.png") no-repeat 5px 4px;
+  vertical-align: middle;
+}
+body #player #buttons #volume input[type=checkbox] {
+  position: absolute;
+  left: -9999px;
+}
+body #player #buttons #volume input[type=range] {
+  -webkit-appearance: none;
+  width: 42px;
+  margin: -120px 0 0 -13px;
+  vertical-align: middle;
+  background: none;
+  transform: rotate(-90deg);
+  display: none;
+}
+body #player #buttons #volume input[type=checkbox]:checked ~ input[type=range] {
+  display: inline-block;
+}
+body #player #buttons #volume input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 6px;
+  cursor: pointer;
+  background: linear-gradient(to bottom, #E6E6E6, #fff);
+  border-radius: 3px;
+  border: none;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.6) inset;
+}
+body #player #buttons #volume input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 6px;
+  cursor: pointer;
+  background: linear-gradient(to bottom, #E6E6E6, #fff);
+  border-radius: 3px;
+  border: none;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.6) inset;
+}
+body #player #buttons #volume input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 6px;
+  width: 20px;
+  margin: 0px !important;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  background: #bcbcbc;
+  cursor: pointer;
+}
+body #player #buttons #volume input[type=range]::-moz-range-thumb {
+  height: 4px;
+  width: 20px;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  background: #bcbcbc;
+  cursor: pointer;
+  top: 0px;
+  left: 0px;
+}
+body #player #buttons #time {
+  position: absolute;
+  top: 16px;
+  right: -12px;
+  color: #3A4E55;
+  font-size: 11px;
+  text-align: right;
+  transition: all 0.5s;
+}
+body #player #buttons span {
+  color: #333;
+  font-weight: bold;
+  font-size: 13px;
+}

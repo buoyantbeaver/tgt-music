@@ -1,0 +1,312 @@
+<tt xml:lang="vi" 
+	xmlns="http://www.w3.org/ns/ttml"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling"
+    xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+    xmlns:kar="http://code.google.com/p/as3-karaoke-player">
+	<head>
+		<metadata>
+			<ttm:title><![CDATA[Bài Hát: Trường Sơn Đông Trường Sơn Tây]]></ttm:title>
+			<ttm:desc><![CDATA[Sáng Tác: Hoàng Hiệp<br/>Ca Sĩ: Trung Đức ft. Thu Hiền]]></ttm:desc>
+			<ttm:copyright>Copyright (C) 2010 Thanh Tran - trongthanh@gmail.com</ttm:copyright>
+			<kar:audio>http://k007.kiwi6.com/hotlink/972itffyoq/Truong_Son_Dong_Truong_Son_Tay_-_Thu_Hien_Trung_Duc.mp3
+			</kar:audio>
+			<!--Convert Zing Star to AS3 Karaoke by tuantiens1981@gmail.com-->
+		</metadata>
+	</head>
+<body>
+<div style="b">
+<p begin="00:01.011">Song: Trường Sơn Đông Trường Sơn Tây</p>
+</div>
+<div style="b">
+<p begin="00:04.011" dur="3000">Singer: Trung Đức ft. Thu Hiền</p>
+</div>
+<div style="b">
+<p begin="00:25.711">*4</p>
+</div>
+<div style="b">
+<p begin="00:26.311">*3</p>
+</div>
+<div style="b">
+<p begin="00:27.111">*2</p>
+</div>
+<div style="b">
+<p begin="00:27.611">*1</p>
+</div>
+<div style="b">
+<p begin="00:31.311">Cùng mắc võng</p>
+</div>
+<div style="b">
+<p begin="00:32.711">trên rừng Trường Sơn</p>
+</div>
+<div style="b">
+<p begin="00:34.211">hai đứa ở</p>
+</div>
+<div style="b">
+<p begin="00:35.611">hai đầu xa thẳm</p>
+</div>
+<div style="b">
+<p begin="00:37.211">đường ra trận</p>
+</div>
+<div style="b">
+<p begin="00:38.511">mùa này đẹp lắm</p>
+</div>
+<div style="b">
+<p begin="00:40.211">Trường Sơn Đông</p>
+</div>
+<div style="b">
+<p begin="00:41.411" dur="2000">nhớ Trường Sơn Tây</p>
+</div>
+<div style="m">
+<p begin="00:46.311">Trường Sơn Tây</p>
+</div>
+<div style="m">
+<p begin="00:47.511" dur="2000">anh đi</p>
+</div>
+<div style="m">
+<p begin="00:49.611">thương em thương em</p>
+</div>
+<div style="m">
+<p begin="00:51.711">bên ấy mưa nhiều</p>
+</div>
+<div style="m">
+<p begin="00:53.311">con đường</p>
+</div>
+<div style="m">
+<p begin="00:54.011">mà gánh gạo</p>
+</div>
+<div style="m">
+<p begin="00:55.311">muỗi bay rừng già</p>
+</div>
+<div style="m">
+<p begin="00:56.411">cho dài mà tay áo</p>
+</div>
+<div style="m">
+<p begin="00:58.211">hết rau rồi em có</p>
+</div>
+<div style="m">
+<p begin="00:59.911">lấy măng không</p>
+</div>
+<div style="f">
+<p begin="01:03.011">còn em thương</p>
+</div>
+<div style="f">
+<p begin="01:03.811">bên tây anh mùa đông</p>
+</div>
+<div style="f">
+<p begin="01:05.711">nước khe cạn</p>
+</div>
+<div style="f">
+<p begin="01:06.911">bướm bay lèn đá</p>
+</div>
+<div style="f">
+<p begin="01:08.711">biết lòng anh</p>
+</div>
+<div style="f">
+<p begin="01:09.911">say miền đất lạ</p>
+</div>
+<div style="f">
+<p begin="01:11.711">là chắc em lo</p>
+</div>
+<div style="f">
+<p begin="01:13.011" dur="2000">đường chắn bom thù</p>
+</div>
+<div style="m">
+<p begin="01:17.311">Anh lên xe</p>
+</div>
+<div style="m">
+<p begin="01:18.511">trời đổ cơn mưa</p>
+</div>
+<div style="m">
+<p begin="01:20.011">cái gạt nước</p>
+</div>
+<div style="m">
+<p begin="01:21.211">xua đi nỗi nhớ</p>
+</div>
+<div style="f">
+<p begin="01:23.111">em xuống núi</p>
+</div>
+<div style="f">
+<p begin="01:24.611">nắng về rực rỡ</p>
+</div>
+<div style="f">
+<p begin="01:26.111">cái nhành cây</p>
+</div>
+<div style="f">
+<p begin="01:27.311">gạt mối riêng tư</p>
+</div>
+<div style="f">
+<p begin="01:30.111">từ nơi em đưa sang</p>
+</div>
+<div style="f">
+<p begin="01:31.411">bên nơi anh</p>
+</div>
+<div style="b">
+<p begin="01:32.711">những binh đoàn</p>
+</div>
+<div style="b">
+<p begin="01:34.011">nối nhau ra tiền tuyến</p>
+</div>
+<div style="b">
+<p begin="01:35.811">như tình yêu</p>
+</div>
+<div style="b">
+<p begin="01:36.911">nối lời vô tận</p>
+</div>
+<div style="b">
+<p begin="01:38.711">là Đông Trường Sơn</p>
+</div>
+<div style="b">
+<p begin="01:40.011">nối Tây Trường Sơn.</p>
+</div>
+<div style="b">
+<p begin="01:44.711">Song: Trường Sơn Đông Trường Sơn Tây</p>
+</div>
+<div style="b">
+<p begin="01:46.811" dur="3000">Singer: Trung Đức ft. Thu Hiền</p>
+</div>
+<div style="b">
+<p begin="01:58.411">*4</p>
+</div>
+<div style="b">
+<p begin="02:00.311">*3</p>
+</div>
+<div style="b">
+<p begin="02:02.211">*2</p>
+</div>
+<div style="b">
+<p begin="02:03.811">*1</p>
+</div>
+<div style="b">
+<p begin="02:08.811">Cùng mắc võng</p>
+</div>
+<div style="b">
+<p begin="02:10.211">trên rừng Trường Sơn</p>
+</div>
+<div style="b">
+<p begin="02:11.811">hai đứa ở</p>
+</div>
+<div style="b">
+<p begin="02:13.211">hai đầu xa thẳm</p>
+</div>
+<div style="b">
+<p begin="02:14.811">đường ra trận</p>
+</div>
+<div style="b">
+<p begin="02:16.211">mùa này đẹp lắm</p>
+</div>
+<div style="b">
+<p begin="02:17.811">Trường Sơn Đông</p>
+</div>
+<div style="b">
+<p begin="02:19.011" dur="2000">nhớ Trường Sơn Tây</p>
+</div>
+<div style="m">
+<p begin="02:23.811">Trường Sơn Tây</p>
+</div>
+<div style="m">
+<p begin="02:25.011" dur="2000">anh đi</p>
+</div>
+<div style="m">
+<p begin="02:27.311">thương em thương em</p>
+</div>
+<div style="m">
+<p begin="02:29.511">bên ấy mưa nhiều</p>
+</div>
+<div style="m">
+<p begin="02:30.911">con đường</p>
+</div>
+<div style="m">
+<p begin="02:31.611">mà gánh gạo</p>
+</div>
+<div style="m">
+<p begin="02:32.811">muỗi bay rừng già</p>
+</div>
+<div style="m">
+<p begin="02:34.011">cho dài mà tay áo</p>
+</div>
+<div style="m">
+<p begin="02:35.811">hết rau rồi</p>
+</div>
+<div style="m">
+<p begin="02:37.011" dur="2000">em có lấy măng không</p>
+</div>
+<div style="f">
+<p begin="02:40.711">còn em thương</p>
+</div>
+<div style="f">
+<p begin="02:41.511">bên tây anh mùa đông</p>
+</div>
+<div style="f">
+<p begin="02:43.311">nước khe cạn</p>
+</div>
+<div style="f">
+<p begin="02:44.611">bướm bay lèn đá</p>
+</div>
+<div style="f">
+<p begin="02:46.411">biết lòng anh</p>
+</div>
+<div style="f">
+<p begin="02:47.511">say miền đất lạ</p>
+</div>
+<div style="f">
+<p begin="02:49.311">là chắc anh lo</p>
+</div>
+<div style="f">
+<p begin="02:50.511" dur="2000">đường chắn bom thù</p>
+</div>
+<div style="m">
+<p begin="02:54.811">Anh lên xe</p>
+</div>
+<div style="m">
+<p begin="02:56.211">trời đổ cơn mưa</p>
+</div>
+<div style="m">
+<p begin="02:57.711">cái gạt nước</p>
+</div>
+<div style="m">
+<p begin="02:58.811">xua đi nỗi nhớ</p>
+</div>
+<div style="f">
+<p begin="03:00.811">em xuống núi</p>
+</div>
+<div style="f">
+<p begin="03:02.211">nắng về rực rỡ</p>
+</div>
+<div style="f">
+<p begin="03:03.711">cái nhành cây</p>
+</div>
+<div style="f">
+<p begin="03:04.911" dur="1000">gạt mối riêng tư</p>
+</div>
+<div style="b">
+<p begin="03:07.611">từ nơi em đưa</p>
+</div>
+<div style="b">
+<p begin="03:08.911">sang bên nơi anh</p>
+</div>
+<div style="b">
+<p begin="03:10.411">những binh đoàn</p>
+</div>
+<div style="b">
+<p begin="03:11.711">nối nhau ra tiền tuyến</p>
+</div>
+<div style="b">
+<p begin="03:13.411">như tình yêu</p>
+</div>
+<div style="b">
+<p begin="03:14.711">nối lời vô tận</p>
+</div>
+<div style="b">
+<p begin="03:16.411">là Đông Trường Sơn</p>
+</div>
+<div style="b">
+<p begin="03:18.011">nối</p>
+</div>
+<div style="b">
+<p begin="03:20.811" dur="4500">Tây Trường Sơn.</p>
+</div>
+<div style="b">
+<p begin="03:28.511" dur="4000">Cảm ơn các bạn đã nghe ^_^</p>
+</div>
+</body>
+</tt>

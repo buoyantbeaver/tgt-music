@@ -1,0 +1,280 @@
+1
+00:00:01,560 --> 00:00:03,520
+Artist: Modern Talking
+
+2
+00:00:03,520 --> 00:00:09,090
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang Vietnam
+
+3
+00:00:09,090 --> 00:00:13,010
+Title: You And Me (4:03)
+
+4
+00:00:13,010 --> 00:00:19,390
+By: nguyentuan2005@gmail.com
+
+5
+00:00:19,390 --> 00:00:24,040
+Love delight - deep inside
+
+6
+00:00:24,040 --> 00:00:26,460
+I'm sharing all my love with you
+
+7
+00:00:26,460 --> 00:00:32,470
+Oh, why I know I can't live without you girl ?
+
+8
+00:00:32,470 --> 00:00:38,440
+I can't live without you
+
+9
+00:00:38,440 --> 00:00:43,200
+Take me away - make my day
+
+10
+00:00:43,200 --> 00:00:45,580
+Every time I see your face
+
+11
+00:00:45,580 --> 00:00:51,470
+Oh, why I know I can't live without your love ?
+
+12
+00:00:51,470 --> 00:00:56,840
+That I can't live without you
+
+13
+00:00:56,840 --> 00:00:59,600
+There's one life to live
+
+14
+00:00:59,600 --> 00:01:01,940
+And one heart to give
+
+15
+00:01:01,940 --> 00:01:04,490
+Tell me that you need, body heat
+
+16
+00:01:04,490 --> 00:01:05,920
+Just turn out the lights
+
+17
+00:01:06,420 --> 00:01:08,810
+You and me - dreams are free
+
+18
+00:01:08,810 --> 00:01:11,450
+Just a woman and a man, babe
+
+19
+00:01:11,450 --> 00:01:13,600
+You and me - can't you see
+
+20
+00:01:13,600 --> 00:01:15,820
+That I'm doing what I can, babe
+
+21
+00:01:15,820 --> 00:01:18,300
+Babe, you and me - ecstasy
+
+22
+00:01:18,300 --> 00:01:20,610
+And I never want to lose you
+
+23
+00:01:20,610 --> 00:01:22,970
+To the end of the world
+
+24
+00:01:22,970 --> 00:01:25,360
+Oh, I'll stay by your side
+
+25
+00:01:25,360 --> 00:01:27,760
+You and me - oh, I feel
+
+26
+00:01:27,760 --> 00:01:30,180
+Like the moon was made for lonely
+
+27
+00:01:30,180 --> 00:01:32,670
+You and me - and it's real
+
+28
+00:01:32,670 --> 00:01:34,780
+You are the one and you're the only
+
+29
+00:01:34,780 --> 00:01:37,200
+You and me - memories
+
+30
+00:01:37,200 --> 00:01:39,620
+All the love that's never ending
+
+31
+00:01:39,620 --> 00:01:40,860
+To the end of the world
+
+32
+00:01:40,860 --> 00:01:45,990
+Oh, I'll stay by your side
+
+33
+00:01:47,230 --> 00:01:48,910
+Artist: Modern Talking
+
+34
+00:01:48,910 --> 00:01:52,200
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang Vietnam
+
+35
+00:01:52,200 --> 00:01:54,840
+Title: You And Me (4:03)
+
+36
+00:01:54,840 --> 00:02:04,080
+By: nguyentuan2005@gmail.com
+
+37
+00:02:04,080 --> 00:02:06,170
+It's getting late
+
+38
+00:02:06,170 --> 00:02:08,530
+And I can wait
+
+39
+00:02:08,530 --> 00:02:10,900
+The ocean beating in my heart
+
+40
+00:02:10,900 --> 00:02:16,900
+Oh, why I know I can't live without you girl ?
+
+41
+00:02:16,900 --> 00:02:22,850
+I can't live without you
+
+42
+00:02:22,850 --> 00:02:25,140
+I call your name
+
+43
+00:02:25,140 --> 00:02:27,470
+Again and again
+
+44
+00:02:27,470 --> 00:02:29,750
+I lose my soul, my self control
+
+45
+00:02:29,750 --> 00:02:35,790
+Oh, why I know that I can't live without your love ?
+
+46
+00:02:35,790 --> 00:02:41,760
+That I can't live without you
+
+47
+00:02:41,760 --> 00:02:44,180
+There's one life to live
+
+48
+00:02:44,180 --> 00:02:46,630
+And one heart to give
+
+49
+00:02:46,630 --> 00:02:49,720
+Tell me that you need, body heat
+
+50
+00:02:49,720 --> 00:02:50,260
+Just turn out the light
+
+51
+00:02:50,970 --> 00:02:53,370
+You and me - dreams are free
+
+52
+00:02:53,370 --> 00:02:56,110
+Just a woman and a man, babe
+
+53
+00:02:56,110 --> 00:02:58,120
+You and me - can't you see
+
+54
+00:02:58,120 --> 00:03:00,360
+That I'm doing what I can, babe
+
+55
+00:03:00,360 --> 00:03:02,820
+Babe, you and me - ecstasy
+
+56
+00:03:02,820 --> 00:03:05,310
+And I never want to lose you
+
+57
+00:03:05,310 --> 00:03:07,430
+To the end of the world
+
+58
+00:03:07,430 --> 00:03:09,860
+Oh, I'll stay by your side
+
+59
+00:03:09,860 --> 00:03:12,240
+You and me - oh, I feel
+
+60
+00:03:12,240 --> 00:03:14,510
+Like the moon was made for lonely
+
+61
+00:03:14,510 --> 00:03:16,970
+You and me - and it's real
+
+62
+00:03:16,970 --> 00:03:19,300
+You are the one and you're the only
+
+63
+00:03:19,300 --> 00:03:21,670
+You and me - memories
+
+64
+00:03:21,670 --> 00:03:24,100
+All the love that's never ending
+
+65
+00:03:24,100 --> 00:03:26,470
+To the end of the world
+
+66
+00:03:26,470 --> 00:03:29,860
+Oh, I'll stay by your side
+
+67
+00:03:31,690 --> 00:03:34,370
+Artist: Modern Talking
+
+68
+00:03:34,370 --> 00:03:38,510
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang Vietnam
+
+69
+00:03:38,510 --> 00:03:44,060
+Title: You And Me (4:03)
+
+70
+00:03:44,060 --> 00:04:03,043
+By: nguyentuan2005@gmail.com
+

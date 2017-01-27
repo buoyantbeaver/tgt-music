@@ -1,0 +1,47 @@
+<rss version="2.0" xmlns:jwplayer="http://rss.jwpcdn.com/">
+	<channel>
+ 		<item>
+			<title>snow-motion</title>
+			<description>what a massive and unbelievable winter we're having!</description>
+			<jwplayer:source file="http://content.bitsontherun.com/videos/eawtAP1q-jt16QglC.mp4" type="video/mp4" />
+			<jwplayer:source file="http://content.bitsontherun.com/videos/eawtAP1q-vxKVlGiW.webm" type="video/webm" />
+			<jwplayer:image>http://d3el35u4qe4frz.cloudfront.net/eawtAP1q-480.jpg</jwplayer:image>
+		</item>
+		<item>
+			<title>snowy neighborhood</title>
+			<description></description>
+			<jwplayer:source file="http://content.bitsontherun.com/videos/HVClJdSh-jt16QglC.mp4" type="video/mp4" />
+			<jwplayer:source file="http://content.bitsontherun.com/videos/HVClJdSh-vxKVlGiW.webm" type="video/webm" />
+			<jwplayer:image>http://d3el35u4qe4frz.cloudfront.net/HVClJdSh-480.jpg</jwplayer:image>
+			<jwplayer:ova.hidden>true</jwplayer:ova.hidden>
+		</item>
+		<item>
+			<title>sand beach</title>
+			<description>sand beach acadia storm waves morning</description>
+			<jwplayer:source file="http://content.bitsontherun.com/videos/oJDUTltj-jt16QglC.mp4" type="video/mp4" />
+			<jwplayer:source file="http://content.bitsontherun.com/videos/oJDUTltj-vxKVlGiW.webm" type="video/webm" />
+			<jwplayer:image>http://d3el35u4qe4frz.cloudfront.net/oJDUTltj-480.jpg</jwplayer:image>
+		</item>
+		<item>
+			<title>wacking streams</title>
+			<description></description>
+			<jwplayer:source file="http://content.bitsontherun.com/videos/QieeAOba-jt16QglC.mp4" type="video/mp4" />
+			<jwplayer:source file="http://content.bitsontherun.com/videos/QieeAOba-vxKVlGiW.webm" type="video/webm" />
+			<jwplayer:image>http://d3el35u4qe4frz.cloudfront.net/QieeAOba-480.jpg</jwplayer:image>
+		</item>
+		<item>
+			<title>driving rain</title>
+			<description></description>
+			<jwplayer:source file="http://content.bitsontherun.com/videos/njZMLMwy-jt16QglC.mp4" type="video/mp4" />
+			<jwplayer:source file="http://content.bitsontherun.com/videos/njZMLMwy-vxKVlGiW.webm" type="video/webm" />
+			<jwplayer:image>http://d3el35u4qe4frz.cloudfront.net/njZMLMwy-480.jpg</jwplayer:image>
+		</item>
+		<item>
+			<title>winter brook</title>
+			<description></description>
+			<jwplayer:source file="http://content.bitsontherun.com/videos/Vg7cPUdl-jt16QglC.mp4" type="video/mp4" />
+			<jwplayer:source file="http://content.bitsontherun.com/videos/Vg7cPUdl-vxKVlGiW.webm" type="video/webm" />
+			<jwplayer:image>http://d3el35u4qe4frz.cloudfront.net/Vg7cPUdl-480.jpg</jwplayer:image>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,232 @@
+1
+00:00:01,170 --> 00:00:02,170
+Artist: Eric Clapton
+
+2
+00:00:02,170 --> 00:00:03,970
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+3
+00:00:03,970 --> 00:00:05,770
+Title: Tears In Heaven
+
+4
+00:00:05,770 --> 00:00:08,200
+By: nguyentuan2005@gmail.com
+
+5
+00:00:08,200 --> 00:00:09,570
+Date: 2010-04-03
+
+6
+00:00:13,930 --> 00:00:20,520
+Would you know my name
+
+7
+00:00:20,520 --> 00:00:26,660
+If I saw you in heaven
+
+8
+00:00:26,660 --> 00:00:32,560
+Will it be the same
+
+9
+00:00:32,560 --> 00:00:38,960
+If I saw you in heaven
+
+10
+00:00:38,960 --> 00:00:46,310
+I must be strong,
+
+11
+00:00:46,310 --> 00:00:49,540
+and carry on
+
+12
+00:00:49,540 --> 00:00:56,330
+Cause I know I don't belong
+
+13
+00:00:56,330 --> 00:00:58,850
+Here in heaven
+
+14
+00:00:59,210 --> 00:01:00,220
+Artist: Eric Clapton
+
+15
+00:01:00,220 --> 00:01:02,770
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+16
+00:01:02,770 --> 00:01:04,200
+Title: Tears In Heaven
+
+17
+00:01:04,200 --> 00:01:05,370
+By: nguyentuan2005@gmail.com
+
+18
+00:01:05,370 --> 00:01:06,570
+Date: 2010-04-03
+
+19
+00:01:10,830 --> 00:01:16,850
+Would you hold my hand
+
+20
+00:01:16,850 --> 00:01:23,140
+If I saw you in heaven
+
+21
+00:01:23,140 --> 00:01:29,170
+Would you help me stand
+
+22
+00:01:29,170 --> 00:01:35,950
+If I saw you in heaven
+
+23
+00:01:35,950 --> 00:01:42,310
+I'll find my way,
+
+24
+00:01:42,310 --> 00:01:45,600
+through night and day
+
+25
+00:01:45,600 --> 00:01:52,440
+Cause I know I just can't stay
+
+26
+00:01:52,440 --> 00:01:54,330
+Here in heaven
+
+27
+00:01:55,010 --> 00:01:56,570
+Artist: Eric Clapton
+
+28
+00:01:56,570 --> 00:01:59,620
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+29
+00:01:59,620 --> 00:02:01,170
+Title: Tears In Heaven
+
+30
+00:02:01,170 --> 00:02:02,670
+By: nguyentuan2005@gmail.com
+
+31
+00:02:02,670 --> 00:02:03,550
+Date: 2010-04-03
+
+32
+00:02:06,950 --> 00:02:10,070
+Time can bring you down
+
+33
+00:02:10,070 --> 00:02:14,350
+Time can bend your knee
+
+34
+00:02:19,470 --> 00:02:22,450
+Time can break your heart
+
+35
+00:02:22,450 --> 00:02:26,870
+Have you begging please
+
+36
+00:02:26,870 --> 00:02:32,760
+Begging please
+
+37
+00:02:34,050 --> 00:02:37,150
+Artist: Eric Clapton
+
+38
+00:02:37,150 --> 00:02:41,640
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+39
+00:02:41,640 --> 00:02:44,190
+Title: Tears In Heaven
+
+40
+00:02:44,190 --> 00:02:46,670
+By: nguyentuan2005@gmail.com
+
+41
+00:02:46,670 --> 00:02:49,570
+Date: 2010-04-03
+
+42
+00:02:57,310 --> 00:03:03,470
+Beyond the door
+
+43
+00:03:03,470 --> 00:03:06,840
+There's peace I'm sure.
+
+44
+00:03:06,840 --> 00:03:13,620
+And I know there'll be no more...
+
+45
+00:03:13,620 --> 00:03:15,810
+Tears in heaven
+
+46
+00:03:16,740 --> 00:03:18,040
+Artist: Eric Clapton
+
+47
+00:03:18,040 --> 00:03:20,780
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+48
+00:03:20,780 --> 00:03:22,470
+Title: Tears In Heaven
+
+49
+00:03:22,470 --> 00:03:24,090
+By: nguyentuan2005@gmail.com
+
+50
+00:03:24,090 --> 00:03:26,150
+Date: 2010-04-03
+
+51
+00:03:28,060 --> 00:03:33,910
+Would you know my name
+
+52
+00:03:33,910 --> 00:03:40,300
+If I saw you in heaven
+
+53
+00:03:40,300 --> 00:03:46,670
+Will it be the same
+
+54
+00:03:46,670 --> 00:03:53,380
+If I saw you in heaven
+
+55
+00:03:53,380 --> 00:03:59,640
+I must be strong,
+
+56
+00:03:59,640 --> 00:04:02,890
+and carry on
+
+57
+00:04:02,890 --> 00:04:05,040
+Cause I know I don't belong
+
+58
+00:04:09,690 --> 00:04:37,420
+Here in heaven
+

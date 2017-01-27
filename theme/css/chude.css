@@ -1,0 +1,161 @@
+.content_topic{padding:0px 0;width:100%; z-index:1000; float:left; margin:0px 0 0 0; float:left; height:480px;}
+.rslides{width:100%}
+.callbacks_container {position: relative;float: left; width: 100%;}
+.callbacks { position: relative;  list-style: none;  overflow: hidden;  width: 100%;  padding: 0; z-index:10}
+.callbacks li {position: absolute;  width: 100%;  left: 0;  top: 0; z-index:10 }
+.callbacks .caption {display: block;  position: absolute;  z-index: 4;  font-size: 20px; height:82px; padding:9px 0px;  text-shadow: none;  color: #fff;  left: 0;  right: 0;  bottom: 0;  max-width: none;}
+.callbacks .caption .play_topic{display: block;   text-indent:-10000px;  z-index: 4; float:left; margin-right:10px;  height:82px; width:82px;  color: #fff;  background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -235px -320px no-repeat}
+.callbacks .caption .play_topic:hover{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -317px -320px no-repeat}
+.callbacks .caption h1{float:left; font-size:24px; display:block; width:840px; font-weight:bold; margin-bottom:5px;}
+.callbacks .caption h1 a{ color:#FFFFFF}
+
+.callbacks .caption p{float:left; font-size:13px; display:block; width:840px; line-height:16px;}
+.callbacks_container .callbacks_nav {position: absolute; display:none; left: 0; top:40%;  z-index: 11;  text-indent: -9999px;  overfloưw: hidden;  text-decoration: none;  height: 81px;  width: 81px; background: transparent url(http://stc.id.nixcdn.com/10/Static/src/images/callbacks_nav.png) no-repeat left top; margin-top: -40px;  }
+.callbacks_container:hover .callbacks_nav { display:block}
+
+.callbacks_container .callbacks_nav:active{ opacity: 1.0;  }
+.callbacks_container .callbacks_nav:hover {background: transparent url(http://stc.id.nixcdn.com/10/Static/src/images/callbacks_nav.png) no-repeat left -81px;}
+.callbacks_container .callbacks_nav.next {left: auto; background: transparent url(http://stc.id.nixcdn.com/10/Static/src/images/callbacks_nav.png) no-repeat right top; right:0 }
+.callbacks_container .callbacks_nav.next:hover {left: auto; background: transparent url(http://stc.id.nixcdn.com/10/Static/src/images/callbacks_nav.png) no-repeat right -81px; right:0 }
+
+.vt-cropped { height: 480px; wdith: 100%;    background-position: top center;    background-repeat: no-repeat; z-index:99}
+.callbacks .bg_top_topic{display: block; height:500px;  position: absolute;  z-index: 3; background:url(http://stc.id.nixcdn.com/10/Static/src/images/demo/bg_top_topic.png) top center repeat-x;   font-size: 20px;  text-shadow: none;  color: #fff;   left: 0;  right: 0;  bottom: 0;  max-width: none;  }
+
+
+
+
+.list_topic{width:620px; float:left; margin-bottom:10px;}
+.list_topic .category-title{float:left; width:620px; font-size:20px; color:#333333; line-height:32px; float:left; padding-bottom:5px}
+.list_topic ul{ float:left; width:620px;}
+.list_topic ul li{float:left; width:620px;}
+.list_topic ul li  .img_toptic{float:left; width:300px; margin-right:0px; height:300px; margin-right:20px}
+.list_topic ul li  .img_toptic img{ width:300px; height:300px}
+.list_topic ul li .box_info{float:left; width:300px; margin-bottom:10px; margin-right:20px;}
+.list_topic ul li .box_info .name_topic{float:left; width:300px; font-size:16px; font-weight:bold; padding:5px 0 5px 0}
+.list_topic ul li .box_list_album{width:300px; float:left; margin-bottom:10px;}
+.list_topic ul li .box_list_album .fram_select{width:300px; float:left; overflow:hidden}
+.list_topic ul li .box_list_album .fram_select ul{width:320px; float:left;}
+.list_topic ul li .box_list_album ul li{width:140px; float:left; margin-right:20px; padding:0px 0px; margin-bottom:10px;}
+.list_topic ul li .box_list_album ul li .img{float:left; margin-bottom:10px; width:140px; height:140px; overflow:hidden;}
+.list_topic ul li .box_list_album ul li img{width:140px;}
+.list_topic ul li .box_list_album ul li .icon_listen{ float:left; color:#999999; font-size:11px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) left top no-repeat; padding-left:15px;}
+.list_topic ul li .box_list_album ul li .info_album{ float:left; z-index:10;font-size:12px; color:#FFFFFF;  width:140x; bottom:0px; line-height:14px;}
+.list_topic ul li .box_list_album ul li .info_album a.name_song{font-size:12px; color:#2882bc; font-weight:bold; float:left;white-space:nowrap;overflow: hidden;text-overflow: ellipsis; width:140px; padding-bottom:3px;}
+.list_topic ul li .box_list_album ul li .info_album a.name_song:hover{ color:#e74c3c}
+.list_topic ul li .box_list_album ul li .info_album p{white-space: nowrap;overflow: hidden;text-overflow: ellipsis; float:left; width:140px; margin-bottom:5px; color:#999999}
+.list_topic ul li .box_list_album ul li .info_album p .name_singer{font-size:12px;}
+
+.list_topic .topic_more{float:left; width:940px; padding:0 0 10px 0}
+.list_topic .topic_more .fram_select{width:940px; float:left; overflow:hidden}
+.list_topic .topic_more ul{float: left; width:960px; padding:0px 0 0 0}
+.list_topic .topic_more ul li{float: left; width:300px; height:140px; padding:0px 0px 5px 0px;  margin-bottom:10px; border-bottom:#dfdfdf solid 0px; margin-right:20px;}
+.list_topic .topic_more ul li img{float: left; width:300px; height:100px; }
+.list_topic .topic_more ul li .name_topic{float: left;font-size:13px; font-weight:bold; line-height:16x;padding:5px 0px 0px 0px; width:300px; }
+.list_topic .topic_more ul li p{float: left; color:#333333; display:none}
+
+
+.box_menu_dashboard_onecate{width:620px; float:left; margin-bottom:10px;}
+
+.detail_menu_browsing_dashboard{width:620px; float:left; margin-bottom:10px;}
+.detail_menu_browsing_dashboard li{width:155px; float:left; padding:3px 0px;}
+.detail_menu_browsing_dashboard li a{font-size:13px;color:#333333; line-height:18px; float:left;}
+.detail_menu_browsing_dashboard li a:hover{color:#e74c3c; }
+.detail_menu_browsing_dashboard li a.active{ color:#e74c3c; font-weight:bold}
+
+.tile_box_key h2 a {
+color: #23262d;
+}
+.tile_box_key .btn_view_select{float:right; text-align:left; padding:10px 0px;}
+.tile_box_key .btn_view_select a{padding:20px 0px 5px 0px; font-size:13px; color:#333333}
+.tile_box_key .btn_view_select a:hover{color:#e74c3c}
+.tile_box_key .btn_view_select a.active{color:#e74c3c; font-weight:bold}
+.tile_box_key .btn_view_select span{ padding:5px;}
+
+
+.box_pageview{float:left; width:100%; text-align:center; height:30px; line-height:30px; padding-bottom:20px; }
+.box_pageview a{padding:5px; font-weight:bold; font-size:13px}
+.box_pageview a.active{ color:#e74c3c}
+.box_pageview_alphabe{float:left; width:100%; text-align:right; height:22px; margin-bottom:10px; margin-top:0px;}
+.box_pageview_alphabe a{padding:2px 6px; font-size:12px;  margin-right:0px; line-height:18px; width:10px; text-align:center; font-weight:bold;}
+.box_pageview_alphabe a:hover{ background:#2882bc; color:#ffffff}
+.box_pageview_alphabe a.active{background:#2882bc; color:#ffffff}
+
+
+.box_chart_video{ float:left; width:300px;padding:0 0 10px 0}
+.box_chart_video .title_box{ float:left; width:300px; height:40px;}
+.box_chart_video .title_box.blue{background:#34495e; color:#FFFFFF}
+.box_chart_video .title_box label{ font-size:20px; line-height:40px; margin:0px 10px; float:left}
+.box_chart_video .title_box .play_all{ width:24px; height:24px; float:left; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -83px -18px no-repeat; display:block ; margin:8px 0 0 0 }
+.box_chart_video .title_box .btn_more_chart{float:right; padding-right:0px; margin:0px 0px 0 0}
+.box_chart_video .title_box  .more_option{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) right -39px no-repeat; padding:10px 25px 0 10px; color:#FFFFFF; height:30px; float:left;}
+.box_chart_video .title_box  .more_option:hover{background: #415b76 url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) right -79px no-repeat; padding:10px 25px 0 10px; color:#FFFFFF; height:30px; float:left;}
+.box_chart_video .title_box  div.submenu{background: #415b76;position: absolute;z-index: 100;width: 135px;display: none;padding:0px; margin:40px 0 0 -50px;}
+.box_chart_video .title_box  div.submenu ul{ padding:0px}
+.box_chart_video .title_box  div.submenu li{float:left; display:block; width:135px; padding:0px; margin:0px; padding:0px;}
+.box_chart_video .title_box  div.submenu li a{float:left; display:block; width:120px; padding:5px 5px 5px 10px; font-size:12px; color:#FFF}
+.box_chart_video .title_box  div.submenu li a:hover{float:left; display:block; width:120px; padding:5px 5px 5px 10px; font-size:12px; color:#FFF; background:#34495e}
+.box_chart_video .list_chart_video{ float:left; width:300px}
+.box_chart_video .list_chart_video li{float:left; width:300px; margin:10px 0;}
+.box_chart_video .list_chart_video li .number{float:left; width:31px; height:31px; margin-right:10px; border:#cbcbcb solid 1px; font-size:15px; font-weight:bold; -webkit-border-radius:16px;-moz-border-radius:16px;border-radius:16px; text-align: center; line-height:32px;}
+.box_chart_video .list_chart_video li .info_data{float:left; width:180px;}
+.box_chart_video .list_chart_video li .img{float:left; margin-right:10px;}
+.box_chart_video .list_chart_video li .info_data .name_song{font-size:12px; color:#2882bc; font-weight:bold;   display:block; line-height:16px; max-height:32px; overflow:hidden; display:block}
+.box_chart_video .list_chart_video li .info_data .name_singer{font-size:12px; color:#666666;}
+.box_chart_video .list_chart_video li .info_data .name_song:hover,.box_chart_video .list_chart_video li .info_data .name_singer:hover{ color:#e74c3c}
+.box_chart_video .list_chart_video li .icon_view{ float:right; color:#999999; font-size:11px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) left -21px no-repeat; padding-left:15px;}
+.box_chart_video .list_chart_video li .number.special-1{width:31px; height:31px; border:#e74c3c solid 1px; font-size:15px; background:#e74c3c; color:#FFFFFF}
+.box_chart_video .list_chart_video li .number.special-2{width:31px; height:31px; border:#1abc9c solid 1px; font-size:15px; background:#1abc9c; color:#FFFFFF}
+.box_chart_video .list_chart_video li .number.special-3{width:31px; height:31px; border:#f39c12 solid 1px; font-size:15px; background:#f39c12; color:#FFFFFF}
+.box_chart_video .list_chart_video .more_chart{float:left; width:300px; text-align:left; }
+.box_chart_video .list_chart_video .more_chart .btn_more_chart{width:200px; text-align:center; float:left; margin:0px 0px 0px 50px; padding:0px 0px; height:34px; line-height:34px; font-weight:bold}
+.box_chart_video .list_chart_video li.one .info_data{width:150px; }
+.box_chart_video .list_chart_video li.one .icon_view{ float:left; }
+.box_chart_video .list_chart_video li.one .box_absolute_video{position:relative; width:100px; background:#666666; height:56px; margin-right:5px;}
+.box_chart_video .list_chart_video li.one .box_absolute_video:hover .icon_play{position:absolute; z-index:101; top:50%; left:50%; margin:-16px 0 0 -16px; width:33px; height:33px; display:block; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -239px -276px no-repeat;}
+.box_chart_video .list_chart_video li.one .box_absolute_video:hover .icon_play:hover{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -279px -276px no-repeat;}
+
+.box_chart_video .list_chart_video li.one .box_absolute_video .icon_time_video{background: transparent url(http://stc.id.nixcdn.com/10/Static/src/images/transparent.png) repeat; font-weight:bold;  color:#FFFFFF; bottom:0px; right:0px; font-size:11px; padding:0px 5px; height:16px; line-height:16px; position:absolute; z-index:100 }
+.box_chart_video .list_chart_video li.one .box_absolute_video .img{position: absolute;}
+.box_chart_video .list_chart_video li.one .box_absolute_video img{height: 60px; width:100px}
+
+.box_chart_playlist{ float:left; width:300px;padding:0 0 10px 0}
+.box_chart_playlist .title_box{ float:left; width:300px; height:40px;}
+.box_chart_playlist .title_box.green{background:#f39c12; color:#FFFFFF}
+.box_chart_playlist .title_box label{ font-size:20px; line-height:40px; margin:0px 10px; float:left}
+.box_chart_playlist .title_box .play_all{ width:24px; height:24px; float:left; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon.png) -83px -18px no-repeat; display:block ; margin:8px 0 0 0 }
+.box_chart_playlist .title_box .btn_more_chart{float:right; padding-right:0px; margin:0px 0px 0 0}
+.box_chart_playlist .title_box  .more_option{background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) right -39px no-repeat; padding:10px 25px 0 10px; color:#FFFFFF; height:30px; float:left;}
+.box_chart_playlist .title_box  .more_option:hover{background: #f6b517 url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) right -79px no-repeat; padding:10px 25px 0 10px; color:#FFFFFF; height:30px; float:left;}
+.box_chart_playlist .title_box  div.submenu{background: #f6b517;position: absolute;z-index: 100;width: 135px;display: none;padding:0px; margin:40px 0 0 -50px;}
+.box_chart_playlist .title_box  div.submenu ul{ padding:0px}
+.box_chart_playlist .title_box  div.submenu li{float:left; display:block; width:135px; padding:0px; margin:0px; padding:0px;}
+.box_chart_playlist .title_box  div.submenu li a{float:left; display:block; width:120px; padding:5px 5px 5px 10px; font-size:12px; color:#FFF}
+.box_chart_playlist .title_box  div.submenu li a:hover{float:left; display:block; width:120px; padding:5px 5px 5px 10px; font-size:12px; color:#FFF; background:#cf850f}
+.box_chart_playlist .list_chart_playlist{ float:left; width:300px}
+.box_chart_playlist .list_chart_playlist li{float:left; width:300px; margin:10px 0;}
+.box_chart_playlist .list_chart_playlist li .number{float:left; width:31px; height:31px; margin-right:10px; border:#cbcbcb solid 1px; font-size:15px; font-weight:bold; -webkit-border-radius:16px;-moz-border-radius:16px;border-radius:16px; text-align: center; line-height:32px;}
+.box_chart_playlist .list_chart_playlist li .info_data{float:left; width:180px;}
+.box_chart_playlist .list_chart_playlist li.one .info_data{width:255px;}
+.box_chart_playlist .list_chart_playlist li img{float:left; margin-right:10px; width:100px}
+.box_chart_playlist .list_chart_playlist li .info_data .name_song{font-size:12px; color:#2882bc; font-weight:bold;   display:block; line-height:16px; max-height:32px; overflow:hidden; display:block}
+.box_chart_playlist .list_chart_playlist li .info_data .name_singer{font-size:12px; color:#666666;}
+.box_chart_playlist .list_chart_playlist li .info_data .name_song:hover,.box_chart_playlist .list_chart_playlist li .info_data .name_singer:hover{ color:#e74c3c}
+.box_chart_playlist .list_chart_playlist li.one .icon_listen{ float:left}
+.box_chart_playlist .list_chart_playlist li .icon_listen{ float:right; color:#999999; font-size:11px; background:url(http://stc.id.nixcdn.com/10/Static/src/images/icon-cursor.png) left top no-repeat; padding-left:15px;}
+.box_chart_playlist .list_chart_playlist li .number.special-1{width:31px; height:31px; border:#e74c3c solid 1px; font-size:15px; background:#e74c3c; color:#FFFFFF}
+.box_chart_playlist .list_chart_playlist li .number.special-2{width:31px; height:31px; border:#1abc9c solid 1px; font-size:15px; background:#1abc9c; color:#FFFFFF}
+.box_chart_playlist .list_chart_playlist li .number.special-3{width:31px; height:31px; border:#f39c12 solid 1px; font-size:15px; background:#f39c12; color:#FFFFFF}
+.box_chart_playlist .title_box label a {
+font-size: 18px;
+line-height: 40px;
+margin: 0px 0px;
+float: left;
+color: #fff !important;
+}
+.box_chart_video .title_box label a {
+color: #FFFFFF;
+}
+.float-left {float: left;}
+.float-right {float: right;}
+.clear-both {clear: both;}
+.float-none {float: none !important;}

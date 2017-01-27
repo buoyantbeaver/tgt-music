@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mp3.daynhuagiamay.com/sitemap/song-1.xml

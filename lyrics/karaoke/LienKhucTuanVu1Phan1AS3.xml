@@ -1,0 +1,967 @@
+<tt xml:lang="vi" 
+	xmlns="http://www.w3.org/ns/ttml"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling"
+    xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+    xmlns:kar="http://code.google.com/p/as3-karaoke-player"> 
+	<head>
+		<metadata>
+			<ttm:title><![CDATA[Bài Hát: Liên Khúc Tuấn Vũ 1 Phần 1]]></ttm:title>
+			<ttm:desc><![CDATA[Sáng Tác: Nhiều Nhạc Sĩ<br/>Ca Sĩ: Tuấn Vũ]]></ttm:desc>
+			<ttm:copyright>Copyright (C) 2010 Thanh Tran - trongthanh@gmail.com</ttm:copyright>
+			<kar:audio>http://www.musicsite.biz/mp3_uploader/files/user_songs/20120915/tuannvbg/954-14361.mp3
+			</kar:audio>
+			<kar:autoPlay>true</kar:autoPlay>
+			<!--  kar:audio>audio/hanh_phuc_bat_tan.mp3</kar:audio -->
+		</metadata>
+	</head>
+	<body>				
+		<div style="m">
+		<p begin="00:01.811">Bài hát: Liên Khúc Tuấn Vũ 1</p>
+		</div>
+		<div style="m">
+		<p begin="00:04.711">(Ai cho tôi tình yêu)</p>
+		</div>
+		<div style="m">
+		<p begin="00:08.111">Trình bày: Tuấn Vũ</p>
+		</div>
+		<div style="m">
+		<p begin="00:11.311">Lời bài hát: hopamviet</p>
+		</div>
+		<div style="m">
+		<p begin="00:14.311">Hiệu chỉnh: Tuấn Nguyễn</p>
+		</div>
+		<div style="m">
+		<p begin="00:17.911">Karaoke: tuannvbg@gmail.com</p>
+		</div>
+		<div style="m">
+		<p begin="00:23.211">Chúc bạn nghe nhạc vui vẻ</p>
+		</div>
+		<div style="m">
+		<p begin="00:33.911"></p>
+		</div>
+		<div style="m">
+		<p begin="00:52.811">Ai cho tôi tình yêu</p>
+		</div>
+		<div style="m">
+		<p begin="00:55.311">Để làm duyên nụ cười</p>
+		</div>
+		<div style="m">
+		<p begin="00:57.711">Tôi xin dâng vòng tay mở rộng</p>
+		</div>
+		<div style="m">
+		<p begin="01:02.011">Và đón người đi vào tim tôi</p>
+		</div>
+		<div style="m">
+		<p begin="01:05.411">Bằng môi trên bờ môi</p>
+		</div>
+		<div style="m">
+		<p begin="01:07.811"></p>
+		</div>
+		<div style="m">
+		<p begin="01:09.211">Nhưng biết chỉ là mơ</p>
+		</div>
+		<div style="m">
+		<p begin="01:12.011">Nhưng  lòng nức nở</p>
+		</div>
+		<div style="m">
+		<p begin="01:14.511">Thương còn đi yêu thì chưa đến</p>
+		</div>
+		<div style="m">
+		<p begin="01:18.611">Tên gọi tên tình chưa đỗ bến</p>
+		</div>
+		<div style="m">
+		<p begin="01:22.311">Nẻo mô mà tìm</p>
+		</div>
+		<div style="m">
+		<p begin="01:25.611"></p>
+		</div>
+		<div style="b">
+		<p begin="01:26.211">Tám hướng bốn phương trời mây</p>
+		</div>
+		<div style="b">
+		<p begin="01:30.211">Thôi nhé anh đi từ đây</p>
+		</div>
+		<div style="b">
+		<p begin="01:34.311">Kỷ niệm nào không</p>
+		</div>
+		<div style="b">
+		<p begin="01:35.811">Có vui hay buồn</p>
+		</div>
+		<div style="b">
+		<p begin="01:36.911">Chiều không có hoàng hôn</p>
+		</div>
+		<div style="b">
+		<p begin="01:39.011">Tình nào hơn nước non</p>
+		</div>
+		<div style="b">
+		<p begin="01:41.511"></p>
+		</div>
+		<div style="b">
+		<p begin="01:42.611">Rồi đây một mai lối xưa tôi về</p>
+		</div>
+		<div style="b">
+		<p begin="01:46.811">Kể chuyện buồn vui</p>
+		</div>
+		<div style="b">
+		<p begin="01:48.311">Hai đứa mình nghe</p>
+		</div>
+		<div style="b">
+		<p begin="01:51.411">Một gian nhà tranh</p>
+		</div>
+		<div style="b">
+		<p begin="01:52.311">Giấc mơ đềm êm</p>
+		</div>
+		<div style="b">
+		<p begin="01:54.011">Lắng nghe tiếng nhịp con tim</p>
+		</div>
+		<div style="b">
+		<p begin="01:56.011">Hai người gọi chung một tên</p>
+		</div>
+		<div style="m">
+		<p begin="01:57.911"></p>
+		</div>
+		<div style="m">
+		<p begin="02:01.511">Em có về về ngõ xưa</p>
+		</div>
+		<div style="m">
+		<p begin="02:07.611">Em em có còn còn từng đêm</p>
+		</div>
+		<div style="m">
+		<p begin="02:13.811">Em đếm sao cho tình mình</p>
+		</div>
+		<div style="m">
+		<p begin="02:20.111">Thương mảnh trăng khuyết</p>
+		</div>
+		<div style="m">
+		<p begin="02:21.711"></p>
+		</div>
+		<div style="m">
+		<p begin="02:23.211">Che mây mờ.</p>
+		</div>
+		<div style="m">
+		<p begin="02:25.011">Buồn nào hơn đêm nay</p>
+		</div>
+		<div style="m">
+		<p begin="02:27.211">Buồn nào hơn đêm nay</p>
+		</div>
+		<div style="m">
+		<p begin="02:29.311">Khi ngoài kia bão tố đầy trời</p>
+		</div>
+		<div style="m">
+		<p begin="02:33.311">Từng cánh lá cuốn gió</p>
+		</div>
+		<div style="m">
+		<p begin="02:35.411">Trôi vào lòng đêm thâu</p>
+		</div>
+		<div style="m">
+		<p begin="02:37.611">Thương thầm mối tình ngâu</p>
+		</div>
+		<div style="m">
+		<p begin="02:41.711">Ngày về ôi xa quá</p>
+		</div>
+		<div style="m">
+		<p begin="02:43.811">Cánh nhạn còn miệt mài</p>
+		</div>
+		<div style="m">
+		<p begin="02:45.911">Trong nắng hồng mê say</p>
+		</div>
+		<div style="m">
+		<p begin="02:49.711">Lạc bầy chim chíu chít</p>
+		</div>
+		<div style="m">
+		<p begin="02:52.511">Hai phương trời cách biệt</p>
+		</div>
+		<div style="m">
+		<p begin="02:54.611">Đêm chờ và đêm mong.</p>
+		</div>
+		<div style="m">
+		<p begin="02:56.811"></p>
+		</div>
+		<div style="m">
+		<p begin="02:58.811">Người đi đi ngoài phố</p>
+		</div>
+		<div style="m">
+		<p begin="03:00.811">Chiều nắng tắt bên sông</p>
+		</div>
+		<div style="m">
+		<p begin="03:02.911">Người đi đi ngoài phố</p>
+		</div>
+		<div style="m">
+		<p begin="03:04.711">Nhớ dáng xưa mịt mù</p>
+		</div>
+		<div style="m">
+		<p begin="03:06.911">Thành ghế đá chiều công viên</p>
+		</div>
+		<div style="m">
+		<p begin="03:09.111">Ngày xưa ngày xưa</p>
+		</div>
+		<div style="m">
+		<p begin="03:11.211">Ngày xưa đã hết rồi</p>
+		</div>
+		<div style="m">
+		<p begin="03:13.411"></p>
+		</div>
+		<div style="m">
+		<p begin="03:15.411">Người đi đi ngoài phố</p>
+		</div>
+		<div style="m">
+		<p begin="03:17.411">Chiều bỡ ngỡ bơ vơ</p>
+		</div>
+		<div style="m">
+		<p begin="03:19.511">Người đi đi ngoài phố</p>
+		</div>
+		<div style="m">
+		<p begin="03:21.511">Mấy dấu chân lạc loài</p>
+		</div>
+		<div style="m">
+		<p begin="03:23.611">Hình bóng cũ người yêu ơi</p>
+		</div>
+		<div style="m">
+		<p begin="03:25.711">Còn đâu còn đâu</p>
+		</div>
+		<div style="m">
+		<p begin="03:27.811">Tình yêu đã lỡ rồi</p>
+		</div>
+		<div style="m">
+		<p begin="03:30.611"></p>
+		</div>
+		<div style="m">
+		<p begin="04:14.811">Sao mùa xuân không đến</p>
+		</div>
+		<div style="m">
+		<p begin="04:16.611">Khi đông tàn</p>
+		</div>
+		<div style="m">
+		<p begin="04:19.011">Sao hồn ta như</p>
+		</div>
+		<div style="m">
+		<p begin="04:20.211">Chiếc lá thu vàng</p>
+		</div>
+		<div style="m">
+		<p begin="04:23.211">Kiếp cô đơn chập chờn buông</p>
+		</div>
+		<div style="m">
+		<p begin="04:27.411">Trong bóng đêm dài</p>
+		</div>
+		<div style="m">
+		<p begin="04:28.911">Chỉ một mình ta với ta.</p>
+		</div>
+		<div style="m">
+		<p begin="04:31.311"></p>
+		</div>
+		<div style="m">
+		<p begin="04:31.611">Ôi còn đâu giây</p>
+		</div>
+		<div style="m">
+		<p begin="04:32.511">Phút yêu ban đầu</p>
+		</div>
+		<div style="m">
+		<p begin="04:35.711">Cung đàn xưa vương vấn</p>
+		</div>
+		<div style="m">
+		<p begin="04:37.411">Mối tơ sầu</p>
+		</div>
+		<div style="m">
+		<p begin="04:40.111">Nhớ chăng em lời thề xưa</p>
+		</div>
+		<div style="m">
+		<p begin="04:44.411">Ai nỡ vô tình</p>
+		</div>
+		<div style="m">
+		<p begin="04:45.811">Đành lìa xa bến mơ.</p>
+		</div>
+		<div style="m">
+		<p begin="04:47.611"></p>
+		</div>
+		<div style="m">
+		<p begin="04:50.011">Nửa đêm nói chuyện</p>
+		</div>
+		<div style="m">
+		<p begin="04:53.711">Chúng mình yêu nhau</p>
+		</div>
+		<div style="m">
+		<p begin="04:58.511">Một vầng trăng khuyết</p>
+		</div>
+		<div style="m">
+		<p begin="05:02.011">Lạc trên tuyến đầu</p>
+		</div>
+		<div style="m">
+		<p begin="05:05.811">Em hỡi sau này</p>
+		</div>
+		<div style="m">
+		<p begin="05:08.011">Chúng mình thành đôi</p>
+		</div>
+		<div style="m">
+		<p begin="05:10.411">Như lúc trăng vơi</p>
+		</div>
+		<div style="m">
+		<p begin="05:12.311">Nhưng rồi lại đầy</p>
+		</div>
+		<div style="m">
+		<p begin="05:14.611">Thì tương lai đó có anh và em</p>
+		</div>
+		<div style="m">
+		<p begin="05:18.411">Ghép tên chung thiệp hồng</p>
+		</div>
+		<div style="m">
+		<p begin="05:20.511"></p>
+		</div>
+		<div style="m">
+		<p begin="05:22.311">Suốt đêm không ngủ</p>
+		</div>
+		<div style="m">
+		<p begin="05:24.711">Bên tách cà phê đen</p>
+		</div>
+		<div style="m">
+		<p begin="05:26.511">Chúng ta ôn chuyện đời</p>
+		</div>
+		<div style="m">
+		<p begin="05:30.611">Ngày mình còn thơ</p>
+		</div>
+		<div style="m">
+		<p begin="05:33.111">In như hình với bóng</p>
+		</div>
+		<div style="m">
+		<p begin="05:35.211">Phút giây chưa hề rời</p>
+		</div>
+		<div style="m">
+		<p begin="05:39.011">Xuân qua mấy lần</p>
+		</div>
+		<div style="m">
+		<p begin="05:41.411">Chôn kín chuyện xa xưa</p>
+		</div>
+		<div style="m">
+		<p begin="05:43.711">Tình cờ gặp nhau</p>
+		</div>
+		<div style="m">
+		<p begin="05:45.511">Hai đứa cùng đơn vị</p>
+		</div>
+		<div style="m">
+		<p begin="05:47.711">Không ngăn được nỗi mừng</p>
+		</div>
+		<div style="m">
+		<p begin="05:49.911">Anh kể tôi nghe</p>
+		</div>
+		<div style="m">
+		<p begin="05:51.211">Ngày anh mới ra trường.</p>
+		</div>
+		<div style="m">
+		<p begin="05:55.011"></p>
+		</div>
+		<div style="m">
+		<p begin="05:57.211">Rồi một hôm tôi gặp nàng</p>
+		</div>
+		<div style="m">
+		<p begin="06:00.111">Đem tiếng hát cung đàn</p>
+		</div>
+		<div style="m">
+		<p begin="06:02.211">Với niềm yêu lai láng.</p>
+		</div>
+		<div style="m">
+		<p begin="06:05.511">Nhưng than ôi quá bẽ bàng</p>
+		</div>
+		<div style="m">
+		<p begin="06:08.511">Bao tiếng hát cung đàn</p>
+		</div>
+		<div style="m">
+		<p begin="06:10.411">Người chẳng màng còn chê chán</p>
+		</div>
+		<div style="m">
+		<p begin="06:13.011"></p>
+		</div>
+		<div style="m">
+		<p begin="06:13.811">Nhìn đời thấy lắm phũ phàng</p>
+		</div>
+		<div style="m">
+		<p begin="06:16.711">Mượn tiếng hát cung đàn</p>
+		</div>
+		<div style="m">
+		<p begin="06:18.911">Với niềm đau dĩ vãng</p>
+		</div>
+		<div style="m">
+		<p begin="06:22.111">Nhưng bao giông tố lan tràn</p>
+		</div>
+		<div style="m">
+		<p begin="06:25.111">Lên gác tía huy hoàng</p>
+		</div>
+		<div style="m">
+		<p begin="06:27.111">Xiêu đổ theo nước mắt nàng</p>
+		</div>
+		<div style="m">
+		<p begin="06:28.811"></p>
+		</div>
+		<div style="m">
+		<p begin="06:30.111">Còn đâu đâu lá</p>
+		</div>
+		<div style="m">
+		<p begin="06:31.711">Ngọc cành vàng</p>
+		</div>
+		<div style="m">
+		<p begin="06:34.411">Còn đâu đâu quyền quý cao sang</p>
+		</div>
+		<div style="m">
+		<p begin="06:38.711">Em chính em ngày xưa đó</p>
+		</div>
+		<div style="m">
+		<p begin="06:42.311">Đến bây giờ phiêu bạt</p>
+		</div>
+		<div style="m">
+		<p begin="06:44.311">Giữa trần gian</p>
+		</div>
+		<div style="m">
+		<p begin="06:47.011">Ðời tôi vẫn tiếng nhạc cung đàn</p>
+		</div>
+		<div style="m">
+		<p begin="06:51.111">Đời tôi vẫn nghệ sĩ lang thang</p>
+		</div>
+		<div style="m">
+		<p begin="06:55.311">Em em nhớ xưa rồi em khóc</p>
+		</div>
+		<div style="m">
+		<p begin="06:58.911">Tôi thoáng buồn thương</p>
+		</div>
+		<div style="m">
+		<p begin="07:01.011">Dòng lệ đài trang.</p>
+		</div>
+		<div style="m">
+		<p begin="07:02.511"></p>
+		</div>
+		<div style="m">
+		<p begin="07:04.211">Từ khi hoa lá tô thắm cuộc đời</p>
+		</div>
+		<div style="m">
+		<p begin="07:08.211">Từ khi manh áo</p>
+		</div>
+		<div style="m">
+		<p begin="07:09.611">Sưởi ấm lòng người</p>
+		</div>
+		<div style="m">
+		<p begin="07:12.211">Tìm trong hơi gió</p>
+		</div>
+		<div style="m">
+		<p begin="07:13.911">Và trong tiếng tiêu</p>
+		</div>
+		<div style="m">
+		<p begin="07:15.011">Tôi viết lên khúc nhạc chiều</p>
+		</div>
+		<div style="m">
+		<p begin="07:17.011">Để ca ngợi tình yêu.</p>
+		</div>
+		<div style="m">
+		<p begin="07:18.611"></p>
+		</div>
+		<div style="m">
+		<p begin="07:20.611">Một yêu non nước</p>
+		</div>
+		<div style="m">
+		<p begin="07:22.111">Như mối tình đầu</p>
+		</div>
+		<div style="m">
+		<p begin="07:24.911">Là yêu quê hương</p>
+		</div>
+		<div style="m">
+		<p begin="07:26.611">Mảnh đất đẹp màu</p>
+		</div>
+		<div style="m">
+		<p begin="07:29.611">Và tha thiết nữa</p>
+		</div>
+		<div style="m">
+		<p begin="07:30.611">Là em với tôi</p>
+		</div>
+		<div style="m">
+		<p begin="07:32.311">Khi đã cho nhau cuộc đời</p>
+		</div>
+		<div style="m">
+		<p begin="07:34.311">Mặn nồng đôi có đôi.</p>
+		</div>
+		<div style="m">
+		<p begin="07:36.311"></p>
+		</div>
+		<div style="m">
+		<p begin="07:54.811">Hôm nay tôi trở</p>
+		</div>
+		<div style="m">
+		<p begin="07:55.811">Về thăm trường cũ</p>
+		</div>
+		<div style="m">
+		<p begin="07:58.811">Nhiều nét đổi thay</p>
+		</div>
+		<div style="m">
+		<p begin="07:59.811">Tường mái rêu mờ</p>
+		</div>
+		<div style="m">
+		<p begin="08:03.011">Bên hiên hằng giờ</p>
+		</div>
+		<div style="m">
+		<p begin="08:04.011">Tìm những bạn xưa</p>
+		</div>
+		<div style="m">
+		<p begin="08:05.711">May ra có còn đôi đứa</p>
+		</div>
+		<div style="m">
+		<p begin="08:07.311">Vẫn yên vui sống đời học trò</p>
+		</div>
+		<div style="m">
+		<p begin="08:10.511"></p>
+		</div>
+		<div style="m">
+		<p begin="08:11.411">Bâng khuâng đợi chờ</p>
+		</div>
+		<div style="m">
+		<p begin="08:12.311">Người sao chẳng đến</p>
+		</div>
+		<div style="m">
+		<p begin="08:15.511">Hỏi lá hỏi hoa</p>
+		</div>
+		<div style="m">
+		<p begin="08:16.511">Chỉ thấy im lìm</p>
+		</div>
+		<div style="m">
+		<p begin="08:19.611">Cây dương đầu trường</p>
+		</div>
+		<div style="m">
+		<p begin="08:20.611">Còn khắc hàng tên</p>
+		</div>
+		<div style="m">
+		<p begin="08:22.211">Hoa leo phũ phàng giăng kín</p>
+		</div>
+		<div style="m">
+		<p begin="08:23.911">Tiếng ve ru nghe gợi buồn thêm</p>
+		</div>
+		<div style="m">
+		<p begin="08:27.111"></p>
+		</div>
+		<div style="m">
+		<p begin="08:29.111">Cuộc tình đó</p>
+		</div>
+		<div style="m">
+		<p begin="08:30.611">Đã khuất xa tầm tay</p>
+		</div>
+		<div style="m">
+		<p begin="08:32.711">Tiếng hát em còn đây</p>
+		</div>
+		<div style="m">
+		<p begin="08:34.811">Tơ vương lệ thấm đầy</p>
+		</div>
+		<div style="m">
+		<p begin="08:37.411">Hồn còn say</p>
+		</div>
+		<div style="m">
+		<p begin="08:39.011">Men ái ân chiều ấy</p>
+		</div>
+		<div style="m">
+		<p begin="08:41.011">Bóng dáng em từ nay</p>
+		</div>
+		<div style="m">
+		<p begin="08:43.211">đã khuất vào trời mây</p>
+		</div>
+		<div style="m">
+		<p begin="08:44.411"></p>
+		</div>
+		<div style="m">
+		<p begin="08:45.811">Em đi rồi thành phố hôm nay</p>
+		</div>
+		<div style="m">
+		<p begin="08:49.911">Mưa giăng đầy</p>
+		</div>
+		<div style="m">
+		<p begin="08:51.611">Lạnh buốt đêm ngày</p>
+		</div>
+		<div style="m">
+		<p begin="08:54.111">Em đi rồi</p>
+		</div>
+		<div style="m">
+		<p begin="08:55.311">Kỷ niệm yêu còn đấy</p>
+		</div>
+		<div style="m">
+		<p begin="08:58.111">Em đi mất rồi</p>
+		</div>
+		<div style="m">
+		<p begin="08:59.611">Còn nhớ chăng tình này.</p>
+		</div>
+		<div style="m">
+		<p begin="09:01.711"></p>
+		</div>
+		<div style="m">
+		<p begin="09:03.211">Người về</p>
+		</div>
+		<div style="m">
+		<p begin="09:05.611">Một mùa thu gió heo may</p>
+		</div>
+		<div style="m">
+		<p begin="09:11.411">Về đâu có nhớ chăng</p>
+		</div>
+		<div style="m">
+		<p begin="09:15.311">Những vì sao long lanh</p>
+		</div>
+		<div style="m">
+		<p begin="09:18.411">Đưa tiễn người</p>
+		</div>
+		<div style="m">
+		<p begin="09:19.511">Một đêm không trăng</p>
+		</div>
+		<div style="m">
+		<p begin="09:23.111">Nói sao nên lời</p>
+		</div>
+		<div style="m">
+		<p begin="09:25.011">Lòng buồn như ngừng rơi</p>
+		</div>
+		<div style="m">
+		<p begin="09:27.411">Như trong đêm khuya</p>
+		</div>
+		<div style="m">
+		<p begin="09:28.911">Những buớc chân qua thềm</p>
+		</div>
+		<div style="m">
+		<p begin="09:30.911">Gợi niềm thương nhớ vô vàn.</p>
+		</div>
+		<div style="m">
+		<p begin="09:33.011"></p>
+		</div>
+		<div style="m">
+		<p begin="09:36.511">Người về</p>
+		</div>
+		<div style="m">
+		<p begin="09:38.811">Đường về kết gió trăng sao</p>
+		</div>
+		<div style="m">
+		<p begin="09:44.911">Người đi có biết chăng</p>
+		</div>
+		<div style="m">
+		<p begin="09:48.511">Trong chiều nay bơ vơ</p>
+		</div>
+		<div style="m">
+		<p begin="09:51.611">Nghe lá thu vàng</p>
+		</div>
+		<div style="m">
+		<p begin="09:53.611">Rơi bâng khuâng</p>
+		</div>
+		<div style="m">
+		<p begin="09:56.511">Bước chân âm thầm</p>
+		</div>
+		<div style="m">
+		<p begin="09:58.311">Từng thời gian ngừng trôi</p>
+		</div>
+		<div style="m">
+		<p begin="10:00.711">Như quên đêm khuya</p>
+		</div>
+		<div style="m">
+		<p begin="10:02.511">Để gió xuôi theo mùa</p>
+		</div>
+		<div style="m">
+		<p begin="10:04.311">Thầm làm ướt áo vai gầy.</p>
+		</div>
+		<div style="m">
+		<p begin="10:06.611"></p>
+		</div>
+		<div style="m">
+		<p begin="10:08.911">Từ ngày có em về</p>
+		</div>
+		<div style="m">
+		<p begin="10:12.511">Nhà mình toàn ánh trăng thề.</p>
+		</div>
+		<div style="m">
+		<p begin="10:16.711">Dòng nhạc tình đang tắt lâu</p>
+		</div>
+		<div style="m">
+		<p begin="10:19.811">Tuôn trào ngọt ngào</p>
+		</div>
+		<div style="m">
+		<p begin="10:21.711">Như dòng suối</p>
+		</div>
+		<div style="m">
+		<p begin="10:24.911">Anh yêu phút ban đầu</p>
+		</div>
+		<div style="m">
+		<p begin="10:29.211">Đẹp nghiêng nghiêng</p>
+		</div>
+		<div style="m">
+		<p begin="10:30.111">Dáng em sầu.</p>
+		</div>
+		<div style="m">
+		<p begin="10:33.411">Trong mắt em buồn về mau</p>
+		</div>
+		<div style="m">
+		<p begin="10:35.811">Em ơi có khi nào</p>
+		</div>
+		<div style="m">
+		<p begin="10:37.511">Lần gặp đây cho mai sau.</p>
+		</div>
+		<div style="m">
+		<p begin="10:41.011"></p>
+		</div>
+		<div style="m">
+		<p begin="10:43.511">Ngày anh gặp đôi mắt long lanh</p>
+		</div>
+		<div style="m">
+		<p begin="10:47.511">Lần đầu anh lạc trong hố mê say</p>
+		</div>
+		<div style="m">
+		<p begin="10:51.611">Dường như ta</p>
+		</div>
+		<div style="m">
+		<p begin="10:52.311">Quen nhau từ muôn kiếp</p>
+		</div>
+		<div style="m">
+		<p begin="10:55.411">Vừa gặp lại ta</p>
+		</div>
+		<div style="m">
+		<p begin="10:56.711">Đã sợ tình cao bay</p>
+		</div>
+		<div style="m">
+		<p begin="10:59.811"></p>
+		</div>
+		<div style="m">
+		<p begin="11:00.211">Từ khi anh yêu em</p>
+		</div>
+		<div style="m">
+		<p begin="11:01.711">Là anh biết đợi chờ</p>
+		</div>
+		<div style="m">
+		<p begin="11:04.211">Chờ cho mau qua đêm dài tăm tối</p>
+		</div>
+		<div style="m">
+		<p begin="11:08.311">Mình yêu nhau đi thôi</p>
+		</div>
+		<div style="m">
+		<p begin="11:09.911">Đừng lo phút chia tay</p>
+		</div>
+		<div style="m">
+		<p begin="11:12.411">Chỉ có em lòng vui như hôm nay</p>
+		</div>
+		<div style="m">
+		<p begin="11:15.011"></p>
+		</div>
+		<div style="m">
+		<p begin="11:15.811">Buổi chiều sông Seine</p>
+		</div>
+		<div style="m">
+		<p begin="11:18.711">Có gió lạnh về lập đông</p>
+		</div>
+		<div style="m">
+		<p begin="11:24.111">Buổi chiều Cali</p>
+		</div>
+		<div style="m">
+		<p begin="11:27.011">Cô đơn từng cơn rã rời</p>
+		</div>
+		<div style="m">
+		<p begin="11:32.411">Từ ngày xa em</p>
+		</div>
+		<div style="m">
+		<p begin="11:35.111">Thao thức trằn trọc từng đêm</p>
+		</div>
+		<div style="m">
+		<p begin="11:40.711">Ngày rời Paris</p>
+		</div>
+		<div style="m">
+		<p begin="11:43.611">Anh đã để quên con tim.</p>
+		</div>
+		<div style="m">
+		<p begin="11:48.911"></p>
+		</div>
+		<div style="m">
+		<p begin="12:23.811">Buồn ơi sao còn đến</p>
+		</div>
+		<div style="m">
+		<p begin="12:28.011">Lòng đã quá sầu đau</p>
+		</div>
+		<div style="m">
+		<p begin="12:32.011">Ai đã đem chuyện xưa</p>
+		</div>
+		<div style="m">
+		<p begin="12:35.211">Lời hứa ban đầu</p>
+		</div>
+		<div style="m">
+		<p begin="12:37.311">Chôn kín vào tim</p>
+		</div>
+		<div style="m">
+		<p begin="12:40.411">Ngày xưa nay còn đâu</p>
+		</div>
+		<div style="m">
+		<p begin="12:44.511">Tình xưa biết tìm đâu</p>
+		</div>
+		<div style="m">
+		<p begin="12:48.711">Thôi đón đưa mà chi</p>
+		</div>
+		<div style="m">
+		<p begin="12:51.911">Tình đã không thành</p>
+		</div>
+		<div style="m">
+		<p begin="12:54.111">Còn ước mơ gì.</p>
+		</div>
+		<div style="m">
+		<p begin="12:55.811"></p>
+		</div>
+		<div style="m">
+		<p begin="12:57.011">Nhưng cớ sao em buồn</p>
+		</div>
+		<div style="m">
+		<p begin="13:01.011">Tình ta ước hẹn nhiều rồi</p>
+		</div>
+		<div style="m">
+		<p begin="13:05.111">Ngày mai ấm lại cuộc đời</p>
+		</div>
+		<div style="m">
+		<p begin="13:08.511">Kể chuyện xa vắng</p>
+		</div>
+		<div style="m">
+		<p begin="13:10.011">Thấy thương nhau nhiều hơn.</p>
+		</div>
+		<div style="m">
+		<p begin="13:13.711">Khi núi sông mịt mờ</p>
+		</div>
+		<div style="m">
+		<p begin="13:17.511">Người trai nhuốm nhiều tuổi đời</p>
+		</div>
+		<div style="m">
+		<p begin="13:21.711">Chuyện xưa khép chặt vào lòng</p>
+		</div>
+		<div style="m">
+		<p begin="13:25.111">Dù đi chinh chiến</p>
+		</div>
+		<div style="m">
+		<p begin="13:26.611">Vẫn nhớ người tôi mến thương.</p>
+		</div>
+		<div style="m">
+		<p begin="13:29.211"></p>
+		</div>
+		<div style="m">
+		<p begin="13:29.911">Tình yêu theo tháng năm</p>
+		</div>
+		<div style="m">
+		<p begin="13:32.911">Xóa mờ trong mắt buồn</p>
+		</div>
+		<div style="m">
+		<p begin="13:37.111">Nếu ta còn nhớ</p>
+		</div>
+		<div style="m">
+		<p begin="13:39.011">Đến đêm thoáng trong mơ</p>
+		</div>
+		<div style="m">
+		<p begin="13:41.711">Ðời anh là mây</p>
+		</div>
+		<div style="m">
+		<p begin="13:43.211">Bốn phương trời còn miệt mài</p>
+		</div>
+		<div style="m">
+		<p begin="13:46.811">Người đi xây tương lai</p>
+		</div>
+		<div style="m">
+		<p begin="13:48.911">Dấu tâm tư thương ai</p>
+		</div>
+		<div style="m">
+		<p begin="13:50.911">Như gió đưa mây</p>
+		</div>
+		<div style="m">
+		<p begin="13:52.111">Che trăng khuất đêm dài</p>
+		</div>
+		<div style="m">
+		<p begin="13:54.511">Tim ta đơn côi</p>
+		</div>
+		<div style="m">
+		<p begin="13:56.611">Biết nhau một lần</p>
+		</div>
+		<div style="m">
+		<p begin="13:58.611">Rồi nhớ trọn đời.</p>
+		</div>
+		<div style="m">
+		<p begin="14:01.011"></p>
+		</div>
+		<div style="m">
+		<p begin="14:02.011">Tôi muốn gửi những</p>
+		</div>
+		<div style="m">
+		<p begin="14:03.911">Hình ảnh đời tôi và bọn tôi</p>
+		</div>
+		<div style="m">
+		<p begin="14:07.011">Những người trẻ hôm nay</p>
+		</div>
+		<div style="m">
+		<p begin="14:08.611">Đến những thương</p>
+		</div>
+		<div style="m">
+		<p begin="14:09.511">Yêu hậu phương</p>
+		</div>
+		<div style="m">
+		<p begin="14:11.311">Xin nhớ nhau như tình nhân</p>
+		</div>
+		<div style="m">
+		<p begin="14:13.811">Tình nhân nhớ</p>
+		</div>
+		<div style="m">
+		<p begin="14:15.311">Lúc người xa chưa về</p>
+		</div>
+		<div style="m">
+		<p begin="14:17.511"></p>
+		</div>
+		<div style="m">
+		<p begin="14:19.711">Tôi xin đa tạ</p>
+		</div>
+		<div style="m">
+		<p begin="14:21.511">Những người tình hôm nay</p>
+		</div>
+		<div style="m">
+		<p begin="14:24.311">Đã biết thương anh lính trẻ</p>
+		</div>
+		<div style="m">
+		<p begin="14:26.911">Đường dài</p>
+		</div>
+		<div style="m">
+		<p begin="14:28.411">Xin đa tạ cuộc đời</p>
+		</div>
+		<div style="m">
+		<p begin="14:31.111">Đã cho tôi thấy mặt bạn bè</p>
+		</div>
+		<div style="m">
+		<p begin="14:34.211">Những người còn quanh tôi.</p>
+		</div>
+		<div style="m">
+		<p begin="14:36.511"></p>
+		</div>
+		<div style="m">
+		<p begin="14:38.511">Mai đây không còn</p>
+		</div>
+		<div style="m">
+		<p begin="14:40.711">Đạn nổ trên cao</p>
+		</div>
+		<div style="m">
+		<p begin="14:42.011">Xác ngục trong chiến hào</p>
+		</div>
+		<div style="m">
+		<p begin="14:45.111">Tôi ra đi đi từ nam về bắc</p>
+		</div>
+		<div style="m">
+		<p begin="14:49.011">Ghé lại sông Hương</p>
+		</div>
+		<div style="m">
+		<p begin="14:50.411">Thăm người thương</p>
+		</div>
+		<div style="m">
+		<p begin="14:51.211">Thăm phố phường</p>
+		</div>
+		<div style="m">
+		<p begin="14:53.011">Thăm Huế buồn</p>
+		</div>
+		<div style="m">
+		<p begin="14:53.311">Và nghe tiếng hò.</p>
+		</div>
+		<div style="m">
+		<p begin="14:54.811"></p>
+		</div>
+		<div style="m">
+		<p begin="14:55.611">Ai cho tôi</p>
+		</div>
+		<div style="m">
+		<p begin="14:57.611">Ai cho tôi</p>
+		</div>
+		<div style="m">
+		<p begin="14:59.711">Ai cho tôi</p>
+		</div>
+		<div style="m">
+		<p begin="15:01.411">Tình yêu!</p>
+		</div>
+		<div style="m">
+		<p begin="15:06.511" dur="4000"></p>
+		</div>
+	</body>
+</tt>

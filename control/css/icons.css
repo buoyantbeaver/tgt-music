@@ -1,0 +1,59 @@
+#side ::before{
+	font-family: FontAwesome;
+    font-size: 20px;
+    padding: 0px 10px 0 5px;
+}
+
+/* Library */
+
+.library::before {
+	content: "\f19c";
+}
+
+.audio::before {
+	content: "\f001";
+	font-size: inherit !important;
+}
+
+.videos::before {
+	content: "\f008";
+	font-size: inherit !important;
+}
+
+.brokenlist::before {
+	content: "\f071";
+	font-size: inherit !important;
+}
+
+/* Adding New Media */
+
+.addnew::before {
+	content: "\f055";
+}
+
+.albums::before {
+	content: "\f02d";
+}
+
+.artists::before {
+	content: "\f130";
+}
+
+.genres::before {
+	content: "\f0b1";
+}
+
+.members::before {
+	content: "\f0c0";
+}
+
+.system::before {
+	content: "\f085";
+}
+
+.advert::before {
+	content: "\f26c";
+}
+
+.news::before {
+	content: "\f1ea";

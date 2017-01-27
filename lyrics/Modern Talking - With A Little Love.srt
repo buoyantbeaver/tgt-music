@@ -1,0 +1,268 @@
+1
+00:00:01,200 --> 00:00:03,100
+Artist: Modern Talking
+
+2
+00:00:03,100 --> 00:00:05,470
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+3
+00:00:05,470 --> 00:00:07,150
+Title: With A Little Love (3:35)
+
+4
+00:00:07,150 --> 00:00:08,270
+By: nguyentuan2005@gmail.com
+
+5
+00:00:08,270 --> 00:00:11,890
+Date: 2010-04-03
+
+6
+00:00:16,270 --> 00:00:20,700
+They said : Oh yeah, it's a tough world
+
+7
+00:00:20,700 --> 00:00:24,050
+You're restless and you're young
+
+8
+00:00:24,050 --> 00:00:28,910
+I said : Oh girl, it's a good twirl
+
+9
+00:00:28,910 --> 00:00:36,230
+And your time will come, your time will come
+
+10
+00:00:36,230 --> 00:00:41,190
+They said : you came from the wrong side
+
+11
+00:00:41,190 --> 00:00:44,770
+He's a page from the end of the book
+
+12
+00:00:44,770 --> 00:00:49,210
+I said : You came from the right side
+
+13
+00:00:49,210 --> 00:00:53,420
+Took me just one look
+
+14
+00:00:53,420 --> 00:00:55,200
+Then you understood
+
+15
+00:00:56,590 --> 00:00:58,580
+With a little love
+
+16
+00:00:58,580 --> 00:01:00,570
+You will survive
+
+17
+00:01:00,570 --> 00:01:02,690
+With a little love
+
+18
+00:01:02,690 --> 00:01:04,740
+You will get by
+
+19
+00:01:04,740 --> 00:01:06,740
+Do what you want
+
+20
+00:01:06,740 --> 00:01:08,750
+Go your own way
+
+21
+00:01:08,750 --> 00:01:11,060
+'Cause its your life
+
+22
+00:01:11,530 --> 00:01:15,150
+With a little love
+
+23
+00:01:15,150 --> 00:01:17,070
+You'll make a start
+
+24
+00:01:17,070 --> 00:01:21,350
+Yeah, why lovers break each other's heart
+
+25
+00:01:21,350 --> 00:01:23,280
+Do what you want
+
+26
+00:01:23,280 --> 00:01:25,020
+Go your own way
+
+27
+00:01:25,020 --> 00:01:28,800
+'Cause it's your life
+
+28
+00:01:29,540 --> 00:01:31,040
+Artist: Modern Talking
+
+29
+00:01:31,040 --> 00:01:34,240
+Album: Tuan Anh Computer 258 T.N.Han TP BacGiang, Vietnam
+
+30
+00:01:34,240 --> 00:01:36,820
+Title: With A Little Love (3:35)
+
+31
+00:01:36,820 --> 00:01:39,830
+By: nguyentuan2005@gmail.com
+
+32
+00:01:39,830 --> 00:01:42,230
+Date: 2010-04-03
+
+33
+00:01:45,960 --> 00:01:50,950
+They said : no future forget it
+
+34
+00:01:50,950 --> 00:01:53,860
+You came from the wrong side of town
+
+35
+00:01:53,860 --> 00:01:58,900
+I said : don't listen, don't let it
+
+36
+00:01:58,900 --> 00:02:02,910
+Let it bring you down
+
+37
+00:02:02,910 --> 00:02:06,230
+Make you wear a frown
+
+38
+00:02:06,230 --> 00:02:11,360
+They said : Oh let him down easy
+
+39
+00:02:11,360 --> 00:02:14,850
+Laugh at the heart you have won
+
+40
+00:02:14,850 --> 00:02:19,510
+I said : that life is for living
+
+41
+00:02:19,510 --> 00:02:23,400
+Like the morning sun
+
+42
+00:02:23,400 --> 00:02:26,280
+It had just began
+
+43
+00:02:26,640 --> 00:02:28,500
+With a little love
+
+44
+00:02:28,500 --> 00:02:30,500
+You will survive
+
+45
+00:02:30,500 --> 00:02:32,670
+With a little love
+
+46
+00:02:32,670 --> 00:02:34,850
+You will get by
+
+47
+00:02:34,850 --> 00:02:36,930
+Do what you want
+
+48
+00:02:36,930 --> 00:02:38,960
+Go your own way
+
+49
+00:02:38,960 --> 00:02:41,450
+'Cause its your life
+
+50
+00:02:41,450 --> 00:02:41,760
+With a little love
+
+51
+00:02:45,170 --> 00:02:46,920
+You'll make a start
+
+52
+00:02:46,920 --> 00:02:51,300
+Yeah, why lovers break each other's heart
+
+53
+00:02:51,300 --> 00:02:53,210
+Do what you want
+
+54
+00:02:53,210 --> 00:02:55,100
+Go your own way
+
+55
+00:02:55,100 --> 00:02:58,160
+'Cause it's your life
+
+56
+00:02:59,180 --> 00:03:01,310
+With a little love
+
+57
+00:03:01,310 --> 00:03:03,220
+You'll make a start
+
+58
+00:03:03,220 --> 00:03:07,600
+Yeah, why lovers break each other's heart
+
+59
+00:03:07,600 --> 00:03:09,520
+Do what you want
+
+60
+00:03:09,520 --> 00:03:11,390
+Go your own way
+
+61
+00:03:11,390 --> 00:03:14,630
+'Cause it's your life
+
+62
+00:03:15,500 --> 00:03:17,810
+With a little love
+
+63
+00:03:17,810 --> 00:03:19,580
+You'll make a start
+
+64
+00:03:19,580 --> 00:03:23,940
+Yeah, why lovers break each other's heart
+
+65
+00:03:23,940 --> 00:03:26,010
+Do what you want
+
+66
+00:03:26,010 --> 00:03:27,790
+Go your own way
+
+67
+00:03:27,790 --> 00:03:35,353
+'Cause it's your life
+

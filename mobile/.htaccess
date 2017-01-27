@@ -1,0 +1,113 @@
+RewriteEngine On
+Options +FollowSymlinks
+
+RewriteRule ^nghe-bai-hat-(.*)\.(.*).html$ index.php [L]
+RewriteRule ^xem-video-(.*)\.(.*).html$ index.php [L]
+RewriteRule ^nghe-album-(.*)\.(.*).html$ index.php [L]
+RewriteRule ^the-loai-(.*)\.(.*).html$ index.php [L]
+RewriteRule ^video/the-loai-(.*)\.(.*).html$ index.php [L]
+RewriteRule ^upload.html$ upload_user.php [L]
+RewriteRule ^dieu-khoan.html$ info.php [L]
+RewriteRule ^lien-he.html$ contact.php [L]
+RewriteRule ^danh-sach-playlist.html$ playlist.php [L]
+RewriteRule ^top-de-cu.html$ decu.php [L]
+RewriteRule ^danh-sach-thanh-vien.html$ list_user.php [L]
+RewriteRule ^BXH/bai-hat/Viet-Nam.htm$ nghe_bxh.php [L]
+RewriteRule ^bai-hat/(.*)/(.*).html$ play_song.php?name=$1&id=$2 [L]
+RewriteRule ^video/(.*)/(.*).html$ play_video.php?name=$1&id=$2 [L]
+
+RewriteRule ^playlist/(.*)/(.*)-([0-9]+).html$ nghe_album.php?name=$1&id=$2&st=$3 [L]
+RewriteRule ^playlist/(.*)/(.*).html$ nghe_album.php?name=$1&id=$2 [L]
+
+RewriteRule ^the-loai-bai-hat/(.*)/(.*)-([0-9]+).html$ the_loai.php?name=$1&id=$2&p=$3 [L]
+RewriteRule ^the-loai-bai-hat/(.*)/(.*).html$ the_loai.php?name=$1&id=$2 [L]
+
+RewriteRule ^the-loai-album/(.*)/(.*)-([0-9]+).html$ album_cat.php?name=$1&id=$2&p=$3 [L]
+RewriteRule ^the-loai-album/(.*)/(.*).html$ album_cat.php?name=$1&id=$2 [L]
+
+RewriteRule ^the-loai-album/(.*)/(.*)-([0-9]+).html$ album_cat.php?name=$1&id=$2&p=$3 [L]
+RewriteRule ^the-loai-album/(.*)/(.*).html$ album_cat.php?name=$1&id=$2 [L]
+
+
+RewriteRule ^the-loai-video/(.*)/(.*)-([0-9]+).html$ cat_video.php?name=$1&id=$2&p=$3 [L]
+RewriteRule ^the-loai-video/(.*)/(.*).html$ cat_video.php?name=$1&id=$2 [L]
+
+RewriteRule ^danh_muc$ danh_muc.php [L]
+RewriteRule ^thong_tin$ thong_tin.php [L]
+RewriteRule ^login$ login.php [L]
+RewriteRule ^BXH/index.html$ bang-xep-hang.php [L]
+RewriteRule ^BXH/bai-hat/Viet-Nam.html$ bxh-song-vn.php [L]
+RewriteRule ^BXH/bai-hat/Au-My.html$ bxh-song-am.php [L]
+RewriteRule ^BXH/bai-hat/Han-Quoc.html$ bxh-song-hq.php [L]
+RewriteRule ^BXH/Video/Viet-Nam.html$ bxh-video-vn.php [L]
+RewriteRule ^BXH/Video/Au-My.html$ bxh-video-am.php [L]
+RewriteRule ^BXH/Video/Han-Quoc.html$ bxh-video-hq.php [L]
+RewriteRule ^BXH/Album/Viet-Nam.html$ bxh-album-vn.php [L]
+RewriteRule ^BXH/Album/Au-My.html$ bxh-album-am.php [L]
+RewriteRule ^BXH/Album/Han-Quoc.html$ bxh-album-hq.php [L]
+
+RewriteRule ^tim-kiem/bai-hat.html$ tim_kiem.php [L]
+RewriteRule ^tim-kiem/video.html$ tim_kiem_video.php [L]
+RewriteRule ^tim-kiem/playlist.html$ tim_kiem_playlist.php [L]
+RewriteRule ^tim-kiem.html$ tim_kiem.php [L]
+
+RewriteRule ^tim-kiem/404.html$ 404.php [L]
+RewriteRule ^the-loai/404.html$ 404.php [L]
+
+
+RewriteRule ^cpanel/music/upload/(.*).html$ user.php?act=music/upload&p=$1 [L]
+RewriteRule ^cpanel/video/upload/(.*).html$ user.php?act=video/upload&p=$1 [L]
+RewriteRule ^cpanel/music/edit-playlist/(.*).html$ user.php?act=music/edit-playlist&id=$1 [L]
+RewriteRule ^cpanel/(.*).html$ user.php?act=$1 [L]
+
+RewriteRule ^Album/(.*)/(.*).html$ album.php?act=$1&p=$2 [L]
+RewriteRule ^Album/(.*).html$ album.php?act=$1 [L]
+
+RewriteRule ^Playlist/(.*)/(.*).html$ playlist.php?act=$1&p=$2 [L]
+RewriteRule ^Playlist/(.*).html$ playlist.php?act=$1 [L]
+
+RewriteRule ^Video/Viet-Nam.html$ the-loai-video/Nhac-Viet-Nam/EZEFZOA.html [L]
+RewriteRule ^Video/Chau-A.html$ the-loai-video/Nhac-Han-Quoc/EZEFZUO.html [L]
+RewriteRule ^Video/Au-My.html$ the-loai-video/Nhac-Au-My/EZEFZUU.html [L]
+
+RewriteRule ^Song/Viet-Nam.html$ the-loai-bai-hat/Nhac-Viet-Nam/EZEFZOA.html [L]
+RewriteRule ^Song/Chau-A.html$ the-loai-bai-hat/Nhac-Han-Quoc/EZEFZUO.html [L]
+RewriteRule ^Song/Au-My.html$ the-loai-bai-hat/Nhac-Au-My/EZEFZUU.html [L]
+
+RewriteRule ^xml/2/(.*).xml$ xml/xml.php?id=$1 [L]
+RewriteRule ^xml/3/(.*).xml$ xml/xml-album.php?id=$1 [L]
+RewriteRule ^xml/5/playlist.xml$ xml/xml-playlist.php [L]
+RewriteRule ^xml/6/(.*).xml$ xml/bxh.php?name=$1 [L]
+
+RewriteRule ^xml/share-1/(.*).xml$ xml/xml-song-share.php?id=$1 [L]
+RewriteRule ^xml/share-2/(.*).xml$ xml/xml-album-share.php?id=$1 [L]
+
+RewriteRule ^Member/Thoat.html$ user/thoat.php [L]
+RewriteRule ^Member/(.*)/([0-9]+).html$ home_user.php?act=Z&user=$1&id=$2 [L]
+RewriteRule ^Member/(.*).html$ home_user.php?act=$1 [L]
+
+
+RewriteRule ^rss/(.*).rss$ rss.php?type=$1 [L]
+
+
+RewriteRule ^flash/video/(.*).swf$ http://topmtv.net/tgt_file/mp3player.swf?xmlURL=http://oner.vn/xml/share-1/$1.xml?autoplay=false&wmode=transparent [R=301,L]
+RewriteRule ^flash/mp3/(.*).swf$ http://topmtv.net/tgt_file/mp3player.swf?xmlURL=http://oner.vn/xml/share-1/$1.xml?autoplay=false&wmode=transparent [R=301,L]
+RewriteRule ^flash/album/(.*).swf$ http://topmtv.net/tgt_file/mp3playlist.swf?xmlURL=http://oner.vn/xml/share-2/$1.xml?autoplay=false&wmode=transparent [R=301,L]
+
+RewriteRule ^stream/data/z/2013/(.*).mp3$ get_link/zing.php?link=$1.html [L]
+RewriteRule ^stream/data/ns/2013/(.*).mp3$ get_link/nhacso.php?link=$1.html [L]
+RewriteRule ^stream/data/nsv/2013/(.*).mp4$ get_link/nhacso_video.php?link=$1.html [L]
+RewriteRule ^stream/data/vnn/2013/(.*).mp3$ get_link/vnn.php?link=$1.htm [L]
+RewriteRule ^stream/data/nct/2013/(.*).mp3$ get_link/nct.php?link=http://www.nhaccuatui.com/nghe?M=$1 [L]
+RewriteRule ^stream/data/nct2/2013/(.*).mp3$ get_link/nct.php?link=http://www.nhaccuatui.com/bai-hat/$1.html [L]
+RewriteRule ^stream/data/nctv/2013/(.*).mp4$ get_link/nct_video.php?link=http://www.nhaccuatui.com/mv/$1.html [L]
+RewriteRule ^stream/data/nv/2013/(.*)$ http://alovui.info/get_link/nhacvui.php?id=$1 [L]
+RewriteRule ^server-vzing/(.*)/(.*).mp4$ ./getlink/zing-channel.php?url=http://mp3.zing.vn/video-clip/$1/$2.html [L]
+
+RewriteRule ^stream/data/tvz/2013/(.*).mp4$ get_link/zing-tv.php?link=http://tv.zing.vn/video/$1.html [L]
+RewriteRule ^tvz/(.*).mp4$ get_link/zing-channel.php?link=http://mp3.zing.vn/tv/media/$1.html [L]
+RewriteRule ^stream/data/zip/2013/(.*)/(.*).flv$ get_link/zip.php?url=http://www$1.zippyshare.com/v/$2/file.html [L]
+RewriteRule ^nhac-server-nv/(.*)$ http://alovui.info/get_link/nhacvui.php?id=$1 [L]  
+RewriteRule ^content/(.*)/(.*).html$ gottalent.php?id=$2&name=$1 [L]
+RewriteRule ^blog/content.html$ list_news.php [L]
+RewriteRule ^content-(.*).html$ list_news.php?p=$1 [L]

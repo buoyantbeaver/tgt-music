@@ -1,0 +1,39 @@
+/* Reset
+------------------------------------------------------------------------*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, article, aside, hgroup, header, footer, figure, figcaption, nav, section { margin:0; padding:0; border:0; font-size:100%; vertical-align:baseline; line-height: 130% }
+article, aside, hgroup, header, footer, figure, figcaption, nav, section { display: block; }
+body {font-family:'돋움',Dotum,Helvetica,Verdana,Arial,sans-serif; color:#777; -webkit-text-size-adjust:none; font-size:12px; }
+ol, ul { list-style:none; }
+a:link, a:visited, a:hover, a,active, a:focus { text-decoration:none; cursor:pointer; color:#4d4d4d;}
+img, select, input, button { vertical-align:middle; }
+
+body{background:#E3E5E6;}
+
+
+
+
+/* content slide */
+div.content-slide{overflow:hidden;width:800px;height:272px;background:#FFF;border:1px solid #ccc; margin:40px auto;}
+div.content-slide > ul{float:left; width:73%;}
+div.content-slide > ul > li:first-child{display: block;}
+div.content-slide > ul > li > a > img{width:100%;}
+div.content-slide > ul.content-txt{float:right; text-align: left; width:27%;}
+div.content-slide > ul.content-txt > li{padding-left:23px; padding-right:1px; border-bottom:1px solid #e3e5e6; line-height:33px;}
+div.content-slide > ul.content-txt > li:last-child{border-bottom:0px;}
+div.content-slide > ul.content-txt > li.on{font-weight:bold;}
+
+
+/* slide show */
+div.slide-show{overflow:hidden; width:800px; height:422px; background:#FFF; margin:0 auto; position:relative;}
+div.slide-show > ul{float:left; width:100%;}
+div.slide-show > ul > li:first-child{display: block;}
+div.slide-show > ul > li > a > img{width:100%;}
+div.slide-show > div.slide_tab{position:absolute; bottom:32px; left:50%; width:766px; margin-left:-384px;}
+div.slide_tab > ul.slideshow-txt{overflow:hidden; border:1px solid #FFF;}
+div.slide_tab > ul.slideshow-txt > li{width:152px; height:32px; float:left; border-right:1px solid #FFF; text-align:center; padding-top:22px;}
+div.slide_tab > ul.slideshow-txt > li:last-child{border-right:0px;}
+div.slide_tab > ul.slideshow-txt > li.on{background:#FFF;}
+div.slide_tab > ul.slideshow-txt > li.on a{color:#ffaa24;}
+div.slide_tab > ul.slideshow-txt > li a{font-size:17px; color:#FFF;}
+
+

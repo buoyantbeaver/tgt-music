@@ -6,9 +6,9 @@
 	<li><a target="content" href="./control/media/library.php?mode=songs"><span class="audio"><?echo audio;?></span></a></li>
 	<li><a target="content" href="./control/media/library.php?mode=clip_music"><span class="videos"><?echo videos;?></span></a></li>
 	<li><a target="content" href="./control/media/library.php?mode=broken"><span class="brokenlist"><?echo brokenlist;?></span></a></li>
-	<li><a target="content" href="./control/media/library.php?mode=top_hot"><span>Danh Sách TOP đề cử</span></a></li>
-	<li><a target="content" href="./control/media/library.php?mode=hq"><span>D/s Nhạc 320kps</span></a></li>
-	<li><a target="content" href="./control/media/library.php?mode=mem_upload"><span>D/s Media Mem Upload</span></a></li>
+	<li><a target="content" href="./control/media/library.php?mode=top_hot"><span class="nomilist"><?echo nomilist;?></span></a></li>
+	<li><a target="content" href="./control/media/library.php?mode=hq"><span class="hiquamedia"><?echo hiquamedia;?></span></a></li>
+	<li><a target="content" href="./control/media/library.php?mode=mem_upload"><span class="usermedia"><?echo usermedia;?></span></a></li>
 	</ul>
 </li>
 <li>

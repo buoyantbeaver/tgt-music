@@ -10,7 +10,6 @@ define("home", "Home Site");
 ## Addmin Left Control Panel ##
 
 define("admincp", "Admin Control Panel");
-define("addsong", "Add New Song");
 define("songs", "Songs");
 define("categories", "Categories");
 define("genres", "Genres");
@@ -49,7 +48,10 @@ define("media", "Multimedia");
 define("library", "Media Library");
 define("audio", "Audio");
 define("videos", "Videos");
-define("brokenlist", "Broken Media List");
+define("nomilist", "Nominations");
+define("hiquamedia", "High-Quality Media");
+define("usermedia", "User Media");
+define("brokenlist", "Broken Media");
 define("findbyname", "Find by name");
 
 ## Adding New Media ##

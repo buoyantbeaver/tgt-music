@@ -52,8 +52,10 @@ function ondown(obj,url,cls){obj.className=cls; window.location=url;}
 						$oFCKeditor->Value = htmlspecialchars_decode($arrz[0][4]);
 						$oFCKeditor->Create() ;
 						?></td></tr>
-
-		<tr><td class="fr" align="center" colspan="2"><input class="sutm" type="submit" name="submit" value="Gửi Đi">  <input class="sutm" type="reset" value="Nhập Lại"></td></tr>
+		<tr><td class="fr" align="center" colspan="2">
+			<button class="btn btn-primary" type="submit" name="submit"><?echo submit;?></button>
+			<button class="btn btn-warning" type="reset"><?echo reset;?></button>
+		</td></tr>
 	</table>
 </form>
                 

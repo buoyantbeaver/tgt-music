@@ -25,6 +25,21 @@
 	font-size: inherit !important;
 }
 
+.nomilist::before {
+	content: "\f0cb";
+	font-size: inherit !important;
+}
+
+.hiquamedia::before {
+	content: "\f008";
+	font-size: inherit !important;
+}
+
+.usermedia::before {
+	content: "\f2bd";
+	font-size: inherit !important;
+}
+
 /* Adding New Media */
 
 .addnew::before {

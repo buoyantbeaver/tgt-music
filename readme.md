@@ -13,19 +13,26 @@
 	
 	<li><p>Admin entry translation</p>
 	<ol type="1">
-		<li>Media Library</li>
+		<li>Media Library [Finished]</li>
 		<li>Add New Media [on going]</li>
 	</ol>
 	</li>
 </ul>
 <h4>Admin component modifications</h4>
 <ul>
-	<li><p>Media Library</p>
+	<li><p>Media Library [Finished]</p>
+	</li>
+	
+	<li><p>Add New Media</p>
+	<ol type="1">
+		<li>Add A New Song [Finished]</li>
+		<li>Add Multiple Songs [on going]</li>
+	</ol>
 	</li>
 	
 	<li><p>Albums</p>
 	<ol type="1">
-		<li>Album List</li>
+		<li>Edit Album [on going]</li>
 	</ol>
 	</li>
 </ul>

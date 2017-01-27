@@ -5,14 +5,14 @@
 <h4>Admin Theme</h4>
 <ul>
 	<li><p>Responsive menu</p>
-	<ol>
+	<ol type="1">
 		<li>Sidebar on desktop, "hamburger" on mobile</li>
 		<li>Some entry icons</li>
 	</ol>
 	</li>
 	
 	<li><p>Admin components</p>
-	<ol>
+	<ol type="1">
 		<li>Media Library</li>
 		<li>Add New Media [on going]</li>
 	</ol>

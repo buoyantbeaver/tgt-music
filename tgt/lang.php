@@ -14,7 +14,6 @@ define("addsong", "Add New Song");
 define("songs", "Songs");
 define("categories", "Categories");
 define("genres", "Genres");
-define("albums", "Albums");
 define("authors", "Authors");
 define("servers", "Servers");
 define("artists", "Artists");
@@ -58,9 +57,11 @@ define("findbyname", "Find by name");
 define("addnewmedia", "Add New Media");
 define("addanewsong", "Add A New Song");
 define("addmultisongs", "Add Multiple Songs");
+define("howmanysongs", "How many songs do you want to add?");
 
 ## Albums ##
 
-define("howmanysongs", "How many songs do you want to add?");
+define("albums", "Albums");
+define("albumlist", "Album List");
 
 ?>

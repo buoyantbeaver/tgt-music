@@ -29,7 +29,7 @@
 <li>
 	<span class="albums"><?echo albums;?></span>
 	<ul>
-	<li><a target="content" href="./control/media/list_album.php"><span>Danh Sách Album</span></a></li>
+	<li><a target="content" href="./control/media/list_album.php"><span><?echo albumlist;?></span></a></li>
 	<li><a target="content" href="./control/media/list_album.php?mode=hot"><span>Danh Sách Album Hot</span></a></li>
 	<li><a target="content" href="./control/media/list_album.php?mode=tv"><span>D/s Album Member</span></a></li>
 	</ul>

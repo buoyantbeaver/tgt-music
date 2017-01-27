@@ -18,6 +18,16 @@
 	</ol>
 	</li>
 </ul>
-
+<h4>Admin component modifications</h4>
+<ul>
+	<li><p>Media Library</p>
+	</li>
+	
+	<li><p>Albums</p>
+	<ol type="1">
+		<li>Album List</li>
+	</ol>
+	</li>
+</ul>
 <h4>Admin Translation</h4>
 <p>Some English entries</p>

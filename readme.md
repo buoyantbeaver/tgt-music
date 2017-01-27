@@ -43,3 +43,4 @@
 </ul>
 <h4>Admin Translation</h4>
 <p>Some English entries</p>
+<h4>Move nomination files to folder "charts"</h4>

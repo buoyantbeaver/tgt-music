@@ -5,8 +5,8 @@
 #	email: ichphien_pro@yahoo.com	#
 #####################################
 define('TGT-MUSIC',true);
-include("./tgt/tgt_music.php");
-include("./tgt/class.inputfilter.php");
+include("../tgt/tgt_music.php");
+include("../tgt/class.inputfilter.php");
 $myFilter = new InputFilter();
 if(isset($_GET["act"])) $act = $myFilter->process($_GET['act']);
 $up = $tgtdb->databasetgt(" * ","cf"," cf_id = 4");
@@ -20,16 +20,16 @@ $up = $tgtdb->databasetgt(" * ","cf"," cf_id = 4");
 <meta name="title" content="Bảng xếp hạng video Việt Nam tháng <? echo date('m');?>" />
 <meta name="keywords" content="Bảng xếp hạng video Việt Nam tháng <? echo date('m');?>" />
 <meta name="description" content="Bảng xếp hạng video Việt Nam tháng <? echo date('m');?>" />
-<? include("./theme/ip_java.php");?>
+<? include("../theme/ip_java.php");?>
 </head>
 <body>
 <div id="main">
-	<? include("./theme/ip_header.php");?>
+	<? include("../theme/ip_header.php");?>
     <div id="contents"  class="contents_bg box">
 		<table width="100%" cellpadding="0" cellspacing="0" class="bxh_tgt_v4_5">
         	<tr>
                 <td width="120" valign="top">
-					<? include("./theme/ip_bxh.php");?>
+					<? include("../theme/ip_bxh.php");?>
                 </td>
                 <td width="530" style="padding:0px 5px; border-left: 1px solid #cfcfcf;" valign="top">
  <div class="bxh_title v_vn_ _bottom"><span>BXH</span> Video Việt Nam<a href="BXH/Video/Viet-Nam.html?act=play"><img class="right" src="temp/img/play.gif" border="0" /></a></div>
@@ -108,7 +108,7 @@ for($z=0;$z<count($arr_song);$z++) {
             </tr>
         </table> 
      </div>
-    <? include("./theme/ip_footer.php");?>
+    <? include("../theme/ip_footer.php");?>
 </div>
 </body>
 </html>

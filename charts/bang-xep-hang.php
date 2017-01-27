@@ -5,8 +5,8 @@
 #	email: ichphien_pro@yahoo.com	#
 #####################################
 define('TGT-MUSIC',true);
-include("./tgt/tgt_music.php");
-include("./tgt/cache.php");
+include("../tgt/tgt_music.php");
+include("../tgt/cache.php");
 $cache = new cache();
 if ( $cache->caching ) {
 ?>
@@ -20,11 +20,11 @@ if ( $cache->caching ) {
 <meta name="description" content="Danh sách bài hát hay, nghe nhiều nhất, video hot nhất, được đánh giá cao trong tuần từ các BXH âm nhạc uy tín nổi tiếng châu Á, Âu Mỹ và thế giới: TGT-music Top, MTV, Billboard, Soompi, Channel V" />
 <meta name="keywords" content="TGT 4.5,Bang xep hang, bxh, kenh am nhac, viet nam, the gioi, quoc te, tgt-music top, mtv, billboard, soompi, channel v" />
 <link rel="image_src" href="http://nhac.topgiaitri.com/images/tgt_mp3.jpg" />
-<? include("./theme/ip_java.php");?>
+<? include("../theme/ip_java.php");?>
 </head>
 <body>
 <div id="main">
-	<? include("./theme/ip_header.php");?>
+	<? include("../theme/ip_header.php");?>
     <div class="top_banner"><?=BANNER('top_banner_bxh','1006');?></div>
     <div id="contents"  class="contents_bg box" style="padding: 10px 22px 10px 23px;">
 		<table width="100%" cellpadding="0" cellspacing="0" class="bxh_tgt_v4_5">
@@ -72,7 +72,7 @@ if ( $cache->caching ) {
             </tr>			
         </table> 
      </div>
-    <? include("./theme/ip_footer.php");?>
+    <? include("../theme/ip_footer.php");?>
 </div>
 </body>
 </html>

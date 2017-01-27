@@ -11,10 +11,15 @@
 	</ol>
 	</li>
 	
+	<li><p>Admin entry icons</p>
+		<ol><li>See by yourself [won't be updating here]<li></ol>
+	</li>
+	
 	<li><p>Admin entry translation</p>
 	<ol type="1">
 		<li>Media Library [Finished]</li>
 		<li>Add New Media [on going]</li>
+		<li>Albums [on going]</li>
 	</ol>
 	</li>
 </ul>
